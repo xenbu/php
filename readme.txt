@@ -12,7 +12,7 @@
         content="HOKI88BOS adalah situs slot QRIS terbaik untuk mendaftarkan akun baru karena keunggulan fitur yang tersedia didalam situs begitu mudah dipahami oleh member baru." />
     <meta name="keywords" content="hoki88 bos, hoki88, HOKI88BOS, daftar hoki88bos, daftar slot qris, hoki88bos slot, slot qris, situs slot qris, deposit slot qris" />
     <link rel="shortcut icon" href="https://www.studiointermedia.com/images/2025/03/15/pavicon.png" />
-    <link rel="canonical" href="" />
+    <link rel="canonical" href="https://www.beshoffrestaurant.com/" />
     <link rel="amphtml" href="https://ampwakhoki.space/amp"/>
     <!-- sp:end-feature:head-start -->
     <!-- sp:feature:csm:head-open-part1 -->
