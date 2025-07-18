@@ -5,11 +5,11 @@
     var aPageStart = (new Date()).getTime();
   </script>
   <meta charset="utf-8" />
-  <meta name="title" content="TOTO123: Pengeluaran SGP Lengkap Dengan Data Result Singapore" />
-  <title>TOTO123: Pengeluaran SGP Lengkap Dengan Data Result Singapore</title>
-  <meta name="description" content="Toto123 memiliki pengeluaran sgp lengkap yang dapat kalian baca data result Singapore di website resmi sgp pools toto123 terpercaya hari ini." />
-  <link rel="canonical" href="https://britearchdentistry.com/" />
-  <link rel="amphtml" href="https://pilihyangini.store/amp/" />
+  <meta name="title" content="TOTO123: Data SGP Prize Dengan Pengeluaran Togel Singapore Terpercaya" />
+  <title>TOTO123: Data SGP Prize Dengan Pengeluaran Togel Singapore Terpercaya</title>
+  <meta name="description" content="Toto123 memiliki data sgp prize dengan pengeluaran togel Singapore bisa kalian lihat angka unik serta prediksi jitu nya yang pastinya terpercaya." />
+  <link rel="canonical" href="https://lahorikababrestaurant.com/" />
+  <link rel="amphtml" href="https://langsunggas.store/amp/" />
 
   <!-- sp:end-feature:head-start -->
   <!-- sp:feature:csm:head-open-part1 -->
@@ -3373,7 +3373,7 @@
             </script>
           </div>
         </div>
-        <div id='nav-main' class='nav-sprite' style="background-color: #ff1100;">
+        <div id='nav-main' class='nav-sprite' style="background-color: #000000;">
           <div class='nav-fill'>
             <div id="nav-shop">
             </div>
@@ -3382,10 +3382,10 @@
                 <script type="text/javascript">
                   window.navmet.tmp = +new Date();
                 </script>
-                <a href="https://britearchdentistry.com/" class="nav-a  " tabindex="0"
+                <a href="https://lahorikababrestaurant.com/" class="nav-a  " tabindex="0"
                   data-csa-c-type="link" data-csa-c-slot-id="nav_cs_0"
                   data-csa-c-content-id="nav_cs_bestsellers">TOTO123</a>
-                <a href="https://britearchdentistry.com/" class="nav-a  " tabindex="0" data-csa-c-type="link"
+                <a href="https://lahorikababrestaurant.com/" class="nav-a  " tabindex="0" data-csa-c-type="link"
                   data-csa-c-slot-id="nav_cs_2" data-csa-c-content-id="nav_cs_gb">SLOT ONLINE TERPERCAYA</a>
                 <script
                   type="text/javascript">
@@ -3405,25 +3405,25 @@
             window.navmet.tmp = +new Date();
           </script>
           <div id='nav-subnav' data-category="amazon-home">
-              <a href="https://britearchdentistry.com/"
+              <a href="https://lahorikababrestaurant.com/"
                   class="nav-a nav-b" aria-label="Amazon devices">
                   <span class="nav-a-content">
                       Situs Toto Slot
                   </span>
               </a>
-              <a href="https://britearchdentistry.com/"
+              <a href="https://lahorikababrestaurant.com/"
                   class="nav-a" aria-label="Echo & Alexa">
                   <span class="nav-a-content">
                       Situs Slot Gacor
                   </span>
               </a>
-              <a href="https://britearchdentistry.com/"
+              <a href="https://lahorikababrestaurant.com/"
                   class="nav-a" aria-label="Kindle E-Reader">
                   <span class="nav-a-content">
                       Slot Gacor Deposit 5000
                   </span>
               </a>
-              <a href="https://britearchdentistry.com/" class="nav-a" aria-label="Fire TV">
+              <a href="https://lahorikababrestaurant.com/" class="nav-a" aria-label="Fire TV">
                   <span class="nav-a-content">
                       Toto123
                   </span>
@@ -3471,7 +3471,7 @@
               "name": "flyoutError",
               "data": {
                 "error": {
-                  "title": "<style>#nav-flyout-fresh{width:269px;padding:0;}#nav-flyout-fresh .nav-flyout-content{padding:0;}</style><a href='https://britearchdentistry.com/'><img src='https://images-na.ssl-images-amazon.com/images/G/01/omaha/images/yoda/flyout_72dpi._V270255989_.png' /></a>"
+                  "title": "<style>#nav-flyout-fresh{width:269px;padding:0;}#nav-flyout-fresh .nav-flyout-content{padding:0;}</style><a href='https://lahorikababrestaurant.com/'><img src='https://images-na.ssl-images-amazon.com/images/G/01/omaha/images/yoda/flyout_72dpi._V270255989_.png' /></a>"
                 }
               }
             }
@@ -3496,7 +3496,7 @@
               "name": "flyoutError",
               "data": {
                 "error": {
-                  "title": "<a href='https://britearchdentistry.com/'><img src='https://images-na.ssl-images-amazon.com/images/G/15/prime/yourprime/yourprime-client-fallback._V316467452_.png' /></a>"
+                  "title": "<a href='https://lahorikababrestaurant.com/'><img src='https://images-na.ssl-images-amazon.com/images/G/15/prime/yourprime/yourprime-client-fallback._V316467452_.png' /></a>"
                 }
               }
             }
@@ -4468,7 +4468,7 @@
       });
     </script>
     <script type="text/javascript">
-      var iUrl = "https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg";
+      var iUrl = "https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png";
       (function() {
         var i = new Image;
         i.src = iUrl;
@@ -5047,7 +5047,7 @@
                                 <div id="mars-fs-subnav-helper" style="background-color: #B3B3B3;">
                                     <div id="mars-fs-border-top"></div>
                                     <span class="subnav-home">
-                                        <a class="a-link-normal fs-links" href="https://britearchdentistry.com/">
+                                        <a class="a-link-normal fs-links" href="https://lahorikababrestaurant.com/">
                                             <span id="mars-fs-name" class="a-size-base-plus a-color-base a-text-bold">
                                               TOTO123
                                             </span>
@@ -5058,7 +5058,7 @@
                                         data-csa-c-func-deps="aui-da-mars-fs-hover" data-mars-fs-hover="{}">
                                        <span class="subnav-link-wrapper">
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
-                                                href="https://britearchdentistry.com/">
+                                                href="https://lahorikababrestaurant.com/">
                                                 <span class="a-size-base-plus a-color-base">
                                                   TOTO SLOT
                                                 </span>
@@ -5072,7 +5072,7 @@
                                         data-csa-c-func-deps="aui-da-mars-fs-hover" data-mars-fs-hover="{}">
                                         <span class="subnav-link-wrapper">
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
-                                                href="https://britearchdentistry.com/">
+                                                href="https://lahorikababrestaurant.com/">
                                                 <span class="a-size-base-plus a-color-base">
                                                   SLOT GACOR
                                                 </span>
@@ -5195,7 +5195,7 @@
               data-csa-c-is-in-initial-active-row="false">
               <span class="a-declarative" data-action="ssf-share-icon" data-csa-c-type="widget"
                 data-csa-c-func-deps="aui-da-ssf-share-icon"
-                data-ssf-share-icon="{&quot;treatment&quot;:&quot;C&quot;,&quot;image&quot;:&quot;https://m.media-amazon.com/images/I/31DQNq2hBhL.jpg&quot;,&quot;eventPreviewTreatment&quot;:&quot;C&quot;,&quot;shareDataAttributes&quot;:{&quot;marketplaceId&quot;:&quot;A39IBJ37TRP1C6&quot;,&quot;isInternal&quot;:false,&quot;ingress&quot;:&quot;DetailPage&quot;,&quot;isRobot&quot;:false,&quot;requestId&quot;:&quot;90G9DFKSFRKCQZ4KHD88&quot;,&quot;customerId&quot;:&quot;&quot;,&quot;asin&quot;:&quot;B0DG4WZZPV&quot;,&quot;userAgent&quot;:&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36&quot;,&quot;platform&quot;:&quot;DESKTOP&quot;},&quot;deeplinkInfo&quot;:{&quot;flag&quot;:0,&quot;isDisabled&quot;:false},&quot;isOGTEnabled&quot;:false,&quot;aapiBaseUrl&quot;:&quot;data.amazon.com.au&quot;,&quot;title&quot;:&quot;TOTO123: Pengeluaran SGP Lengkap Dengan Data Result Singapore&quot;,&quot;refererURL&quot;:&quot;&quot;,&quot;storeId&quot;:&quot;&quot;,&quot;emailSubject&quot;:&quot;Check this out at Amazon&quot;,&quot;isIncrementCountEnabled&quot;:false,&quot;url&quot;:&quot;https://www.amazon.com.au/dp/B0DG4WZZPV&quot;,&quot;dealsPreviewEnabled&quot;:false,&quot;skipTwisterAPI&quot;:&quot;C&quot;,&quot;isUnrecognizedUsersRichPreviewEnabled&quot;:true,&quot;t&quot;:{&quot;taf_twitter_name&quot;:&quot;Twitter&quot;,&quot;taf_copy_url_changeover&quot;:&quot;Link copied!&quot;,&quot;taf_pinterest_name&quot;:&quot;Pinterest&quot;,&quot;taf_share_bottom_sheet_title&quot;:&quot;Share this product with friends&quot;,&quot;taf_copy_tooltip&quot;:&quot;Copy Link&quot;,&quot;taf_email_tooltip&quot;:&quot;Share via e-mail&quot;,&quot;taf_copy_name&quot;:&quot;Copy Link&quot;,&quot;taf_email_name&quot;:&quot;Email&quot;,&quot;taf_facebook_name&quot;:&quot;Facebook&quot;,&quot;taf_twitter_tooltip&quot;:&quot;Share on Twitter&quot;,&quot;taf_facebook_tooltip&quot;:&quot;Share on Facebook&quot;,&quot;taf_pinterest_tooltip&quot;:&quot;Pin it on Pinterest&quot;},&quot;isBestFormatEnabled&quot;:false,&quot;weblab&quot;:&quot;SHARE_ICON_EXPERIMENT_DESKTOP_671038&quot;,&quot;mailToUri&quot;:&quot;mailto:?body=I%20would%20like%20to%20recommend%20this%20product%20at%20Amazon%0A%0AAmazon%20eero%206%2B%20dual-band%20mesh%20Wi-Fi%206%20router%20%2B%202%20Echo%20Dot%20(5th%20Gen)%20Charcoal%0AMore%20information%3A%20https%3A%2F%2Fwww.amazon.com.au%2Fdp%2FB0DG4WZZPV%2Fref%3Dcm_sw_em_r_mt_dp_90G9DFKSFRKCQZ4KHD88&amp;subject=Check%20this%20out%20at%20Amazon&quot;,&quot;refId&quot;:&quot;dp&quot;,&quot;isIpadFixesEnabled&quot;:false,&quot;shareAapiCsrfToken&quot;:&quot;1@gxppFc1H0NHB5Np6blTOnuGM8kewa8oUJ8p0zlVN6uE9AAAAAQAAAABnKu6wcmF3AAAAABVX8CwXqz42z+J7i/ABqA==@NLD_B6R8RN&quot;,&quot;tinyUrlEnabled&quot;:true}"
+                data-ssf-share-icon="{&quot;treatment&quot;:&quot;C&quot;,&quot;image&quot;:&quot;https://m.media-amazon.com/images/I/31DQNq2hBhL.jpg&quot;,&quot;eventPreviewTreatment&quot;:&quot;C&quot;,&quot;shareDataAttributes&quot;:{&quot;marketplaceId&quot;:&quot;A39IBJ37TRP1C6&quot;,&quot;isInternal&quot;:false,&quot;ingress&quot;:&quot;DetailPage&quot;,&quot;isRobot&quot;:false,&quot;requestId&quot;:&quot;90G9DFKSFRKCQZ4KHD88&quot;,&quot;customerId&quot;:&quot;&quot;,&quot;asin&quot;:&quot;B0DG4WZZPV&quot;,&quot;userAgent&quot;:&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36&quot;,&quot;platform&quot;:&quot;DESKTOP&quot;},&quot;deeplinkInfo&quot;:{&quot;flag&quot;:0,&quot;isDisabled&quot;:false},&quot;isOGTEnabled&quot;:false,&quot;aapiBaseUrl&quot;:&quot;data.amazon.com.au&quot;,&quot;title&quot;:&quot;TOTO123: Data SGP Prize Dengan Pengeluaran Togel Singapore Terpercaya&quot;,&quot;refererURL&quot;:&quot;&quot;,&quot;storeId&quot;:&quot;&quot;,&quot;emailSubject&quot;:&quot;Check this out at Amazon&quot;,&quot;isIncrementCountEnabled&quot;:false,&quot;url&quot;:&quot;https://www.amazon.com.au/dp/B0DG4WZZPV&quot;,&quot;dealsPreviewEnabled&quot;:false,&quot;skipTwisterAPI&quot;:&quot;C&quot;,&quot;isUnrecognizedUsersRichPreviewEnabled&quot;:true,&quot;t&quot;:{&quot;taf_twitter_name&quot;:&quot;Twitter&quot;,&quot;taf_copy_url_changeover&quot;:&quot;Link copied!&quot;,&quot;taf_pinterest_name&quot;:&quot;Pinterest&quot;,&quot;taf_share_bottom_sheet_title&quot;:&quot;Share this product with friends&quot;,&quot;taf_copy_tooltip&quot;:&quot;Copy Link&quot;,&quot;taf_email_tooltip&quot;:&quot;Share via e-mail&quot;,&quot;taf_copy_name&quot;:&quot;Copy Link&quot;,&quot;taf_email_name&quot;:&quot;Email&quot;,&quot;taf_facebook_name&quot;:&quot;Facebook&quot;,&quot;taf_twitter_tooltip&quot;:&quot;Share on Twitter&quot;,&quot;taf_facebook_tooltip&quot;:&quot;Share on Facebook&quot;,&quot;taf_pinterest_tooltip&quot;:&quot;Pin it on Pinterest&quot;},&quot;isBestFormatEnabled&quot;:false,&quot;weblab&quot;:&quot;SHARE_ICON_EXPERIMENT_DESKTOP_671038&quot;,&quot;mailToUri&quot;:&quot;mailto:?body=I%20would%20like%20to%20recommend%20this%20product%20at%20Amazon%0A%0AAmazon%20eero%206%2B%20dual-band%20mesh%20Wi-Fi%206%20router%20%2B%202%20Echo%20Dot%20(5th%20Gen)%20Charcoal%0AMore%20information%3A%20https%3A%2F%2Fwww.amazon.com.au%2Fdp%2FB0DG4WZZPV%2Fref%3Dcm_sw_em_r_mt_dp_90G9DFKSFRKCQZ4KHD88&amp;subject=Check%20this%20out%20at%20Amazon&quot;,&quot;refId&quot;:&quot;dp&quot;,&quot;isIpadFixesEnabled&quot;:false,&quot;shareAapiCsrfToken&quot;:&quot;1@gxppFc1H0NHB5Np6blTOnuGM8kewa8oUJ8p0zlVN6uE9AAAAAQAAAABnKu6wcmF3AAAAABVX8CwXqz42z+J7i/ABqA==@NLD_B6R8RN&quot;,&quot;tinyUrlEnabled&quot;:true}"
                 id="ssf-primary-widget-desktop">
                 <div class="ssf-background ssf-bg-count" role="button">
                   <a href="javascript:void(0)" class="ssf-share-trigger" title="Share" role="button"
@@ -5577,13 +5577,13 @@
                                   data-csa-c-func-deps="aui-da-main-image-click"
                                   data-main-image-click="{}" data-ux-click="">
                                   <div id="imgTagWrapperId" class="imgTagWrapper">
-                                    <img alt="TOTO123: Pengeluaran SGP Lengkap Dengan Data Result Singapore"
-                                      src="https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg"
-                                      data-old-hires="https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg"
+                                    <img alt="TOTO123: Data SGP Prize Dengan Pengeluaran Togel Singapore Terpercaya"
+                                      src="https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png"
+                                      data-old-hires="https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png"
                                       onload="markFeatureRenderForImageBlock(); if(this.width/this.height > 1.0){this.className += ' a-stretch-horizontal'}else{this.className += ' a-stretch-vertical'};this.onload='';setCSMReq('af');if(typeof addlongPoleTag === 'function'){ addlongPoleTag('af','desktop-image-atf-marker');};setCSMReq('cf')"
                                       data-a-image-name="landingImage"
                                       class="a-dynamic-image" id="landingImage"
-                                      data-a-dynamic-image="{&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg&quot;:[450,450],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg&quot;:[679,679],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg&quot;:[425,425],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg&quot;:[466,466],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg&quot;:[522,522],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg&quot;:[569,569],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg&quot;:[355,355]}"
+                                      data-a-dynamic-image="{&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png&quot;:[450,450],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png&quot;:[679,679],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png&quot;:[425,425],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png&quot;:[466,466],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png&quot;:[522,522],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png&quot;:[569,569],&quot;https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png&quot;:[355,355]}"
                                       style="max-width:679px;max-height:679px;" />
                                   </div>
                                 </span>
@@ -5702,8 +5702,8 @@
                     'notShowVideoCount': false,
                     'colorImages': {
                       'initial': [{
-                        "hiRes": "https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg",
-                        "thumb": "https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg",
+                        "hiRes": "https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png",
+                        "thumb": "https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png",
                         "large": "https://m.media-amazon.com/images/I/31DQNq2hBhL._AC_.jpg",
                         "main": {
                           "https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY355_.jpg": [355, 355],
@@ -6345,7 +6345,7 @@
               </style>
               <div id="titleSection" class="a-section a-spacing-none">
                 <h1 id="title" class="a-size-large a-spacing-none"> <span id="productTitle"
-                    class="a-size-large product-title-word-break"> TOTO123: Pengeluaran SGP Lengkap Dengan Data Result Singapore </span> </h1>
+                    class="a-size-large product-title-word-break"> TOTO123: Data SGP Prize Dengan Pengeluaran Togel Singapore Terpercaya </span> </h1>
                 <div id="expandTitleToggle" class="a-section a-spacing-none expand aok-hidden"></div>
               </div>
             </div>
@@ -6355,7 +6355,7 @@
               data-csa-c-is-in-initial-active-row="false">
               <!--This check is an indicator on whether to show the Premium Fashion brand logo byline regardless of weblab treatment-->
               <div class="a-section a-spacing-none"> <a id="bylineInfo" class="a-link-normal"
-                  href="https://britearchdentistry.com/">Brand:
+                  href="https://lahorikababrestaurant.com/">Brand:
                   TOTO123</a>
               </div>
             </div>
@@ -7012,7 +7012,7 @@
                     <div id="variation_configuration" class="a-section a-spacing-small">
                       <div class="a-row a-spacing-micro singleton"> <label class="a-form-label">
                           Configuration:
-                        </label> <a href="https://britearchdentistry.com/"><span class="selection">TOTO123</span></a>
+                        </label> <a href="https://lahorikababrestaurant.com/"><span class="selection">TOTO123</span></a>
                       </div>
                     </div>
                   </form>
@@ -22617,19 +22617,18 @@
               
 
 
-              <h1>TOTO123: Pengeluaran SGP Lengkap Dengan Data Result Singapore</h1>
+              <h1>TOTO123: Data SGP Prize Dengan Pengeluaran Togel Singapore Terpercaya</h1>
     
-    <p><strong><a href="https://britearchdentistry.com/" target="_blank">Toto123</a></strong> memiliki pengeluaran sgp lengkap yang dapat kalian baca data result Singapore di website resmi sgp pools toto123 terpercaya hari ini.</p>
+    <p><strong><a href="https://lahorikababrestaurant.com/" target="_blank">Toto123</a></strong> memiliki data sgp prize dengan pengeluaran togel Singapore bisa kalian lihat angka unik serta prediksi jitu nya yang pastinya terpercaya.</p>
     
     
 
 
 
-</div>
-             <div class="pdp-mod-product-badge-wrapper">
-              <div style="display: flex; width: 100%;margin-bottom:10px;margin-top:10px;">
-                <a href="https://mbrew.site/slebew/toto123.html" target="_blank" style="flex: 1; background-color: #ff1100; color: rgb(255, 255, 255); border: none; padding: 10px; cursor: pointer; font-size: 16px; text-align: center;"> LOGIN BERSAMA TOTO123</a>
-            </div>
+          <div style="display: flex; width: 100%;margin-bottom:10px;margin-top:10px;">
+                  <a href="https://mbrew.site/slebew/toto123.html" target="_blank" style="flex: 1; background-color: #ffd700; color: rgb(255, 255, 255); border: none; padding: 10px; cursor: pointer; font-size: 16px; text-align: center;"> LOGIN </a>
+                  <a href="https://mbrew.site/slebew/toto123.html" target="_blank" style="flex: 1; background-color: #ff8800; color: rgb(255, 255, 255); border: none; padding: 10px; cursor: pointer; font-size: 16px; text-align: center;"> DAFTAR </a>
+              </div>
 
 
 
@@ -22823,7 +22822,7 @@
                   ue.count('DPIBBTFRegisterTime', window.parseInt(performance.now()));
                 }
                 var data = {};
-                var obj = jQuery.parseJSON('{"dataInJson":null,"alwaysIncludeVideo":true,"autoplayVideo":false,"defaultColor":"initial","mainImageSizes":[["355","355"],["450","450"],["425","550"],["466","606"],["522","679"],["569","741"],["679","879"]],"maxAlts":7,"altsOnLeft":true,"productGroupID":"amazon_home_display_on_website","lazyLoadExperienceDisabled":true,"lazyLoadExperienceOnHoverDisabled":false,"useChromelessVideoPlayer":false,"colorToAsin":{"Deep Sea Blue Echo Dot":{"asin":"B09B8TGJST"},"Charcoal 2 Echo Dot with eero 6+":{"asin":"B0DG4WZZPV"},"Deep Sea Blue 2 Echo Dot with eero 6+":{"asin":"B0DFW9L9V2"},"Glacier White Echo Dot":{"asin":"B09B8VHBH1"},"Glacier White 2 Echo Dot with eero 6+":{"asin":"B0DG4QQDJY"},"Charcoal Echo Dot":{"asin":"B09B8YP8KY"}},"refactorEnabled":true,"useIV":true,"tabletWeb":false,"views":["ImageBlockMagnifierView","ImageBlockAltImageView","ImageBlockVideoView","ImageBlockTwisterView","ImageBlockImmersiveViewImages","ImageBlockImmersiveViewVideos","ImageBlockImmersiveViewDimensionIngress","ImageBlockImmersiveViewShowroom","ImageBlockImmersiveView360","ImageBlockTabbedImmersiveView","ImageBlockShoppableSceneView"],"enhancedHoverOverlay":false,"landingAsinColor":"Charcoal 2 Echo Dot with eero 6+","colorImages":{"Deep Sea Blue Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51Ih-Qw2tYL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51Ih-Qw2tYL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/51M4CUKCYvL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51M4CUKCYvL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SY450_.jpg":["450","450"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}],"Charcoal 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31DQNq2hBhL._AC_.jpg","thumb":"https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg","hiRes":"https://www.studiointermedia.com/images/2025/07/18/TOTO123-2.jpeg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY355_.jpg":["355","355"]}}],"Deep Sea Blue 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_US40_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_.jpg":["500","500"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SX466_.jpg":["466","466"]}}],"Glacier White Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51PKUZ53+AL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51PKUZ53+AL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/51C1f2zivTL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51C1f2zivTL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SY450_.jpg":["450","450"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}],"Glacier White 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_US40_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_.jpg":["500","500"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SY450_.jpg":["450","450"]}}],"Charcoal Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51gMN9QKOlL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51gMN9QKOlL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/51lUym-OXcL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51lUym-OXcL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}]},"heroImages":{"Deep Sea Blue Echo Dot":[],"Charcoal 2 Echo Dot with eero 6+":[],"Deep Sea Blue 2 Echo Dot with eero 6+":[],"Glacier White Echo Dot":[],"Glacier White 2 Echo Dot with eero 6+":[],"Charcoal Echo Dot":[]},"enable360Map":{},"staticImages":{"hoverZoomIcon":null,"shoppableSceneViewProductsButton":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/view_products._CB403827034_.svg","zoomLensBackground":"https://m.media-amazon.com/images/G/35/apparel/rcxgs/tile._CB483369938_.gif","shoppableSceneDotHighlighted":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/dot_highlighted._CB612066737_.svg","zoomInCur":null,"shoppableSceneSideSheetClose":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/close_x_white._CB416329031_.png","shoppableSceneBackToTopArrow":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/back_to_top_arrow._CB403827034_.svg","arrow":null,"icon360V2":null,"zoomIn":null,"zoomOut":null,"videoThumbIcon":null,"spinnerNoLabel":"https://m.media-amazon.com/images/G/35/ui/loadIndicators/loading-large._CB485945337_.gif","zoomOutCur":null,"videoSWFPath":null,"grabbing":null,"shoppableSceneDot":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/dot._CB612066675_.svg","icon360":null,"grab":null,"spinner":null},"staticStrings":{"dragToSpin":null,"videos":"Videos","video":"video","shoppableSceneTabsTitleT3":"Shop the collection","shoppableSceneTabsTitle":"Shop similar items","shoppableSceneTabsTitleT2":"Shop this style ","rollOverToZoom":"Roll over image to zoom in","singleVideo":"VIDEO","clickSceneTagsToShopProducts":"Click on the dots to view similar items","close":"Close","shoppableSceneViewProductsButton":"Shop similar items","images":"Images","watchMoreVideos":"Click to see more videos","shoppableSceneViewProductsButtonT2":"Shop this style ","shoppableSceneViewProductsButtonT1":"Shop the look","shoppableSceneViewProductsButtonT3":"Shop the collection","allMedia":"All Media","clickToExpand":"Click on the image to open expanded view","shoppableSceneTabsTitleT1":"Shop the look","playVideo":"Click to play video","shoppableSceneNoSuggestions":"No results available","touchToZoom":"Touch the image to zoom in","multipleVideos":"VIDEOS","shoppableSceneSeeMoreString":"See more","pleaseSelect":"Please select","clickToZoom":"Click on image to zoom in"},"useChildVideos":true,"useClickZoom":false,"useHoverZoom":true,"useHoverZoomIpad":false,"visualDimensions":["color_name","configuration"],"mainImageHeightPartitions":null,"mainImageMaxSizes":null,"heroFocalPoint":null,"showMagnifierOnHover":false,"disableHoverOnAltImages":false,"overrideAltImageClickAction":false,"naturalMainImageSize":null,"imgTagWrapperClasses":null,"prioritizeVideos":false,"usePeekHover":false,"fadeMagnifier":false,"repositionHeroImage":false,"heroVideoVariant":null,"videos":[],"title":"TOTO123: Pengeluaran SGP Lengkap Dengan Data Result Singapore","airyConfigEnabled":false,"airyConfig":null,"vseVideoDataSourceTreatment":"T1","mediaAsin":"B0DG4WZZPV","parentAsin":"B0BF75VM4T","largeSCLVideoThumbnail":false,"displayVideoBanner":false,"useVSEVideos":true,"notShowVideoCount":false,"enableS2WithoutS1":false,"useTabbedImmersiveView":true,"dpRequestId":"90G9DFKSFRKCQZ4KHD88","contentWeblab":"","contentWeblabTreatment":"","dp60VideoThumbMap":null,"videoBackgroundChromefulMainView":"black"}');
+                var obj = jQuery.parseJSON('{"dataInJson":null,"alwaysIncludeVideo":true,"autoplayVideo":false,"defaultColor":"initial","mainImageSizes":[["355","355"],["450","450"],["425","550"],["466","606"],["522","679"],["569","741"],["679","879"]],"maxAlts":7,"altsOnLeft":true,"productGroupID":"amazon_home_display_on_website","lazyLoadExperienceDisabled":true,"lazyLoadExperienceOnHoverDisabled":false,"useChromelessVideoPlayer":false,"colorToAsin":{"Deep Sea Blue Echo Dot":{"asin":"B09B8TGJST"},"Charcoal 2 Echo Dot with eero 6+":{"asin":"B0DG4WZZPV"},"Deep Sea Blue 2 Echo Dot with eero 6+":{"asin":"B0DFW9L9V2"},"Glacier White Echo Dot":{"asin":"B09B8VHBH1"},"Glacier White 2 Echo Dot with eero 6+":{"asin":"B0DG4QQDJY"},"Charcoal Echo Dot":{"asin":"B09B8YP8KY"}},"refactorEnabled":true,"useIV":true,"tabletWeb":false,"views":["ImageBlockMagnifierView","ImageBlockAltImageView","ImageBlockVideoView","ImageBlockTwisterView","ImageBlockImmersiveViewImages","ImageBlockImmersiveViewVideos","ImageBlockImmersiveViewDimensionIngress","ImageBlockImmersiveViewShowroom","ImageBlockImmersiveView360","ImageBlockTabbedImmersiveView","ImageBlockShoppableSceneView"],"enhancedHoverOverlay":false,"landingAsinColor":"Charcoal 2 Echo Dot with eero 6+","colorImages":{"Deep Sea Blue Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51Ih-Qw2tYL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51Ih-Qw2tYL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61SUpQtUo8L._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/51M4CUKCYvL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51M4CUKCYvL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61ZsZ3kOZSL._AC_SY450_.jpg":["450","450"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}],"Charcoal 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31DQNq2hBhL._AC_.jpg","thumb":"https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png","hiRes":"https://www.studiointermedia.com/images/2025/07/18/TOTO123-3.png","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51FLBrJ+VcL._AC_SY355_.jpg":["355","355"]}}],"Deep Sea Blue 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_US40_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_.jpg":["500","500"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/31UsBRPqELL._AC_SX466_.jpg":["466","466"]}}],"Glacier White Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51PKUZ53+AL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51PKUZ53+AL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/614m3ZDhiaL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/51C1f2zivTL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51C1f2zivTL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/71W2eDGsAJL._AC_SY450_.jpg":["450","450"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}],"Glacier White 2 Echo Dot with eero 6+":[{"large":"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_US40_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_.jpg":["500","500"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/31YzLPWE1+L._AC_SY450_.jpg":["450","450"]}}],"Charcoal Echo Dot":[{"large":"https://m.media-amazon.com/images/I/51gMN9QKOlL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51gMN9QKOlL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SL1000_.jpg","variant":"LEFT","main":{"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/6176qb1nuYL._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/51lUym-OXcL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/51lUym-OXcL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL1000_.jpg","variant":"MAIN","main":{"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SX569_.jpg":["569","569"]}},{"large":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41twOW1hMpL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SL1000_.jpg","variant":"PT01","main":{"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/51-A6wXntrL._AC_SX522_.jpg":["522","522"]}},{"large":"https://m.media-amazon.com/images/I/419tViZriBL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/419tViZriBL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SL1000_.jpg","variant":"PT02","main":{"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61E80QtGeCL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41u2nqtP8ML._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SL1000_.jpg","variant":"PT03","main":{"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX355_.jpg":["350","355"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX569_.jpg":["560","569"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX450_.jpg":["443","450"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX522_.jpg":["514","522"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX679_.jpg":["669","679"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX425_.jpg":["419","425"],"https://m.media-amazon.com/images/I/614JLixiZZL._AC_SX466_.jpg":["459","466"]}},{"large":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41vAY6E0JLL._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SL1000_.jpg","variant":"PT04","main":{"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY355_.jpg":["355","355"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61bL3bcaoeL._AC_SX425_.jpg":["425","425"]}},{"large":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_.jpg","thumb":"https://m.media-amazon.com/images/I/41qIg8mVN6L._AC_US40_.jpg","hiRes":"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SL1000_.jpg","variant":"PT05","main":{"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX466_.jpg":["466","466"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX425_.jpg":["425","425"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX522_.jpg":["522","522"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX679_.jpg":["679","679"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY450_.jpg":["450","450"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SX569_.jpg":["569","569"],"https://m.media-amazon.com/images/I/61tkIVVy5mL._AC_SY355_.jpg":["355","355"]}}]},"heroImages":{"Deep Sea Blue Echo Dot":[],"Charcoal 2 Echo Dot with eero 6+":[],"Deep Sea Blue 2 Echo Dot with eero 6+":[],"Glacier White Echo Dot":[],"Glacier White 2 Echo Dot with eero 6+":[],"Charcoal Echo Dot":[]},"enable360Map":{},"staticImages":{"hoverZoomIcon":null,"shoppableSceneViewProductsButton":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/view_products._CB403827034_.svg","zoomLensBackground":"https://m.media-amazon.com/images/G/35/apparel/rcxgs/tile._CB483369938_.gif","shoppableSceneDotHighlighted":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/dot_highlighted._CB612066737_.svg","zoomInCur":null,"shoppableSceneSideSheetClose":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/close_x_white._CB416329031_.png","shoppableSceneBackToTopArrow":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/back_to_top_arrow._CB403827034_.svg","arrow":null,"icon360V2":null,"zoomIn":null,"zoomOut":null,"videoThumbIcon":null,"spinnerNoLabel":"https://m.media-amazon.com/images/G/35/ui/loadIndicators/loading-large._CB485945337_.gif","zoomOutCur":null,"videoSWFPath":null,"grabbing":null,"shoppableSceneDot":"https://m.media-amazon.com/images/G/35/shopbylook/shoppable-images/dot._CB612066675_.svg","icon360":null,"grab":null,"spinner":null},"staticStrings":{"dragToSpin":null,"videos":"Videos","video":"video","shoppableSceneTabsTitleT3":"Shop the collection","shoppableSceneTabsTitle":"Shop similar items","shoppableSceneTabsTitleT2":"Shop this style ","rollOverToZoom":"Roll over image to zoom in","singleVideo":"VIDEO","clickSceneTagsToShopProducts":"Click on the dots to view similar items","close":"Close","shoppableSceneViewProductsButton":"Shop similar items","images":"Images","watchMoreVideos":"Click to see more videos","shoppableSceneViewProductsButtonT2":"Shop this style ","shoppableSceneViewProductsButtonT1":"Shop the look","shoppableSceneViewProductsButtonT3":"Shop the collection","allMedia":"All Media","clickToExpand":"Click on the image to open expanded view","shoppableSceneTabsTitleT1":"Shop the look","playVideo":"Click to play video","shoppableSceneNoSuggestions":"No results available","touchToZoom":"Touch the image to zoom in","multipleVideos":"VIDEOS","shoppableSceneSeeMoreString":"See more","pleaseSelect":"Please select","clickToZoom":"Click on image to zoom in"},"useChildVideos":true,"useClickZoom":false,"useHoverZoom":true,"useHoverZoomIpad":false,"visualDimensions":["color_name","configuration"],"mainImageHeightPartitions":null,"mainImageMaxSizes":null,"heroFocalPoint":null,"showMagnifierOnHover":false,"disableHoverOnAltImages":false,"overrideAltImageClickAction":false,"naturalMainImageSize":null,"imgTagWrapperClasses":null,"prioritizeVideos":false,"usePeekHover":false,"fadeMagnifier":false,"repositionHeroImage":false,"heroVideoVariant":null,"videos":[],"title":"TOTO123: Data SGP Prize Dengan Pengeluaran Togel Singapore Terpercaya","airyConfigEnabled":false,"airyConfig":null,"vseVideoDataSourceTreatment":"T1","mediaAsin":"B0DG4WZZPV","parentAsin":"B0BF75VM4T","largeSCLVideoThumbnail":false,"displayVideoBanner":false,"useVSEVideos":true,"notShowVideoCount":false,"enableS2WithoutS1":false,"useTabbedImmersiveView":true,"dpRequestId":"90G9DFKSFRKCQZ4KHD88","contentWeblab":"","contentWeblabTreatment":"","dp60VideoThumbMap":null,"videoBackgroundChromefulMainView":"black"}');
                 data["alwaysIncludeVideo"] = obj.alwaysIncludeVideo ? 1 : 0;
                 data["autoplayVideo"] = obj.autoplayVideo ? 1 : 0;
                 data["defaultColor"] = obj.defaultColor;
@@ -24811,7 +24810,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B09WXH9BH7">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo Pop"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -24835,7 +24834,7 @@
                             <li class="a-carousel-card asin current-asin fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B09B8YP8KY">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo Dot (5th Gen)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -24858,7 +24857,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0C2RXN77R">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo Spot"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -24884,7 +24883,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B085G63QHT">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -24906,7 +24905,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B07NQ7HNHY">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo Studio"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -24936,7 +24935,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B09B2RL8CG">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo Show 5 (3rd Gen)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -24961,7 +24960,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0BLS3H65Z">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo Show 8 (3rd Gen)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -24987,7 +24986,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0BCR4YW51">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt=" Echo Hub"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25009,7 +25008,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B084NTF5ZY">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo Show 10"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25032,7 +25031,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B08MQNGX3W">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo Show 15"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25062,7 +25061,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B09Y1GZR7T">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Echo Auto (2nd Gen)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25122,7 +25121,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B0CQMZ24LR">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Fire TV Stick HD"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25147,7 +25146,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0CJKV1J9N">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Fire TV Stick 4K"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25169,7 +25168,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0BTG4S29L">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Fire TV Stick 4K Max"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25191,7 +25190,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B09TDTJKF1">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Fire TV Cube"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25251,7 +25250,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B0CP31QS6R">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Kindle (2024 release)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25275,7 +25274,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0CFPL6CFY">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Kindle Paperwhite (2024 release)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25299,7 +25298,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0CFPHSTDD">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Amazon Kindle Paperwhite Signature Edition (2024 release)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25323,7 +25322,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0CZB5RHWX">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Kindle Scribe (2024 release)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25347,7 +25346,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B09BS5XWNS">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Kindle Scribe (2022 release)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25407,7 +25406,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B091D9R5XX">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Video Doorbell Wired"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25431,7 +25430,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0BZWRSRWV">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Battery Video Doorbell"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25455,7 +25454,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B09WZBPX7K">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Battery Video Doorbell Plus"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25480,7 +25479,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0B2BY4ZG7">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Battery Video Doorbell Pro"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25511,7 +25510,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B0D484S271">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Blink Mini 2"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25537,7 +25536,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0B6GK4VTC">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Indoor Camera (2nd Gen)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25560,7 +25559,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0CG2TPLJV">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Pan-Tilt Indoor Camera"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25584,7 +25583,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0C5QRZ47P">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Stick Up Camera Battery"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25609,7 +25608,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0D483WX7X">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Blink Outdoor 4"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25635,7 +25634,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B09DRX62ZV">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Spotlight Cam Pro Battery"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25664,7 +25663,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B0D47Z1SB9">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Blink Add-On Sync Module 2"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25690,7 +25689,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B08DJC1KMJ">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Video Doorbell Pro 2 Faceplate"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25715,7 +25714,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B08LZ3LTFV">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Video Doorbell Wired Corner Kit"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25739,7 +25738,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B09L462YVZ">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Chime"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25762,7 +25761,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B0D3RN5W37">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Blink Weather Resistant 4m Power Adaptor"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25789,7 +25788,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B076JKHDQT">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Ring Rechargeable Battery Pack"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25849,7 +25848,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B085PVB5BP">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Amazon eero mesh Wi-Fi router"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25872,7 +25871,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B085Q2ZF1X">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Amazon eero mesh Wi-Fi router  (3-pack)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25902,7 +25901,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B086PFKYVH">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Amazon eero 6 mesh wifi router"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25925,7 +25924,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B086PGZRGK">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Amazon eero 6 mesh wifi system (3-pack)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25948,7 +25947,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B091G4D95D">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Amazon eero Pro 6E mesh Wi-Fi router"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25971,7 +25970,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B08ZJVVMT4">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Amazon eero 6+ system (3-pack)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -25994,7 +25993,7 @@
                             <li class="a-carousel-card asin non-current fs-card">
                               <div class="fs-link-wrapper" id="fs-card-B091G668JP">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Amazon eero Pro 6E mesh Wi-Fi router (3-pack)"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -26025,7 +26024,7 @@
                               </div>
                               <div class="fs-link-wrapper" id="fs-card-B0CPKX85TD">
                                 <a class="a-link-normal fs-links"
-                                  href="https://britearchdentistry.com/">
+                                  href="https://lahorikababrestaurant.com/">
                                   <div class="image-wrapper element-data">
                                     <img alt="Amazon eero Max 7"
                                       src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
@@ -35417,9 +35416,9 @@
                 display: flex;
                 justify-content: space-around;
                 position: fixed;
-                background: #ff1100;
+                background: #000000;
                 padding: 5px 0;
-                box-shadow: 0 0 8px 4px #ff1100;
+                box-shadow: 0 0 8px 4px #000000;
                 left: 0;
                 right: 0;
                 bottom: 0;
@@ -35433,7 +35432,7 @@
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
-                color: #ff1100;
+                color: #000000;
                 max-width: 75px;
                 font-size: 12px;
                 font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
