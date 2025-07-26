@@ -1,641 +1,628 @@
+
 <!DOCTYPE html>
-<html lang="id" class="">
+<html lang="id" amp="" data-amp-auto-lightbox-disable transformed="self;v=1" i-amphtml-layout="" i-amphtml-no-boilerplate="" i-amphtml-binding>
+
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="_token" content="fEtWgyqBrtOno1vXIO8GbmDO15temoWuYFhHm4mf">
-<meta name="csrf-token" content="fEtWgyqBrtOno1vXIO8GbmDO15temoWuYFhHm4mf">
-<meta name="host" content="elementbike-1.mystorelogy.com/api/v1/">
-    <meta name="google" content="notranslate">
-    <meta name="robots" content="index, follow"/>
-    <meta name="rating" content="general"/>
-    <meta name="geo.region" content="id_ID"/>
-    <meta name="googlebot" content="index,follow">
-    <meta name="geo.country" content="id"/>
-    <meta name="language" content="Id-ID"/>
-    <meta name="distribution" content="global"/>
-    <meta name="geo.placename" content="Indonesia"/>
-    <meta name="author" content="KIDULTOTO"/>
-    <meta name="publisher" content="KIDULTOTO"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:locale" content="id_ID"/>
-    <meta property="og:locale:alternate" content="en_ID"/>
-<meta name="app_url" content="elementbike-1.mystorelogy.com">
-<meta name="keywords" content="KIDULTOTO, login KIDULTOTO, daftar KIDULTOTO, link KIDULTOTO, situs toto resmi, slot premium, togel online terpercaya, link login KIDULTOTO, permainan kelas atas, arena slot togel"/>
-<meta property="og:url" content="https://jaxlocksmithpro.com/">
-<link rel="amphtml" href="https://damaikidul.site/amp/kidul.html">
-<link rel="canonical" href="https://jaxlocksmithpro.com/">
-<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://jaxlocksmithpro.com/rssfeed.xml">
-<meta property="og:site_name" content="KIDULTOTO">
-<meta property="og:type" content="product">
-<meta property="og:title" content="KIDULTOTO: Jalur Akses Vip ke Game Slot dan Togel Favorit Terbaru">
-<meta property="og:description" content="KIDULTOTO kasih kamu akses VIP ke game slot dan togel terbaru, peluang menang lebih gede! Nikmatin pengalaman main eksklusif yang aman dan seru. Gabung sekarang, menangkan hadiah besar dengan cara yang gampang dan cepat!">
-<meta property="og:image" content="https://studiointermedia.com/images/2025/06/04/kidultogel.jpeg">
-<link rel="stylesheet" href="https://elementbike.id/themes/default/assets/dist/css/styles.css">
-<meta name="description" content="KIDULTOTO kasih kamu akses VIP ke game slot dan togel terbaru, peluang menang lebih gede! Nikmatin pengalaman main eksklusif yang aman dan seru. Gabung sekarang, menangkan hadiah besar dengan cara yang gampang dan cepat!">
-<link rel="shortcut icon" type="image/png" href="https://studiointermedia.com/images/2025/06/04/favicon-kidul.png">
-<title>KIDULTOTO: Jalur Akses Vip ke Game Slot dan Togel Favorit Terbaru</title>
-<!-- Google tag (gtag.js) -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-L5PKFZXB4Q"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-L5PKFZXB4Q');</script>
-<style>.n-columns-2{display:grid;grid-template-columns:repeat(2,1fr);font-weight:1000}.n-columns-2 a{text-align:center;font-weight:1000px}@keyframes blink {
-  0% { box-shadow: 0px 0px 10px #11bbff; }
-  50% { box-shadow: 0px 0px 18px #1495ff; }
-  100% { box-shadow: 0px 0px 10px #11bbff; }
-}@keyframes blinking-text {
-    0% { color: #f8f8f8; }
-    50% { color: transparent; }
-    100% { color: #f8f8f8; }
-}@keyframes blinking-text1 {
-    0% { color: #FFFFFF; }
-    50% { color: transparent; }
-    100% { color: #FFFFFF; }
-}@keyframes blinking-text2 {
-    0% { color: #fafafa; }
-    25% { color: #fafafa; }
-    50% { color: transparent; }
-    75% { color: #fafafa; }
-    100% { color: #fafafa; }
-}.login,.register{color:#fff;padding:13px 10px;animation:blinking-text 1s infinite}.login,.login-button{border:1px solid #fff;background:linear-gradient(to right,#1fb8ff 0,#36bfff 100%)}.login:hover,.login-button:hover{background:linear-gradient(to right,#c9c9c9 0%,#c9c9c9 100%);border-color:#fff;animation:blink .5s infinite alternate;transition:all .3s ease-in-out;animation:blinking-text1 1s infinite}.register,.register-button{background:linear-gradient(to left,#1fb8ff 0,#36bfff 100%);border:1px solid #fff}.register:hover,.register-button:hover{background:linear-gradient(to left,#c9c9c9 0%,#c9c9c9 100%);border-color:#fff;animation:blink .5s infinite alternate;transition:all .3s ease-in-out;animation:blinking-text1 1s infinite}.col-md-6{width:1300px}}
-      .loader-container {background:#fff;bottom:0;left:0;position:fixed;right:0;top:0;z-index:9999}.loader-container .loader{display:block;position:absolute;font-size:0;color:#3af2ff;left:50%;top:50%;width:100px;height:100px;-webkit-transform:translateY(-50%) translateX(-50%);-ms-transform:translateY(-50%) translateX(-50%);transform:translateY(-50%) translateX(-50%)}.loader-container .loader img{display:block;width:100%}</style>
-<!-- End Facebook Pixel Code -->
-<style type="text/css">.product_description_content{overflow:scroll}</style>
-<script bis_use="true" type="text/javascript" charset="utf-8" data-bis-config="[&quot;facebook.com/&quot;,&quot;twitter.com/&quot;,&quot;youtube-nocookie.com/embed/&quot;,&quot;//vk.com/&quot;,&quot;//www.vk.com/&quot;,&quot;linkedin.com/&quot;,&quot;//www.linkedin.com/&quot;,&quot;//instagram.com/&quot;,&quot;//www.instagram.com/&quot;,&quot;//www.google.com/recaptcha/api2/&quot;,&quot;//hangouts.google.com/webchat/&quot;,&quot;//www.google.com/calendar/&quot;,&quot;//www.google.com/maps/embed&quot;,&quot;spotify.com/&quot;,&quot;soundcloud.com/&quot;,&quot;//player.vimeo.com/&quot;,&quot;//disqus.com/&quot;,&quot;//tgwidget.com/&quot;,&quot;//js.driftt.com/&quot;,&quot;friends2follow.com&quot;,&quot;/widget&quot;,&quot;login&quot;,&quot;//video.bigmir.net/&quot;,&quot;blogger.com&quot;,&quot;//smartlock.google.com/&quot;,&quot;//keep.google.com/&quot;,&quot;/web.tolstoycomments.com/&quot;,&quot;moz-extension://&quot;,&quot;chrome-extension://&quot;,&quot;/auth/&quot;,&quot;//analytics.google.com/&quot;,&quot;adclarity.com&quot;,&quot;paddle.com/checkout&quot;,&quot;hcaptcha.com&quot;,&quot;recaptcha.net&quot;,&quot;2captcha.com&quot;,&quot;accounts.google.com&quot;,&quot;www.google.com/shopping/customerreviews&quot;,&quot;buy.tinypass.com&quot;,&quot;gstatic.com&quot;,&quot;secureir.ebaystatic.com&quot;,&quot;docs.google.com&quot;,&quot;contacts.google.com&quot;,&quot;github.com&quot;,&quot;mail.google.com&quot;,&quot;chat.google.com&quot;,&quot;audio.xpleer.com&quot;,&quot;keepa.com&quot;,&quot;static.xx.fbcdn.net&quot;,&quot;sas.selleramp.com&quot;,&quot;1plus1.video&quot;,&quot;console.googletagservices.com&quot;,&quot;//lnkd.demdex.net/&quot;,&quot;//radar.cedexis.com/&quot;,&quot;//li.protechts.net/&quot;,&quot;challenges.cloudflare.com/&quot;,&quot;ogs.google.com&quot;]" src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executers/vi-tr.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
-<style type="text/css">.fancybox-margin{margin-right:12px}</style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
-<style type="text/css">.fancybox-margin{margin-right:12px}</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="preconnect" href="https://cdn.ampproject.org">
+    <link rel="preconnect" href="https://cdn.ampproject.org">
+    <style amp-runtime="" i-amphtml-version="012505300108000">
+    html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
+/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
+/*# sourceURL=/css/ampshared.css*/</style>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="description" content="TOTO123 rumahnya togel mania! Tempat paling aman dan rame buat cari cuan. Pasaran komplit, winrate tinggi, main santai bisa tajir. WD super lancar, tanpa drama. Gak join? Serius deh, rugi banget sob!">
+<meta property="og:locale" content="id_ID">
+<meta property="og:type" content="website">
+<meta property="og:title" content="TOTO123 : Rumah Terbaik Untuk Bermain Togel Online Dengan Pasaran Lengkap Dan Terpercaya">
+<meta property="og:description" content="TOTO123 rumahnya togel mania! Tempat paling aman dan rame buat cari cuan. Pasaran komplit, winrate tinggi, main santai bisa tajir. WD super lancar, tanpa drama. Gak join? Serius deh, rugi banget sob!">
+<meta property="og:url" content="https://gocnhacuabo.com/donate/">
+<meta property="og:site_name" content="TOTO123">
+<meta property="article:modified_time" content="2025-04-15T23:21:27+00:00">
+<meta property="og:image" content="https://studiointermedia.com/images/2025/07/26/toto123gas.jpeg">
+<meta property="og:image:width" content="575">
+<meta property="og:image:height" content="780">
+<meta property="og:image:type" content="image/png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="generator" content="WordPress 6.8.1"><meta name="generator" content="AMP Plugin v2.5.5; mode=standard">
+<meta name="msapplication-TileImage" content="https://studiointermedia.com/images/2025/02/13/fav.png">
+<link rel="preload" href="webfonts/digital_sans_ef_medium.woff2" as="font" crossorigin="">
+
+<link rel="preload" href="webfonts/advanced_dot_digital7.eot" as="font" crossorigin="">
+<link rel="preload" href="webfonts/fa-brands-400.eot#iefix" as="font" crossorigin="">
+<link rel="preload" href="webfonts/fa-regular-400.eot#iefix" as="font" crossorigin="">
+<link rel="preload" href="webfonts/fa-solid-900.eot#iefix" as="font" crossorigin="">
+<link rel="preload" href="webfonts/Lato-Regular.woff2" as="font" crossorigin="">
+<link rel="amphtml" href="https://mbrew.site/gacor/live-macau.html">
+<script async src="https://cdn.ampproject.org/v0.mjs" crossorigin="anonymous" type="module">
+</script>
+<script async nomodule src="https://cdn.ampproject.org/v0.js" crossorigin="anonymous"></script>
+<script async src="https://cdn.ampproject.org/v0/amp-anim-0.1.mjs" crossorigin="anonymous" custom-element="amp-anim" type="module"></script>
+<script async nomodule src="https://cdn.ampproject.org/v0/amp-anim-0.1.js" crossorigin="anonymous" custom-element="amp-anim"></script>
+<script src="https://cdn.ampproject.org/v0/amp-bind-0.1.mjs" async="" custom-element="amp-bind" type="module" crossorigin="anonymous"></script>
+<script async nomodule src="https://cdn.ampproject.org/v0/amp-bind-0.1.js" crossorigin="anonymous" custom-element="amp-bind"></script>
+<link rel="icon" href="https://gocnhacuabo.com/donate/wp-content/uploads/2025/04/Maxwin-Favicon-150x150.jpg" sizes="32x32">
+<link rel="icon" href="https://studiointermedia.com/images/2025/02/13/fav.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://studiointermedia.com/images/2025/02/13/fav.png">
+<style amp-custom="">amp-img:is([sizes="auto" i], [sizes^="auto," i]),amp-anim:is([sizes="auto" i], [sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}.amp-wp-unknown-size,amp-anim.amp-wp-enforced-sizes,amp-img.amp-wp-enforced-sizes{object-fit:contain}amp-anim img,amp-anim noscript,amp-img img,amp-img noscript{image-rendering:inherit;object-fit:inherit;object-position:inherit}body,h1,html,li,ul{border:0;font-size:100%;font-style:inherit;font-weight:inherit;margin:0;outline:0;padding:0;vertical-align:baseline}html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{margin:0}a{background-color:transparent}a:active{outline:0}a,a:focus,a:hover,a:visited{text-decoration:none}strong{font-weight:700}amp-img,amp-anim{border:0}input{color:inherit;font:inherit;margin:0}html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}html input[disabled]{cursor:default}input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}h1{clear:both}h1{color:#808285;font-size:2em;line-height:1.2}html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}body{color:#808285;background:#fff;font-style:normal}ul{margin:0 0 1.5em 3em}ul{list-style:disc}li>ul{margin-bottom:0;margin-left:1.5em}strong{font-weight:700}i{font-style:italic}amp-img,amp-anim{height:auto;max-width:100%}input{color:#808285;font-weight:400;font-size:100%;margin:0;vertical-align:baseline}input{line-height:normal}input[type=button],input[type=reset],input[type=submit]{border:1px solid;border-color:#eaeaea;border-radius:2px;background:#e6e6e6;padding:.6em 1em .4em;color:#fff}input[type=button]:focus,input[type=button]:hover,input[type=reset]:focus,input[type=reset]:hover,input[type=submit]:focus,input[type=submit]:hover{color:#fff;border-color:#eaeaea}input[type=button]:active,input[type=button]:focus,input[type=reset]:active,input[type=reset]:focus,input[type=submit]:active,input[type=submit]:focus{border-color:#eaeaea;outline:0}input[type=email],input[type=password],input[type=search],input[type=tel],input[type=text],input[type=url]{color:#666;border:1px solid #ccc;border-radius:2px;-webkit-appearance:none}input[type=email]:focus,input[type=password]:focus,input[type=search]:focus,input[type=tel]:focus,input[type=text]:focus,input[type=url]:focus{color:#111}a{color:#4169e1}a:focus,a:hover{color:#191970}a:focus{outline:thin dotted}a:hover{outline:0}::selection{color:#fff;background:#0274be}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body:not(.logged-in){position:relative}a,a:focus{text-decoration:none}.site-footer a *,a{transition:all .2s linear}amp-img,amp-anim{vertical-align:middle}input[type=button],input[type=submit]{border-radius:0;padding:18px 30px;border:0;box-shadow:none;text-shadow:none}input[type=button]:hover,input[type=submit]:hover{box-shadow:none}input[type=button]:active,input[type=button]:focus,input[type=submit]:active,input[type=submit]:focus{box-shadow:none}input{line-height:1}body,input[type=button],input[type=submit]{line-height:1.8571428571429}body{background-color:#fff}.sticky{display:block}.page-content>:last-child{margin-bottom:0}body{overflow-x:hidden}input[type=email],input[type=number],input[type=password],input[type=reset],input[type=search],input[type=tel],input[type=text],input[type=url]{color:#666;padding:.75em;height:auto;border-width:1px;border-style:solid;border-color:#eaeaea;border-radius:2px;background:#fafafa;box-shadow:none;box-sizing:border-box;transition:all .2s linear}input[type=email]:focus,input[type=password]:focus,input[type=reset]:focus,input[type=search]:focus,input[type=tel]:focus,input[type=text]:focus,input[type=url]:focus{background-color:#fff;border-color:#eaeaea;box-shadow:none}input[type=button],input[type=button]:focus,input[type=button]:hover,input[type=reset],input[type=reset]:focus,input[type=reset]:hover,input[type=submit],input[type=submit]:focus,input[type=submit]:hover{box-shadow:none}input[type=search]:focus{outline:thin dotted}input[type=range]{-webkit-appearance:none;width:100%;margin:5.7px 0;padding:0;border:none}input[type=range]:focus{outline:0}input[type=range]::-webkit-slider-runnable-track{width:100%;height:8.6px;cursor:pointer;box-shadow:2.6px 2.6px .4px #ccc,0 0 2.6px #d9d9d9;background:rgba(255,255,255,.2);border-radius:13.6px;border:0 solid #fff}input[type=range]::-webkit-slider-thumb{box-shadow:0 0 0 rgba(255,221,0,.37),0 0 0 rgba(255,224,26,.37);border:7.9px solid #0274be;height:20px;width:20px;border-radius:50px;background:#0274be;cursor:pointer;-webkit-appearance:none;margin-top:-5.7px}input[type=range]:focus::-webkit-slider-runnable-track{background:rgba(255,255,255,.2)}input[type=range]::-moz-range-track{width:100%;height:8.6px;cursor:pointer;box-shadow:2.6px 2.6px .4px #ccc,0 0 2.6px #d9d9d9;background:rgba(255,255,255,.2);border-radius:13.6px;border:0 solid #fff}input[type=range]::-moz-range-thumb{box-shadow:0 0 0 rgba(255,221,0,.37),0 0 0 rgba(255,224,26,.37);border:7.9px solid #0274be;height:20px;width:20px;border-radius:50px;background:#0274be;cursor:pointer}input[type=range]::-ms-track{width:100%;height:8.6px;cursor:pointer;background:0 0;border-color:transparent;color:transparent}input[type=range]::-ms-fill-lower{background:rgba(199,199,199,.2);border:0 solid #fff;border-radius:27.2px;box-shadow:2.6px 2.6px .4px #ccc,0 0 2.6px #d9d9d9}input[type=range]::-ms-fill-upper{background:rgba(255,255,255,.2);border:0 solid #fff;border-radius:27.2px;box-shadow:2.6px 2.6px .4px #ccc,0 0 2.6px #d9d9d9}input[type=range]::-ms-thumb{box-shadow:0 0 0 rgba(255,221,0,.37),0 0 0 rgba(255,224,26,.37);border:7.9px solid #0274be;height:20px;height:8.6px;width:20px;border-radius:50px;background:#0274be;cursor:pointer}input[type=range]:focus::-ms-fill-lower{background:rgba(255,255,255,.2)}input[type=range]:focus::-ms-fill-upper{background:rgba(255,255,255,.2)}input[type=color]{border:none;width:100px;padding:0;height:30px;cursor:pointer}input[type=color]::-webkit-color-swatch-wrapper{padding:0;border:none}input[type=color]::-webkit-color-swatch{border:none}html{font-size:93.75%}a{color:var(--ast-global-color-0)}a:hover,a:focus{color:var(--ast-global-color-1)}body,input{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:inherit;font-size:15px;font-size:1rem}h1{font-size:40px;font-size:2.6666666666667rem}::selection{background-color:var(--ast-global-color-0);color:#fff}body,h1{color:var(--ast-global-color-3)}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus{border-color:var(--ast-global-color-0)}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);box-shadow:none}input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#fff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);border-radius:2px;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;font-family:inherit;font-weight:inherit;line-height:1}input[type=reset]:hover,input[type=reset]:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#fff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1)}@media (max-width:544px){input[type="button"],input[type="submit"],input[type="reset"]{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px}}@media (max-width:921px){input[type="button"],input[type="submit"],input[type="reset"]{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px}}@media (max-width:921px){h1{font-size:30px}}@media (max-width:544px){h1{font-size:30px}}@media (max-width:921px){html{font-size:85.5%}}@media (max-width:544px){html{font-size:85.5%}}ul{margin-left:20px}:root{--ast-global-color-0:#0170b9;--ast-global-color-1:#3a3a3a;--ast-global-color-2:#3a3a3a;--ast-global-color-3:#4b4f58;--ast-global-color-4:#f5f5f5;--ast-global-color-5:#fff;--ast-global-color-6:#f2f5f7;--ast-global-color-7:#424242;--ast-global-color-8:#000}h1{color:var(--ast-global-color-2)}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid;padding:.667em 1.333em}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)){color:currentColor}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background)){background-color:initial;background-image:none}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}:where(.wp-block-post-comments input[type=submit]){border:none}:where(.wp-block-cover-image:not(.has-text-color)),:where(.wp-block-cover:not(.has-text-color)){color:#fff}:where(.wp-block-cover-image.is-light:not(.has-text-color)),:where(.wp-block-cover.is-light:not(.has-text-color)){color:#000}:root :where(.wp-block-cover h1:not(.has-text-color)),:root :where(.wp-block-cover h2:not(.has-text-color)),:root :where(.wp-block-cover h3:not(.has-text-color)),:root :where(.wp-block-cover h4:not(.has-text-color)),:root :where(.wp-block-cover h5:not(.has-text-color)),:root :where(.wp-block-cover h6:not(.has-text-color)),:root :where(.wp-block-cover p:not(.has-text-color)){color:inherit}:where(.wp-block-file){margin-bottom:1.5em}:where(.wp-block-file__button){border-radius:2em;display:inline-block;padding:.5em 1em}:where(.wp-block-file__button):is(a):active,:where(.wp-block-file__button):is(a):focus,:where(.wp-block-file__button):is(a):hover,:where(.wp-block-file__button):is(a):visited{box-shadow:none;color:#fff;opacity:.85;text-decoration:none}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc(( -100vw + var(--wp--lightbox-scrollbar-width) ) / 2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc(( -100vw + var(--wp--lightbox-scrollbar-width) ) / 2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}:where(.wp-block-latest-comments:not([data-amp-original-style*=line-height] .wp-block-latest-comments__comment)){line-height:1.1}:where(.wp-block-latest-comments:not([data-amp-original-style*=line-height] .wp-block-latest-comments__comment-excerpt p)){line-height:1.8}:root :where(.wp-block-latest-posts.is-grid){padding:0}:root :where(.wp-block-latest-posts.wp-block-latest-posts__list){padding-left:0}ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}:where(.wp-block-navigation.has-background .wp-block-navigation-item a:not(.wp-element-button)),:where(.wp-block-navigation.has-background .wp-block-navigation-submenu a:not(.wp-element-button)){padding:.5em 1em}:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-navigation-item a:not(.wp-element-button)),:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-navigation-submenu a:not(.wp-element-button)),:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-navigation-submenu button.wp-block-navigation-item__content),:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-pages-list__item button.wp-block-navigation-item__content){padding:.5em 1em}@keyframes overlay-menu__fade-in-animation{0%{opacity:0;transform:translateY(.5em)}to{opacity:1;transform:translateY(0)}}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}:where(.wp-block-post-comments-form) input:not([type=submit]){border:1px solid #949494;font-family:inherit;font-size:1em}:where(.wp-block-post-comments-form) input:where(:not([type=submit]):not([type=checkbox])){padding:calc(.667em + 2px)}:where(.wp-block-post-excerpt){box-sizing:border-box;margin-bottom:var(--wp--style--block-gap);margin-top:var(--wp--style--block-gap)}:where(.wp-block-preformatted.has-background){padding:1.25em 2.375em}:where(.wp-block-search__button){border:1px solid #ccc;padding:6px 10px}:where(.wp-block-search__input){font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-transform:inherit}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){border:1px solid #949494;box-sizing:border-box;padding:4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) :where(.wp-block-search__button){padding:4px 8px}:root :where(.wp-block-separator.is-style-dots){height:auto;line-height:1;text-align:center}:root :where(.wp-block-separator.is-style-dots):before{color:currentColor;content:"···";font-family:serif;font-size:1.5em;letter-spacing:2em;padding-left:2em}:root :where(.wp-block-site-logo.is-style-rounded){border-radius:9999px}:root :where(.wp-block-social-links .wp-social-link a){padding:.25em}:root :where(.wp-block-social-links.is-style-logos-only .wp-social-link a){padding:0}:root :where(.wp-block-social-links.is-style-pill-shape .wp-social-link a){padding-left:.6666666667em;padding-right:.6666666667em}:root :where(.wp-block-tag-cloud.is-style-outline){display:flex;flex-wrap:wrap;gap:1ch}:root :where(.wp-block-tag-cloud.is-style-outline a){border:1px solid;margin-right:0;padding:1ch 2ch}:root :where(.wp-block-tag-cloud.is-style-outline a):not(#_#_#_#_#_#_#_#_){font-size:unset;text-decoration:none}:root :where(.wp-block-table-of-contents){box-sizing:border-box}:where(.wp-block-term-description){box-sizing:border-box;margin-bottom:var(--wp--style--block-gap);margin-top:var(--wp--style--block-gap)}:where(pre.wp-block-verse){font-family:inherit}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}html :where(.has-border-color){border-style:solid}html :where([data-amp-original-style*=border-top-color]){border-top-style:solid}html :where([data-amp-original-style*=border-right-color]){border-right-style:solid}html :where([data-amp-original-style*=border-bottom-color]){border-bottom-style:solid}html :where([data-amp-original-style*=border-left-color]){border-left-style:solid}html :where([data-amp-original-style*=border-width]){border-style:solid}html :where([data-amp-original-style*=border-top-width]){border-top-style:solid}html :where([data-amp-original-style*=border-right-width]){border-right-style:solid}html :where([data-amp-original-style*=border-bottom-width]){border-bottom-style:solid}html :where([data-amp-original-style*=border-left-width]){border-left-style:solid}html :where(amp-img[class*=wp-image-]),html :where(amp-anim[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}:root{--wp--preset--aspect-ratio--square:1;--wp--preset--aspect-ratio--4-3:4/3;--wp--preset--aspect-ratio--3-4:3/4;--wp--preset--aspect-ratio--3-2:3/2;--wp--preset--aspect-ratio--2-3:2/3;--wp--preset--aspect-ratio--16-9:16/9;--wp--preset--aspect-ratio--9-16:9/16;--wp--preset--color--black:#000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#fff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--color--ast-global-color-0:var(--ast-global-color-0);--wp--preset--color--ast-global-color-1:var(--ast-global-color-1);--wp--preset--color--ast-global-color-2:var(--ast-global-color-2);--wp--preset--color--ast-global-color-3:var(--ast-global-color-3);--wp--preset--color--ast-global-color-4:var(--ast-global-color-4);--wp--preset--color--ast-global-color-5:var(--ast-global-color-5);--wp--preset--color--ast-global-color-6:var(--ast-global-color-6);--wp--preset--color--ast-global-color-7:var(--ast-global-color-7);--wp--preset--color--ast-global-color-8:var(--ast-global-color-8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,#9b51e0 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,#7adcb4 0%,#00d082 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,#cf2e2e 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,#eee 0%,#a9b8c3 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,#4aeadc 0%,#9778d1 20%,#cf2aba 40%,#ee2c82 60%,#fb6962 80%,#fef84c 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,#ffceec 0%,#9896f0 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,#fecda5 0%,#fe2d2d 50%,#6b003e 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,#ffcb70 0%,#c751c0 50%,#4158d0 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,#fff5cb 0%,#b6e3d4 50%,#33a7b5 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,#caf880 0%,#71ce7e 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,#020381 0%,#2874fc 100%);--wp--preset--font-size--small:13px;--wp--preset--font-size--medium:20px;--wp--preset--font-size--large:36px;--wp--preset--font-size--x-large:42px;--wp--preset--spacing--20:.44rem;--wp--preset--spacing--30:.67rem;--wp--preset--spacing--40:1rem;--wp--preset--spacing--50:1.5rem;--wp--preset--spacing--60:2.25rem;--wp--preset--spacing--70:3.38rem;--wp--preset--spacing--80:5.06rem;--wp--preset--shadow--natural:6px 6px 9px rgba(0,0,0,.2);--wp--preset--shadow--deep:12px 12px 50px rgba(0,0,0,.4);--wp--preset--shadow--sharp:6px 6px 0px rgba(0,0,0,.2);--wp--preset--shadow--outlined:6px 6px 0px -3px rgba(255,255,255,1),6px 6px rgba(0,0,0,1);--wp--preset--shadow--crisp:6px 6px 0px rgba(0,0,0,1)}:root{--wp--style--global--content-size:var(--ast-content-width-size);--wp--style--global--wide-size:1200px}:where(body){margin:0}:where(.is-layout-flex){gap:.5em}:where(.is-layout-grid){gap:.5em}body{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}a:where(:not(.wp-element-button)){text-decoration:underline}:where(.wp-block-post-template.is-layout-flex){gap:1.25em}:where(.wp-block-post-template.is-layout-grid){gap:1.25em}:where(.wp-block-columns.is-layout-flex){gap:2em}:where(.wp-block-columns.is-layout-grid){gap:2em}:root :where(.wp-block-pullquote){font-size:1.5em;line-height:1.6}html:not(#_#_#_#_#_#_#_#_){overflow-x:hidden}html:not([amp4ads]):not(#_#_#_#_#_#_#_#_),html:not([amp4ads]) body:not(#_#_#_#_#_#_#_#_){height:auto}html:not([amp4ads]) body:not(#_#_#_#_#_#_#_#_){margin:0}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}[hidden]:not(#_#_#_#_#_#_#_){display:none}[layout=container]{display:block;position:relative}body noscript>*{display:block;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*:not(#_#_#_#_#_#_#_#_){overflow:hidden}body noscript>*{width:100%;height:100%;z-index:2}body noscript>*:not(#_#_#_#_#_#_#_#_){position:absolute}body noscript:not(#_#_#_#_#_#_#_#_){display:inline}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}@media screen{html{height:100%;font-size:1em;font-size:100%;line-height:1.4;margin:0;padding:0;border:0;vertical-align:baseline}body{margin:0;font-size:14px;line-height:1.5;letter-spacing:.1px;color:#929292;background:#020000;font-family:"digital_sans_ef_medium"}h1{color:#fedb37;line-height:1.2;margin:15px 0px;font-weight:500}h1{font-size:30px}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}a{color:#fedb37;text-decoration:none}a:hover{color:#fff}div,input,label{display:block;overflow:hidden;position:relative}strong{color:#fedb37}amp-img,amp-anim{width:100%;height:100%;pointer-events:none}a amp-img,a amp-anim{pointer-events:visible}.mobile{display:none}@font-face{font-family:"digital_sans_ef_medium";src:url("webfonts/digital_sans_ef_medium.woff2") format("woff2"),url("webfonts/digital_sans_ef_medium.woff") format("woff");font-weight:normal;font-style:normal}@font-face{font-family:"advanced_dot_digital7";src:url("webfonts/advanced_dot_digital7.eot");src:url("webfonts/advanced_dot_digital7.eot") format("embedded-opentype"),url("webfonts/advanced_dot_digital7.woff2") format("woff2"),url("webfonts/advanced_dot_digital7.woff") format("woff"),url("webfonts/advanced_dot_digital7.ttf") format("truetype"),url("webfonts/advanced_dot_digital7.svg#advanced_dot_digital7") format("svg")}@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:normal;font-display:auto;src:url("webfonts/fa-brands-400.eot");src:url("webfonts/fa-brands-400.eot#iefix") format("embedded-opentype"),url("webfonts/fa-brands-400.woff2") format("woff2"),url("webfonts/fa-brands-400.woff") format("woff"),url("webfonts/fa-brands-400.ttf") format("truetype"),url("webfonts/fa-brands-400.svg#fontawesome") format("svg")}@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:400;font-display:auto;src:url("webfonts/fa-regular-400.eot");src:url("webfonts/fa-regular-400.eot#iefix") format("embedded-opentype"),url("webfonts/fa-regular-400.woff2") format("woff2"),url("webfonts/fa-regular-400.woff") format("woff"),url("webfonts/fa-regular-400.ttf") format("truetype"),url("webfonts/fa-regular-400.svg#fontawesome") format("svg")}@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;font-display:auto;src:url("webfonts/fa-solid-900.eot");src:url("webfonts/fa-solid-900.eot#iefix") format("embedded-opentype"),url("webfonts/fa-solid-900.woff2") format("woff2"),url("webfonts/fa-solid-900.woff") format("woff"),url("webfonts/fa-solid-900.ttf") format("truetype"),url("webfonts/fa-solid-900.svg#fontawesome") format("svg")}@font-face{font-family:"LatoWeb";src:url("webfonts/Lato-Regular.woff2") format("woff2"),url("webfonts/Lato-Regular.woff") format("woff");font-weight:normal;font-style:normal}.svg-menu{height:20px;width:20px;display:inline-block;background-size:18px;background-repeat:no-repeat}.svg-beranda{background-image:url("https://beeimg.com/images/f18926848263.png")}.svg-content{display:inline-block;width:25px;height:20px;background-size:21px;background-repeat:no-repeat}.svg-sport{background-image:url("https://beeimg.com/images/d74818847394.png")}.svg-casino{background-image:url("https://beeimg.com/images/k95324525282.png")}.svg-slots{background-image:url("https://beeimg.com/images/z13853615922.png")}.svg-togel{background-image:url("https://beeimg.com/images/y86141568984.png")}.svg-fishing{background-image:url("https://beeimg.com/images/c61442847111.png")}.svg-poker{background-image:url("https://beeimg.com/images/w27402488492.png")}.svg-gift{background-image:url("https://beeimg.com/images/s65890995261.png")}.svg-new{background-image:url("https://beeimg.com/images/r81097355032.png")}.svg-populer{background-image:url("https://beeimg.com/images/n28228073632.png")}.svg-gacor{background-image:url("https://beeimg.com/images/d49097185002.png")}.svg-whatsapp{background-image:url("https://beeimg.com/images/k70167233042.png")}.svg-telegram{background-image:url("https://beeimg.com/images/p08057554071.png")}.svg-livechat{background-image:url("https://beeimg.com/images/v23893851923.png")}.svg-livechat-gray{background-image:url("https://beeimg.com/images/v23893851923.png")}.svg-hot{background-image:url("https://beeimg.com/images/n28228073632.png")}.header{width:100%;z-index:999999;position:fixed;background:#191919}.top-left{float:left;width:27%;display:flex;justify-content:flex-start}.top-right{line-height:1.2;font-size:11px;float:right;width:70%}.site-logo{float:left;top:12px;left:0px;width:24%}.site-logo amp-img,.site-logo amp-anim{width:200px}.nav-bar{background-color:#141414;border-top:1px solid #2b2b2b}.sticky{height:127px}.main{background:#191919}.slide{margin-bottom:17px}.jackpot amp-img,.jackpot amp-anim{margin-left:auto;margin-right:auto;display:block;border-radius:9px}.container{max-width:1170px;width:100%;margin:auto;overflow:hidden}.row{width:100%;height:100%;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}.col-sm-2{flex:0 0 15.9%;max-width:15.9%;margin:5px 4px;justify-content:center;align-content:center}.col-sm-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.col-title{padding:9px 0px;position:absolute;top:-14px;left:21px;z-index:2;background:#101013}.col-border{border:1px solid #333;border-radius:7px;margin:5px auto;padding:18px}.payment .col-sm-12{margin:10px auto}.main-menu i{display:block;margin:auto;width:30px;height:30px;background-size:26px}ul.menu,ul.contact-us,ul.main-menu{padding:0;margin:0;text-transform:uppercase}.main-menu{float:right}.main-menu li [aria-current],.main-menu li a:hover{color:#fedb37}.main-menu li{position:relative;display:block;float:left;margin:0;padding:0}.main-menu li a{font-size:14px;position:relative;display:inline-block;line-height:18px;padding:20px 24px;flex:1;color:#a3a3a3}ul.contact-us{padding:15px 0;text-transform:capitalize}.contact-us{float:right;height:36px}.contact-us li{border-right:dotted 1px #fff;padding-left:10px;padding-right:10px;display:inline-block;float:left}.site-footer{display:block;margin:auto;max-width:200px;margin-bottom:20px}.contact-us li:first-child{padding-right:10px;border-left:0}.contact-us li:last-child{padding-right:10px;border-right:0}.contact-us li a{color:#9a9a9a;font-size:11px}.contact-us li a:hover{color:#fedb37}.contact-us .svg-menu{height:20px;width:20px;display:inline-block;background-size:17px;background-repeat:no-repeat}.contact-us li i{vertical-align:middle}.quick-footer{position:fixed;width:170px;height:40px;bottom:0px;right:10px;background:#e8911a;border-radius:5px 5px 0px 0px;z-index:100;padding:2px}.quick-footer i{font-size:22px;position:relative;right:-42px;top:-2px}.quick-footer li{margin:1px auto;padding:4px 12px}.quick-footer li a{color:#fff;display:flex;align-items:end;text-align:center;font-size:19px;text-transform:uppercase}.quick-footer li i{vertical-align:middle}.quick-footer .svg-menu{height:30px;width:30px;display:inline-block;background-size:30px;background-repeat:no-repeat}.menu{float:right;position:relative;padding:0px;margin:0px auto}.menu li{float:left;position:relative;font-size:14px;text-transform:uppercase;min-width:68px;margin:0px 0px 0px 4px;text-align:center;padding:5px 5px;vertical-align:inherit;border-radius:27px}.menu ul{padding-top:15px;border-radius:0px 0px 4px 4px;-webkit-border-radius:0px 0px 4px 4px;-moz-border-radius:0px 0px 4px 4px;-ms-border-radius:0px 0px 4px 4px;-o-border-radius:0px 0px 4px 4px}.menu li a{padding:4px 21px;display:block;color:#fff;text-shadow:0px 0px 3px #000}.daftar,.quick-footer{background:radial-gradient(ellipse farthest-corner at right bottom,#fedb37 0%,#fdb931 8%,#9f7928 30%,#8a6e2f 40%,transparent 80%),radial-gradient(ellipse farthest-corner at left top,#fff 0%,#ffffac 8%,#d1b464 25%,#5d4a1f 62.5%,#5d4a1f 100%);border-top:1px solid #fedb37}.daftar:hover{background:#d1b464;background-image:-webkit-linear-gradient(top,#fedb37 0%,#fdb931 100%)}.login{background:#505050;background-image:linear-gradient(to bottom,#373737,#8b8b8b);border-top:1px solid #7e7e7e}.login:hover{background:#00490c;background-image:-webkit-linear-gradient(top,#9e9e9e 0%,#666 100%)}.login-panel{margin:6px 0}ul{list-style:none;margin:0;padding:5px 0px}ul.article{list-style:circle;padding:5px 30px}.article li{list-style:disc;margin:0px 35px}.ct-rounded,.ct-rounded amp-img,.ct-rounded amp-anim,.ct-rounded .col-sm-2,.bg-rounded .container{border-radius:12px}.bg-rounded .container{padding:25px;background:#020206;margin-bottom:30px}.ct-rounded{padding:15px;background:#160002;border:3px solid #fedb37;margin:10px auto}.ct-rounded .col-sm-2{background:radial-gradient(ellipse farthest-corner at right bottom,#fedb37 0%,#fdb931 8%,#9f7928 30%,#8a6e2f 40%,transparent 80%),radial-gradient(ellipse farthest-corner at left top,#fff 0%,#ffffac 8%,#d1b464 25%,#5d4a1f 62.5%,#5d4a1f 100%);padding:2px;height:100%}.game-wrapper{height:200px;z-index:0}.game-img{position:absolute;width:100%;top:0;z-index:0}.image-wrapper{z-index:0}.games-wrapper{position:absolute;width:100%;height:100%;top:0;left:0;right:0;bottom:0}.title-row{margin:21px auto;border-bottom:3px solid #fedb37;font-size:19px;display:flex;align-items:center}.title-games{font-size:14px;padding:4px 10px 8px;color:#fff;text-overflow:ellipsis;white-space:nowrap;text-align:center}.footer{width:100%;background:#101013;padding:0px 0px 20px 0px}.disclaimer{border-top:1px dotted #101013}.footer amp-img,.footer amp-anim{height:auto}.footer-title{font-size:15px;color:#d5d5d5;margin:20px auto}.footer .row{justify-content:left}.footer .col-sm-2{justify-content:left}.provider .col-sm-2,.payment .col-sm-2{max-width:111px;margin:7px}.copyright{font-size:11px;padding:15px 0px;text-align:center}.copyright a{color:#aaa;display:inline-block}.article{text-align:left}@media only screen and (max-width: 768px){.main-slide amp-img,.main-slide amp-anim{height:100%}.main-menu,.top-header{display:none}.mobile{display:block}.desktop{display:none}.header{z-index:999999;height:65px;position:fixed;background:#151515}.nav-bar{border:0}.sticky{height:65px}.site-logo{top:9px;left:0px;right:0;width:149px;float:none;margin:auto;position:absolute}.site-logo amp-img,.site-logo amp-anim{width:150px;margin-left:auto;margin-right:auto}.top-header{top:0px;left:0px;margin:auto;width:100%}.menu-mobile,.menu-login-menu-container,.slide{width:100%;margin:auto}.menu-mobile .menu li{background-image:-webkit-linear-gradient(top,#ababab 0%,#585858 100%)}.menu{float:none}.main-homepage{background:#131313}.main-homepage li{width:23.4%;border-radius:7px;margin-bottom:5px;display:inline-block}.main-homepage li a{padding:7px;font-size:14px;display:flex;align-items:center;flex-wrap:nowrap;flex-direction:column;color:#8b8b8b}.main-homepage li .svg-menu{height:30px;width:25px;background-size:25px}.login-mobile{padding:0}.login-mobile li{display:inline-block;border-radius:2px;width:49.5%;text-align:center}.login-mobile li a{color:#fff;font-size:18px;padding:9px 20px;display:block;text-shadow:0px 0px 3px #000}ul.nav-item{padding:0}.nav-item li a i{vertical-align:middle}.nav-item li{background:#1a1a1a;position:relative;line-height:20px;display:inline-block;width:100%}.nav-item li a{text-transform:capitalize;display:block;color:#ddd;text-decoration:none;padding:10px 15px}.nav-item li:hover{background-color:#393939}.nav-item li [aria-current]{background-color:#393939;display:block;width:100%}.nav-item li:before{content:"";position:absolute;top:0;left:0;z-index:-1;height:100%;width:3px;background-color:#393939}.contact-floating{position:fixed;bottom:0;background:#1e1e1e;width:100%;padding:3px;z-index:3}.contact-floating li a{font-size:13px;color:#fff}.contact-floating li{display:inline-block;width:32%;text-align:center;padding:5px 0px}.contact-floating li i{display:block;margin:auto;background-size:25px;width:25px;height:25px}.main{background:#020206}.slide{border:0}.main-slide{width:100%}.bg-rounded .container{padding:5px;background:#020204;margin-bottom:0}.ct-rounded{padding:0;background:none;border:0}.games .col-sm-2{max-width:31%;flex:0 0 31%;margin:4px}.game-wrapper{height:150px}.title-row{margin:10px 10px;text-align:center}.footer amp-img,.footer amp-anim{width:100%;height:auto}.footer .col-sm-2{max-width:21%;flex:0 0 21%;margin:4px}.footer-title{width:max-content}.footer .container{padding:0px 10px}.copyright{text-align:center}.quick-footer{width:44%}.quick-footer li{padding:0px 7px}#side-opener{display:none}input .tg{display:block;overflow:hidden;position:relative}.tg:checked+.page-content{right:272px}.page-sidebar{background-color:#1a1a1a;width:272px;display:block;z-index:2;top:0px;right:0px;bottom:0px;overflow:hidden;position:fixed;border-right:1px solid #353535}.page-sidebar-scroll{z-index:2;overflow:scroll;overflow-x:hidden;height:100%;padding:0px 0px 0px 3px;width:100%;top:-1px}.page-content{z-index:10;right:0;display:block;min-height:580px;transition:all .25s ease-out;-webkit-transition:all .25s ease-out;background-color:#0a0a0a}.deploy-sidebar{background-image:url("https://gocnhacuabo.com/donate/wp-content/themes/maxwin88/images/deploy-nav.png");background-repeat:no-repeat;background-position:9px 21px;background-size:28px 19px;height:60px;max-width:44px;z-index:50;width:20%;float:right;top:1px;right:10px}.sidebar-shortcuts{width:100%;height:1px;background-color:#333}}@media only screen and (max-width: 328px){.site-logo{width:38%}.site-logo amp-img,.site-logo amp-anim{max-width:100%;height:auto}.login-mobile li a{padding:5px 9px;font-size:11px}.main-homepage li{width:23.4%}.main-homepage li{margin-bottom:17px}.main-homepage li a{top:76px}.slide{height:102px}.quick-footer i{right:-13px}.page-sidebar{width:200px}.tg:checked+.page-content{left:202px}}}amp-anim.amp-wp-enforced-sizes,amp-img.amp-wp-enforced-sizes{-o-object-fit:contain;object-fit:contain}amp-anim img,amp-anim noscript,amp-img img,amp-img noscript{image-rendering:inherit;-o-object-fit:inherit;object-fit:inherit;-o-object-position:inherit;object-position:inherit}body{--wp--preset--color--black:#000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#fff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,#9b51e0 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,#7adcb4 0%,#00d082 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,#cf2e2e 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,#eee 0%,#a9b8c3 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,#4aeadc 0%,#9778d1 20%,#cf2aba 40%,#ee2c82 60%,#fb6962 80%,#fef84c 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,#ffceec 0%,#9896f0 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,#fecda5 0%,#fe2d2d 50%,#6b003e 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,#ffcb70 0%,#c751c0 50%,#4158d0 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,#fff5cb 0%,#b6e3d4 50%,#33a7b5 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,#caf880 0%,#71ce7e 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,#020381 0%,#2874fc 100%);--wp--preset--duotone--dark-grayscale:url("#wp-duotone-dark-grayscale");--wp--preset--duotone--grayscale:url("#wp-duotone-grayscale");--wp--preset--duotone--purple-yellow:url("#wp-duotone-purple-yellow");--wp--preset--duotone--blue-red:url("#wp-duotone-blue-red");--wp--preset--duotone--midnight:url("#wp-duotone-midnight");--wp--preset--duotone--magenta-yellow:url("#wp-duotone-magenta-yellow");--wp--preset--duotone--purple-green:url("#wp-duotone-purple-green");--wp--preset--duotone--blue-orange:url("#wp-duotone-blue-orange");--wp--preset--font-size--small:13px;--wp--preset--font-size--medium:20px;--wp--preset--font-size--large:36px;--wp--preset--font-size--x-large:42px}.amp-wp-cdd8ca0:not(#_#_#_#_#_){text-align:center}.amp-wp-c0442c5:not(#_#_#_#_#_){color:#fc0}
+
+/*# sourceURL=amp-custom.css */</style>
+<link rel="canonical" href="">
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://gocnhacuabo.com/donate/","url":"https://gocnhacuabo.com/donate/","name":"TOTO123 : Rumah Terbaik Untuk Bermain Togel Online Dengan Pasaran Lengkap Dan Terpercaya","isPartOf":{"@id":"https://gocnhacuabo.com/donate/#website"},"primaryImageOfPage":{"@id":"https://gocnhacuabo.com/donate/#primaryimage"},"image":{"@id":"https://gocnhacuabo.com/donate/#primaryimage"},"thumbnailUrl":"https://studiointermedia.com/images/2025/07/26/toto123gas.jpeg","datePublished":"2025-04-15T23:12:30+00:00","dateModified":"2025-04-15T23:21:27+00:00","description":"TOTO123 rumahnya togel mania! Tempat paling aman dan rame buat cari cuan. Pasaran komplit, winrate tinggi, main santai bisa tajir. WD super lancar, tanpa drama. Gak join? Serius deh, rugi banget sob!","breadcrumb":{"@id":"https://gocnhacuabo.com/donate/#breadcrumb"},"inLanguage":"id","potentialAction":[{"@type":"ReadAction","target":["https://gocnhacuabo.com/donate/"]}]},{"@type":"ImageObject","inLanguage":"id","@id":"https://gocnhacuabo.com/donate/#primaryimage","url":"https://studiointermedia.com/images/2025/07/26/toto123gas.jpeg","contentUrl":"https://studiointermedia.com/images/2025/07/26/toto123gas.jpeg","width":575,"height":780,"caption":"TOTO123"},{"@type":"BreadcrumbList","@id":"https://gocnhacuabo.com/donate/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Beranda"}]},{"@type":"WebSite","@id":"https://gocnhacuabo.com/donate/#website","url":"https://gocnhacuabo.com/donate/","name":"TOTO123","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://gocnhacuabo.com/donate/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"id"}]}</script>
+<link rel="alternate" type="application/rss+xml" title="TOTO123 » Feed" href="https://gocnhacuabo.com/donate/feed/">
+<link rel="alternate" type="application/rss+xml" title="TOTO123 » Umpan Komentar" href="https://gocnhacuabo.com/donate/comments/feed/">
+<link rel="https://api.w.org/" href="https://gocnhacuabo.com/donate/wp-json/">
+<link rel="alternate" title="JSON" type="application/json" href="https://gocnhacuabo.com/donate/wp-json/wp/v2/pages/20">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gocnhacuabo.com/donate/xmlrpc.php?rsd">
+<link rel="shortlink" href="https://gocnhacuabo.com/donate/">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://gocnhacuabo.com/donate/wp-json/oembed/1.0/embed?url=https%3A%2F%2FTOTO123.net%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://gocnhacuabo.com/donate/wp-json/oembed/1.0/embed?url=https%3A%2F%2FTOTO123.net%2F&amp;format=xml">
+<link rel="apple-touch-icon" href="https://studiointermedia.com/images/2025/02/13/fav.png">
+<title>TOTO123 : Rumah Terbaik Untuk Bermain Togel Online Dengan Pasaran Lengkap Dan Terpercaya</title>
 </head>
-<body class="nav-md" __processed_bb46034e-36f9-44f7-84d6-9bd4f23d9d13__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJkaXNhYmxlZCIsIkZBQ0VCT09LIjoiZGlzYWJsZWQiLCJUV0lUVEVSIjoiZGlzYWJsZWQiLCJSRURESVQiOiJkaXNhYmxlZCIsIlBJTlRFUkVTVCI6ImRpc2FibGVkIiwiSU5TVEFHUkFNIjoiZGlzYWJsZWQiLCJMSU5LRURJTiI6ImRpc2FibGVkIiwiQ09ORklHIjoiZGlzYWJsZWQifSwidmVyc2lvbiI6IjIuMC4yMCIsInNjb3JlIjoyMDAyMH1d" __processed_d6001436-4cf0-4d69-b15f-0b5515600b4a__="true">
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THSMWWP" height="0" width="0" style="display:none;visibility:hidden">
-</iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
-<div class="storelogy-blockout" bis_skin_checked="1">
-	<div class="loading-layout-fullblock" bis_skin_checked="1">
-		<div class="loading" style="background-image:url(https://aduh.id/frontend/images/ajax-loader.gif)" data-content="MEMUAT" bis_skin_checked="1">
-		</div>
-	</div>
-	<!-- main container of all the page elements -->
-	<div id="wrapper" bis_skin_checked="1">
-		<!-- top navigation -->
-		<header id="default-header" class="style19">
-		<!-- mt top bar start here -->
-		<!-- mt top bar end here -->
-		<div class="container" bis_skin_checked="1">
-			<!-- mt bottom bar start here -->
-			<div class="default-bottom-bar" bis_skin_checked="1">
-				<div class="row" bis_skin_checked="1">
-					<div class="col-xs-12" bis_skin_checked="1">
-						<!-- mt top social start here -->
-						<div class="col-xs-2" bis_skin_checked="1">
-							<ul class="default-top-social social-network">
-								<li>
-									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-								</li>
-								<li>
-									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-								</li>
-								<li>
-									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
-								</li>
-							</ul>
-							<!-- mt top social end here --></div>
-              <div class="col-xs-8" bis_skin_checked="1">
-    <div style="width: 270px; height: 70px; display: flex; justify-content: center; align-items: center; position: relative; margin: auto;">
-        <a href="https://jaxlocksmithpro.com/">
-            <img src="https://studiointermedia.com/images/2025/06/04/logokidultoto.png" style="width: 270px; height: 70px; object-fit: contain;">
-        </a>
-    </div>
-</div>
-						<!-- mt icon list start here -->
-						<div class="col-xs-2" bis_skin_checked="1">
-							<ul class="default-icon-list">
-								<li class="hidden-lg hidden-md">
-									<a href="javascript:void(0)" class="bar-opener mobile-toggle">
-									<span class="bar"></span>
-									<span class="bar small"></span>
-									<span class="bar"></span>
-									</a>
-								</li>
-								<!-- <li id="iconSearch"><a href="javascript:void(0)" class="icon-magnifier"></a></li> -->
-								<li>
-									<a href="javascript:void(0)" id="search-button" class="icon-magnifier"></a>
-									<form action="https://jaxlocksmithpro.com/product" method="GET" id="form-search" class="navbar-form navbar-right navbar-form-search">
-										<div class="search-form-container hdn" id="search-input-container" bis_skin_checked="1">
-											<div class="search-input-group" bis_skin_checked="1">
-												<div class="form-group" bis_skin_checked="1">
-													<input type="text" id="input-product-search" name="product" placeholder="Search product." class="form-control"></div>
-											</div>
-										</div>
-									</form>
-								</li>
-								<li class="drop">
-									<a href="javascript:void(0)" class="icon-heart cart-opener custom" id="btn-notif-wishlist"><span style="margin-bottom: -3px; display:none;" class="num" id="wishlist-count">0</span></a>
-									<!-- mt drop start here -->
-									<div class="default-drop" bis_skin_checked="1">
-										<!-- mt drop sub start here -->
-										<div class="default-drop-sub" bis_skin_checked="1">
-											<!-- mt side widget start here -->
-											<div class="default-side-widget" id="notif-wishlist-area" bis_skin_checked="1"></div>
-											<!-- mt side widget end here --></div>
-										<!-- mt drop sub end here --></div>
-									<!-- mt drop end here -->
-									<span class="default-mdropover"></span>
-								</li>
-								<li class="drop">
-									<a class="cart-opener custom" id="btn-notif-cart">
-									<span class="icon-handbag"></span>
-									<span class="num" id="cart-count" style="display: none;">0</span>
-									</a>
-									<!-- mt drop start here -->
-									<div class="default-drop" bis_skin_checked="1">
-										<!-- mt drop sub start here -->
-										<div class="default-drop-sub" bis_skin_checked="1">
-											<!-- mt side widget start here -->
-											<div class="default-side-widget" id="notif-cart-area" bis_skin_checked="1"></div>
-											<!-- mt side widget end here --></div>
-										<!-- mt drop sub end here --></div>
-									<!-- mt drop end here -->
-									<span class="default-mdropover"></span>
-								</li>
-							</ul>
-							<!-- mt icon list end here --></div>
-					</div>
-				</div>
-				<!-- mt bottom bar start here --></div>
-			<!-- mt nav holder start here -->
-			<div class="default-nav-holder text-center" bis_skin_checked="1">
-				<div class="container" bis_skin_checked="1">
-					<div class="row" bis_skin_checked="1">
-						<div class="col-xs-12" bis_skin_checked="1">
-							<!-- navigation start here -->
-							<nav id="nav">
-							<ul>
-								<li>
-									<a class="drop-linkz " href="https://jaxlocksmithpro.com/">Link KIDULTOTO</a>
-								</li>
-								<li>
-									<a href="https://jaxlocksmithpro.com/" class="active">Daftar KIDULTOTO</a>
-								</li>
-								<li>
-									<a class="drop-linkz " href="https://jaxlocksmithpro.com/">Login KIDULTOTO</a>
-								</li>
-								<li>
-									<a href="https://jaxlocksmithpro.com/" class="">Live Chat KIDULTOTO</a>
-								</li>
-								<li>
-									<a class="drop-linkz " href="https://jaxlocksmithpro.com/">Situs KIDULTOTO</a>
-								</li>
-							</ul>
-							</nav>
-							<!-- mt icon list end here --></div>
-					</div>
-				</div>
-			</div>
-			<!-- mt nav holder end here -->
-			<!-- mt side menu start here -->
-			<!-- <div class="default-side-menu">
-		<div class="default-holder">
-			<a href="javascript:void(0)" class="side-close"><span></span><span></span></a>
-			<strong class="default-side-title">MY ACCOUNT</strong>
-			<div class="default-side-widget">
-				<header>
-					<span class="default-side-subtitle">SIGN IN</span>
-					<p>Welcome back! Sign in to Your Account</p>
-				</header>
-				<form action="#">
-					<fieldset>
-						<input type="text" placeholder="Username or email address" class="input">
-						<input type="password" placeholder="Password" class="input">
-						<div class="box">
-							<span class="left"><input class="checkbox" type="checkbox" id="check1"><label for="check1">Remember Me</label></span>
-							<a href="javascript:void(0)" class="help">Help?</a>
-						</div>
-						<button type="submit" class="btn-type1">Login</button>
-					</fieldset>
-				</form>
-			</div>
-			<div class="or-divider"><span class="txt">or</span></div>
-			<div class="default-side-widget">
-				<header>
-					<span class="default-side-subtitle">CREATE NEW ACCOUNT</span>
-					<p>Create your very own account</p>
-				</header>
-				<form action="#">
-					<fieldset>
-						<input type="text" placeholder="Username or email address" class="input">
-						<button type="submit" class="btn-type1">Register</button>
-					</fieldset>
-				</form>
-			</div>
-		</div>
-	</div> -->
-			<span class="default-side-over"></span>
-		</div>
-		</header>
-		<!-- mt search popup start here -->
-		<!-- <div class="default-search-popup">
-	<div class="default-holder">
-		<a href="javascript:void(0)" class="search-close"><font style="position: absolute;top: 15px;left: -7px;">Cancel</font><span></span><span></span></a>
-		<div class="default-frame">
-			<form action="https://elementbike.id/product" method="GET" id="form-search">
-        <fieldset>
-          <input type="text" id="input-product-search" name="product" placeholder="Cari nama produk.." />
-          <span hidden class="icon-microphone"></span>
-          <button class="icon-magnifier" type="submit"></button>
-        </fieldset>
-       </form>
-    </div>
-  </div>
-</div> -->
-		<!-- mt search popup end here -->
-		<!-- /top navigation -->
-		<!-- page content -->
-		<div role="main" bis_skin_checked="1">
-    <div class="n-columns-2">
-                <a href="https://gunungkidul.store/kidultoto/" rel="nofollow noreferrer" class="login">LOGIN KIDULTOTO ↩</a>
-                <a href="https://gunungkidul.store/kidultoto/" rel="nofollow noreferrer" class="register">DAFTAR KIDULTOTO ↩</a>
-                </div>
-			<main id="default-main" data-group="product" data-title="product-detail-page" data-detail-id="301" data-use-variant="0" data-use-inventory="1" data-keep-buying="0"data-stock="10" data-use-wholesale="0"><section class="default-product-detail">
-			<div class="container" bis_skin_checked="1">
-				<div class="row" bis_skin_checked="1">
-					<div class="col-xs-12" bis_skin_checked="1">
-						<div class="slider slider-hidden" bis_skin_checked="1">
-							<ul class="list-unstyled comment-list">
-								<!-- <li><a href="#"><i class="fa fa-heart"></i>27</a></li>
-                    <li><a href="#"><i class="fa fa-comments"></i>12</a></li>
-                    <li><a hidden href="#"><i class="fa fa-share-alt"></i>14</a></li> -->
-							</ul>
-							<div class="product-slider slick-initialized slick-slider" bis_skin_checked="1">
-								<div aria-live="polite" class="slick-list draggable" bis_skin_checked="1">
-									<div class="slick-track" style="opacity: 1; width: 10370px;" role="listbox" bis_skin_checked="1">
-										<div class="slide slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00" bis_skin_checked="1" style="width: 590px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1; display: block;">
-											<img class="big-img" src="https://studiointermedia.com/images/2025/06/04/kidultogel.jpeg" data-zoom-image="https://studiointermedia.com/images/2025/06/04/kidultogel.jpeg" alt="KIDULTOTO: Jalur Akses Vip ke Game Slot dan Togel Favorit Terbaru">
-										</div>
-										
-									</div>
-								</div>
-							</div>
-							<ul class="list-unstyled pagg-slider slick-initialized slick-slider" style="opacity: 1; display: block;">
-								<div aria-live="polite" class="slick-list draggable" bis_skin_checked="1"></div>
-							</ul>
-						</div>
-            
-						<div class="detail-holder" bis_skin_checked="1">
-							<!-- <ul class="list-unstyled breadcrumbs">
-                    <li><a href="#">Chairs <i class="fa fa-angle-right"></i></a></li>
-                    <li>Daftar KIDULTOTOs</li>
-                  </ul> -->
-							<h2 id="name-product">KIDULTOTO: Jalur Akses Vip ke Game Slot dan Togel Favorit Terbaru</h2>
-							<!-- <div class="rank-rating">
-                    <ul class="list-unstyled rating-list">
-                      <li><a href="#"><i class="fa fa-star"></i></a></li>
-                      <li><a href="#"><i class="fa fa-star"></i></a></li>
-                      <li><a href="#"><i class="fa fa-star"></i></a></li>
-                      <li><a href="#"><i class="fa fa-star-o"></i></a></li>
+
+    <body class="home page-template page-template-page-home page-template-page-home-php page page-id-2" data-amp-auto-lightbox-disable>
+        <div id="sidebar" class="page-sidebar mobile">
+            <div class="page-sidebar-scroll">
+                <div class="menu-main-menu-container">
+                    <ul id="menu-main-menu" class="nav-item">
+                        <li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-22"><a href="https://gocnhacuabo.com/donate/" aria-current="page"><i class="svg-beranda svg-menu"></i> Beranda</a></li>
+                        <li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="https://logintoto123.store/toto123"><i class="svg-slots svg-menu"></i> Slot Online</a></li>
+                        <li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://logintoto123.store/toto123"><i class="svg-casino svg-menu"></i> Live Casino</a></li>
+                        <li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://logintoto123.store/toto123"><i class="svg-sport svg-menu"></i> Sportsbook</a></li>
+                        <li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="https://logintoto123.store/toto123"><i class="svg-fishing svg-menu"></i> Arcade</a></li>
+                        <li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="https://logintoto123.store/toto123"><i class="svg-togel svg-menu"></i> Togel Online</a></li>
+                        <li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="https://logintoto123.store/toto123"><i class="svg-poker svg-menu"></i> Poker</a></li>
                     </ul>
-                    <span class="total-price">lang("main.Reviews") (12)</span>
-                  </div> -->
-							<div class="text-holder hidden-while-not-active" bis_skin_checked="1" style="opacity: 1;">
-								<span class="price before-price" style="padding-right: 5px; display: inline-block;"><del>Rp 50.000,00</del></span>
-								<span class="price after-price" style="display: inline-block;" data-price="10000" data-wholesale-id="">Rp 10.000,00</span>
-								<div id="wholesale-list-hidden" class="hidden" bis_skin_checked="1"></div>
-							</div>
-							<div style="display:table" bis_skin_checked="1">
-								<div class="social-button line-share-button" bis_skin_checked="1">
-									<i class="fab fa-line"></i>
-								</div>
-								<div class="social-button facebook-share-button" bis_skin_checked="1">
-									<i class="fab fa-facebook-f"></i>
-								</div>
-								<div class="social-button twitter-tweet-button" bis_skin_checked="1">
-									<i class="fab fa-twitter"></i>
-								</div>
-								<div class="social-button regular-share-button" bis_skin_checked="1">
-									<i class="fa fa-share-alt"></i>
-								</div>
-							</div>
-							<form action="javascript:void(0)" class="product-form">
-								<div class="row" bis_skin_checked="1">
-									<div class="col-md-3 col-sm-4 col-xs-4" bis_skin_checked="1">
-										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
-											<label>Weight</label>
-										</div>
-									</div>
-									<div class="col-md-9 col-sm-8 col-xs-8" bis_skin_checked="1">
-										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
-											<label style="font-weight:normal"><span id="weight">888</span> gram</label>
-										</div>
-									</div>
-									<div class="col-md-3 col-sm-4 col-xs-4" bis_skin_checked="1">
-										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
-											<label>Stock</label>
-										</div>
-									</div>
-									<div class="col-md-9 col-sm-8 col-xs-8" bis_skin_checked="1">
-										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
-											<label style="font-weight:normal">
-											<span id="stock">888.888</span>
-											</label>
-										</div>
-									</div>
-								</div>
-								<div class="row" style="margin-top:20px" bis_skin_checked="1">
-									<div class="col-md-3 col-sm-4 col-xs-4 hidden-while-not-active" bis_skin_checked="1" style="opacity: 1;">
-										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
-											<label for="quantity">Total</label>
-										</div>
-									</div>
-									<div class="col-md-9 col-sm-8 col-xs-8 hidden-while-not-active" bis_skin_checked="1" style="opacity: 1;">
-										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
-											<input type="hidden" id="id_product" value="301">
-											<input type="number" class="storelogy_numberformat input-qty" style="text-align:center" oninput="this.value=this.value.replace(/[^0-9]/g,'');" min="1" inputmode="numeric" pattern="[0-9]*" id="quantity" placeholder="1" value="1">
-										</div>
-									</div>
-								</div>
-								<br>
-								<fieldset class="add-to-cart-container">
-									<div class="p-0 col-sm-12 col-md-12" bis_skin_checked="1">
-										<div class="col-xs-12 col-sm-7 col-md-7 pt-10" style="padding-left:0" bis_skin_checked="1">
-                                            <a href="https://gunungkidul.store/kidultoto/">
-											<button type="button" id="post-varian" class="btn-type-cart" style="width:100%">Add to Cart</button></a>
-											<small id="disabled-product-notice" style="display: none;"><i class="fa fa-exclamation-triangle"></i> Produk ini tidak dapat dibeli karena bermasalah. Silahkan hubungi kami.</small>
-										</div>
-										<div class="col-xs-12 col-sm-5 col-md-5 pt-10 pr-0" bis_skin_checked="1">
-											<a class="btn-add-wishlist" data-value="301" data-id-combination="0">
-											<div id="wishlist-false-area" class=" pointer-cursor" bis_skin_checked="1">
-												<i class="fal fa-heart"></i> Add to Wishlist
-											</div>
-											<div id="wishlist-true-area" class=" hidden pointer-cursor" bis_skin_checked="1">
-												<i class="fa fa-heart"></i> Remove from WishList
-											</div>
-											</a>
-										</div>
-									</div>
-								</fieldset>
-								
-								<fieldset style="display: none;" id="not-enough-stock">
-									<div class="p-0 col-sm-12 col-md-12" bis_skin_checked="1">
-										<div class="col-xs-12 col-sm-12 col-md-12 pt-10" bis_skin_checked="1">
-											<label style="color: rgb(0, 238, 255)">Daftar KIDULTOTO in stock <span id="not-enough-stock-value">0</span></label>
-										</div>
-									</div>
-								</fieldset>
-							</form>
-							<div class="txt-wrap product_description" bis_skin_checked="1"></div>
-						</div>
-						<div id="list-price" bis_skin_checked="1">
-							<span data-var="" data-before="2724000" data-after="10000" data-weight="19500" data-use-wholesale="0" data-use-inventory="1" data-qty-stock="10" data-keep-buying="0"></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			</section>
-			<!-- <div class="product-detail-tab wow fadeInUp" data-wow-delay="0.4s">
-          <div class="container">
-            <div class="row">
-              <div class="col-xs-12">
-                <ul class="default-tabs text-center text-uppercase">
-                  <li><a href="#tab1" class="active">DESKRIPSI</a></li>
-                  <li><a href="#tab2">INFORMASI</a></li>
-                  <li><a href="#tab3">ULASAN (12)</a></li>
-                </ul>
-                <div class="tab-content"><div id="tab1"><p>Lorem ipsum</p></div>
-                  <div id="tab2">
-                    <p>Dolor sit amet</p>
-                  </div>
-                  <div id="tab3">
-                    <div class="product-comment">
-                      <div class="default-box">
-                        <div class="default-hold">
-                          <ul class="default-star">
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star-o"></i></li>
-                          </ul>
-                          <span class="name">John Wick</span>
-                          <time datetime="2016-01-01">09:10 Nov, 19 2016</time>
-                        </div>
-                        <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit sse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non</p>
-                      </div>
-                      <div class="default-box">
-                        <div class="default-hold">
-                          <ul class="default-star">
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star-o"></i></li>
-                            <li><i class="fa fa-star-o"></i></li>
-                          </ul>
-                          <span class="name">John Wick</span>
-                          <time datetime="2016-01-01">09:10 Nov, 19 2016</time>
-                        </div>
-                        <p>Usmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit sse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non</p>
-                      </div>
-                      <form action="#" class="p-commentform">
-                        <fieldset class="hidden">
-                          <h2>Tambah Komentar</h2>
-                          <div class="default-row">
-                            <label>Rating</label>
-                            <ul class="default-star">
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star-o"></i></li>
-                              <li><i class="fa fa-star-o"></i></li>
-                            </ul>
-                          </div>
-                          <div class="default-row">
-                            <label>Nama</label>
-                            <input type="text" class="form-control"></div>
-                          <div class="default-row">
-                            <label>E-Mail</label>
-                            <input type="text" class="form-control"></div>
-                          <div class="default-row">
-                            <label>Ulasan</label>
-                            <textarea class="form-control"></textarea>
-                          </div>
-                          <button type="submit" class="btn-type4">TAMBAH ULASAN</button>
-                        </fieldset>
-                      </form>
-                    </div>
-                  </div>
                 </div>
-              </div>
+                <div class="sidebar-shortcuts"></div>
+                <div class="menu-contact-menu-container">
+                    <ul id="menu-contact-menu" class="nav-item">
+                        <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123"><i class="svg-whatsapp svg-menu"></i> Whatsapp</a></li>
+                        <li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123"><i class="svg-telegram svg-menu"></i> Telegram</a></li>
+                        <li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123"><i class="svg-livechat svg-menu"></i> Livechat</a></li>
+                    </ul>
+                </div>
             </div>
-          </div>
-        </div> -->
-			<div class="related-products wow fadeInUp mt-40" data-wow-delay="0.4s" bis_skin_checked="1" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-				<div class="container" bis_skin_checked="1">
-					<div class="row" bis_skin_checked="1">
-						<div class="col-xs-12 mt-40" bis_skin_checked="1">
-							<div class="col-md-6" bis_skin_checked="1">
-              <div style="text-align: center;">
+        </div>
+        <input class="tg mobile" id="side-opener" type="checkbox">
+        <div id="content" class="page-content" data-snap-ignore="true">
+            <div class="header">
+                <div class="top-header">
+                    <div class="container">
+                        <div class="top-left">
+                            <div class="menu-contact-menu-container">
+                                <ul id="menu-contact-menu-1" class="contact-us">
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123"><i class="svg-whatsapp svg-menu"></i> Whatsapp</a></li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123"><i class="svg-telegram svg-menu"></i> Telegram</a></li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123"><i class="svg-livechat svg-menu"></i> Livechat</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="top-right">
+                            <div class="login-panel">
+                                <div class="menu-login-menu-container">
+                                    <ul id="menu-login-menu" class="menu">
+                                        <li id="menu-item-20" class="daftar menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123">Daftar</a></li>
+                                        <li id="menu-item-21" class="login menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123">Login</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-bar">
+                    <div class="container">
+                        <label class="deploy-sidebar" for="side-opener"></label>
+                        <div class="site-logo">
+                            <a href="https://gocnhacuabo.com/donate/">
+                                <amp-img src="https://studiointermedia.com/images/2025/02/13/toto123.png" alt="TOTO123" width="300" height="99" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9Ijk5IiB3aWR0aD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                    <noscript><img src="https://studiointermedia.com/images/2025/02/13/toto123.png" alt="TOTO123" width="300" height="99"></noscript></amp-img>
+                            </a>
+                        </div>
+                        <div class="menu-main-menu-container">
+                            <ul id="menu-main-menu-1" class="main-menu">
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-22"><a href="https://gocnhacuabo.com/donate/" aria-current="page"><i class="svg-beranda svg-menu"></i> Beranda</a></li>
+                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="https://logintoto123.store/toto123"><i class="svg-slots svg-menu"></i> Slot Online</a></li>
+                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://logintoto123.store/toto123"><i class="svg-casino svg-menu"></i> Live Casino</a></li>
+                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://logintoto123.store/toto123"><i class="svg-sport svg-menu"></i> Sportsbook</a></li>
+                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="https://logintoto123.store/toto123"><i class="svg-fishing svg-menu"></i> Arcade</a></li>
+                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="https://logintoto123.store/toto123"><i class="svg-togel svg-menu"></i> Togel Online</a></li>
+                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="https://logintoto123.store/toto123"><i class="svg-poker svg-menu"></i> Poker</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
 
-<div style="text-align: justify;">
+            </div>
+            <div class="sticky"></div>
 
-<h1 style="text-align: center;">KIDULTOTO: Jalur Akses Vip ke Game Slot dan Togel Favorit Terbaru</h1>
+            <div class="main">
+                <div class="slide">
+                    <div class="row">
+                        <div class="main-slide col-sm-12">
+                            <amp-img alt="slider" src="https://studiointermedia.com/images/2025/07/26/toto123gas.jpeg" width="600" height="600" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjY0MCIgd2lkdGg9IjE5MjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="slider" src="https://studiointermedia.com/images/2025/07/26/toto123gas.jpeg"></amp-img>
+                        </div>
+                    </div>
+                </div>
+                <div class="menu-mobile mobile">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="menu-login-menu-container">
+                                    <ul id="menu-login-menu-1" class="login-mobile">
+                                        <li class="daftar menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123">Daftar</a></li>
+                                        <li class="login menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a target="_blank" rel="nofollow" href="https://logintoto123.store/toto123">Login</a></li>
+                                        
+                                    </ul>
+                                </div>
+                                <div class="menu-main-homepage-container">
+                                    <ul id="menu-main-homepage" class="main-homepage">
+                                        <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-84"><a href="https://gocnhacuabo.com/donate/" aria-current="page"><i class="svg-beranda svg-menu"></i> Home</a></li>
+                                        <li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="https://logintoto123.store/toto123"><i class="svg-hot svg-menu"></i> Hot Games</a></li>
+                                        <li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a href="https://logintoto123.store/toto123"><i class="svg-slots svg-menu"></i> Slots</a></li>
+                                        <li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://logintoto123.store/toto123"><i class="svg-casino svg-menu"></i> Live Casino</a></li>
+                                        <li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="https://logintoto123.store/toto123"><i class="svg-sport svg-menu"></i> Sports</a></li>
+                                        <li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81"><a href="https://logintoto123.store/toto123"><i class="svg-fishing svg-menu"></i> Arcade</a></li>
+                                        <li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82"><a href="https://logintoto123.store/toto123"><i class="svg-poker svg-menu"></i> Poker</a></li>
+                                        <li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a href="https://logintoto123.store/toto123"><i class="svg-togel svg-menu"></i> Togel Online</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-rounded">
+                    <div class="container">
+                        <div class="jackpot">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <amp-anim alt="Jackpot Slot" src="https://studiointermedia.com/images/2025/07/25/jackpot-gacor.gif" width="1179" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjExNzkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+                                    </amp-anim>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="games">
+                            <div class="title-row col-sm-12"><i class="svg-gacor svg-content"></i> Best Wins</div>
+                            <div class="ct-rounded">
+                                <div class="row">
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Mahjong Wins 3" src="https://studiointermedia.com/images/2025/06/19/Mahjong_20Wins_203.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer>
+                                                        <img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Mahjong Wins 3" src="https://studiointermedia.com/images/2025/06/19/Mahjong_20Wins_203.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Mahjong Wins 3</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Gates of Olympus 1000" src="https://studiointermedia.com/images/2025/06/19/Gates_20of_20Olympus_201000.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer>
+                                                        <img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Gates of Olympus 1000" src="https://studiointermedia.com/images/2025/06/19/Gates_20of_20Olympus_201000.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Gates of Olympus 1000</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Lucky Twins Power Clusters" src="https://studiointermedia.com/images/2025/06/19/Lucky_20Twins_20Power_20Clusters.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer>
+                                                        <img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Lucky Twins Power Clusters" src="https://studiointermedia.com/images/2025/06/19/Lucky_20Twins_20Power_20Clusters.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Lucky Twins Power Clusters</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="SixSixSix" src="https://studiointermedia.com/images/2025/06/19/SixSixSix.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer>
+                                                        <img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="SixSixSix" src="https://studiointermedia.com/images/2025/06/19/SixSixSix.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">SixSixSix</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Treasure Wild" src="https://studiointermedia.com/images/2025/06/19/Le_20Pharaoh.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Treasure Wild" src="https://studiointermedia.com/images/2025/06/19/Le_20Pharaoh.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Le Pharaoh</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Aztec Bonanza" src="https://studiointermedia.com/images/2025/06/19/The_20Queens_20Banquet.gif" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Aztec Bonanza" src="https://studiointermedia.com/images/2025/06/19/The_20Queens_20Banquet.gif"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">The Queen's Banquet</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="title-row col-sm-12"><i class="svg-new svg-content"></i> Popular Games</div>
+                            <div class="ct-rounded">
+                                <div class="row">
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="treasure bowl" src="https://studiointermedia.com/images/2025/06/19/Wild_20Bounty_20Showdown.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="treasure bowl" src="https://studiointermedia.com/images/2025/06/19/Wild_20Bounty_20Showdown.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Wild Bounty Showdown</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Break Away Lucky Wilds" src="https://studiointermedia.com/images/2025/06/19/Fortune_20Ox.gif" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Break Away Lucky Wilds" src="https://studiointermedia.com/images/2025/06/19/Fortune_20Ox.gif"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Fortune Ox</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="1000 Wishes" src="https://studiointermedia.com/images/2025/06/19/Fortune_20Rabbit.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="1000 Wishes" src="https://studiointermedia.com/images/2025/06/19/Fortune_20Rabbit.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Fortune Rabbit</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Chronicles of Olympus X Up" src="https://studiointermedia.com/images/2025/06/19/Mask_20Carnival.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Chronicles of Olympus X Up" src="https://studiointermedia.com/images/2025/06/19/Mask_20Carnival.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Mask Carnival</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Elven Gold" src="https://studiointermedia.com/images/2025/06/19/Bali_20Vacation.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Elven Gold" src="https://studiointermedia.com/images/2025/06/19/Bali_20Vacation.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Bali Vacation</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Silverback Multiplier Mountain" src="https://studiointermedia.com/images/2025/06/19/Speed_20Winner.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Silverback Multiplier Mountain" src="https://studiointermedia.com/images/2025/06/19/Speed_20Winner.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Speed Winner</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="title-row col-sm-12"><i class="svg-populer svg-content"></i> Hot Games</div>
+                            <div class="ct-rounded">
+                                <div class="row">
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Phoenix Rises" src="https://studiointermedia.com/images/2025/06/19/Rave_20Party_20Fever.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Phoenix Rises" src="https://studiointermedia.com/images/2025/06/19/Rave_20Party_20Fever.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Rave Party Fever</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Treasures of Aztec" src="https://studiointermedia.com/images/2025/06/19/Treasures_20of_20Aztec.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Treasures of Aztec" src="https://studiointermedia.com/images/2025/06/19/Treasures_20of_20Aztec.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Treasures of Aztec</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="garuda gems" src="https://studiointermedia.com/images/2025/06/19/Mahjong_20Ways_203.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="garuda gems" src="https://studiointermedia.com/images/2025/06/19/Mahjong_20Ways_203.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Mahjong Ways 3</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Heist Stakes" src="https://studiointermedia.com/images/2025/06/19/Heist_20Stakes.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Heist Stakes" src="https://studiointermedia.com/images/2025/06/19/Heist_20Stakes.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Heist Stakes</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="wild fireworks" src="https://studiointermedia.com/images/2025/06/19/Fortune_20Gems_202.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="wild fireworks" src="https://studiointermedia.com/images/2025/06/19/Fortune_20Gems_202.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Fortune Gems 2</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="game-wrapper">
+                                            <div class="game-img">
+                                                <div class="image-wrapper">
+                                                    <amp-img alt="Treasures Aztec" src="https://studiointermedia.com/images/2025/06/19/Carnaval_20Fiesta.webp" width="200" height="200" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-hero-candidate="" data-hero i-amphtml-ssr i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Treasures Aztec" src="https://studiointermedia.com/images/2025/06/19/Carnaval_20Fiesta.webp"></amp-img>
+                                                </div>
+                                                <div class="games-wrapper"></div>
+                                                <div class="title-games">Carnaval Fiesta</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-<p>Mau main game slot dan togel dengan peluang menang gede? <a href="https://jaxlocksmithpro.com/" style="color: #0077b6;">KIDULTOTO</a> b jawabannya! Dapatkan akses VIP eksklusif ke berbagai game slot terbaru dan togel favorit, yang pastinya bikin seru dan penuh tantangan. Dengan peluang menang yang lebih besar, kamu bisa meraih keuntungan lebih cepat! Kami memberikan pengalaman bermain yang aman dan nyaman, dengan sistem yang dilengkapi teknologi enkripsi canggih untuk menjaga privasi kamu. Ga hanya itu, KIDULTOTO juga selalu memberikan update game terbaru dan menarik setiap saat.</p>
+                <div class="disclaimer">
+                    <div class="container">
+                        <div class="article" id="post-2">
+                            <div id="post-20">
 
-<p><strong>Jadi, tunggu apa lagi? Gabung sekarang di <a href="https://jaxlocksmithpro.com/" style="color: #0077b6;">KIDULTOTO</a> dan nikmati pengalaman bermain yang lebih mudah, seru, dan pastinya lebih menguntungkan. Raih kemenangan besarmu sekarang juga!!</strong></p>
+                                <h1 data-amp-original-style="text-align: center;" class="amp-wp-cdd8ca0"><span data-amp-original-style="color: #ffcc00;" class="amp-wp-c0442c5"><strong>TOTO123 : Rumah Terbaik Untuk Bermain Togel Online Dengan Pasaran Lengkap Dan Terpercaya</strong></span></h1>
+                                <p style="text-align: left;">Buat kamu yang doyan main togel dan lagi cari tempat paling pas buat cuan, <a href="https://gocnhacuabo.com/donate/">Toto123</a> adalah jawabannya! Bukan sekadar situs togel online biasa, TOTO123 udah jadi rumah buat para togel mania dari seluruh Indonesia. Di sini, lo bisa main dengan santai, tapi tetap punya peluang menang gede. Kenapa? Karena pasaran di TOTO123 super lengkap, mulai dari togel Macau, Singapore, Hongkong, Sydney, sampai pasaran-pasaran eksklusif yang jarang ada di tempat lain!
 
-</div>
+Gak cuma itu, TOTO123 juga punya sistem yang cepat dan aman. Daftar gampang, deposit kilat, WD juga lancar tanpa nunggu lama. Semua proses dijamin transparan dan fair play. Lo gak perlu khawatir soal keamanan, karena TOTO123 udah terpercaya dan dipakai ribuan pemain aktif setiap hari.
+
+Yang bikin beda, TOTO123 selalu ngasih promo dan bonus menarik buat member baru maupun setia. Dari bonus deposit, cashback kekalahan, hingga hadiah kejutan tiap minggu! Buat lo yang lagi pengen coba peruntungan, TOTO123 tempat yang cocok banget buat mulai.
+
+Jadi, kalau lo masih main di tempat yang bikin ribet atau sering delay WD, mending pindah ke TOTO123 sekarang juga. Di sini, lo bukan cuma main, tapi juga berasa kayak di rumah sendiri. Yuk gasin, buktiin sendiri serunya main di TOTO123 — tempatnya para jagoan togel!</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            <div class="footer">
+                <div class="provider">
+                    <div class="container">
+                        <div class="footer-title">Penyedia Games</div>
+                        <div class="col-border">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <amp-img alt="pragmatic" src="https://studiointermedia.com/images/2025/06/19/pragmatic.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="pragmatic" src="https://studiointermedia.com/images/2025/06/19/pragmatic.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="pgsoft" src="https://studiointermedia.com/images/2025/06/19/pgsoft.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="pgsoft" src="https://studiointermedia.com/images/2025/06/19/pgsoft.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="habanero" src="https://studiointermedia.com/images/2025/06/19/habanero.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="habanero" src="https://studiointermedia.com/images/2025/06/19/habanero.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="cq9" src="https://studiointermedia.com/images/2025/06/19/cq9.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="cq9" src="https://studiointermedia.com/images/2025/06/19/cq9.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="spadegaming" src="https://studiointermedia.com/images/2025/06/19/spadegaming.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="spadegaming" src="https://studiointermedia.com/images/2025/06/19/spadegaming.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="ttg" src="https://studiointermedia.com/images/2025/06/19/ttg.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="ttg" src="https://studiointermedia.com/images/2025/06/19/ttg.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="joker" src="https://studiointermedia.com/images/2025/06/19/joker.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="joker" src="https://studiointermedia.com/images/2025/06/19/joker.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="microgaming" src="https://studiointermedia.com/images/2025/06/19/microgaming.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="microgaming" src="https://studiointermedia.com/images/2025/06/19/microgaming.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="ion casino" src="https://studiointermedia.com/images/2025/06/19/ioncasino.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="ion casino" src="https://studiointermedia.com/images/2025/06/19/ioncasino.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="sexy gaming" src="https://studiointermedia.com/images/2025/06/19/sexygaming.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="sexy gaming" src="https://studiointermedia.com/images/2025/06/19/sexygaming.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="allbet" src="https://studiointermedia.com/images/2025/06/19/allbet.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="allbet" src="https://studiointermedia.com/images/2025/06/19/allbet.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="idnlive" src="https://studiointermedia.com/images/2025/06/19/idnlive.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="idnlive" src="https://studiointermedia.com/images/2025/06/19/idnlive.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <amp-img alt="saba sports" src="https://studiointermedia.com/images/2025/06/19/sabasports.png" width="120" height="60" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                                <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwIiB3aWR0aD0iMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="saba sports" src="https://studiointermedia.com/images/2025/06/19/sabasports.png" width="120" height="60"></noscript></amp-img>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="payment">
+                    <div class="container">
+                        <div class="footer-title">Metode Pembayaran</div>
+                        <div class="bank col-sm-12">
+                            <div class="col-title">Transfer Bank</div>
+                            <div class="col-border">
+                                <div class="row">
+
+                                    <div class="col-sm-2">
+                                        <amp-img alt="bca" src="https://studiointermedia.com/images/2025/06/19/bca.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="bca" src="https://studiointermedia.com/images/2025/06/19/bca.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="danamon" src="https://studiointermedia.com/images/2025/06/19/danamon.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="danamon" src="https://studiointermedia.com/images/2025/06/19/danamon.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="permata" src="https://studiointermedia.com/images/2025/06/19/permata.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="permata" src="https://studiointermedia.com/images/2025/06/19/permata.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="mandiri" src="https://studiointermedia.com/images/2025/06/19/mandiri.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="mandiri" src="https://studiointermedia.com/images/2025/06/19/mandiri.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="bni" src="https://studiointermedia.com/images/2025/06/19/bni.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="bni" src="https://studiointermedia.com/images/2025/06/19/bni.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="bri" src="https://studiointermedia.com/images/2025/06/19/bri.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="bri" src="https://studiointermedia.com/images/2025/06/19/bri.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="btpn" src="https://studiointermedia.com/images/2025/06/19/btpn.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="btpn" src="https://studiointermedia.com/images/2025/06/19/btpn.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="panin" src="https://studiointermedia.com/images/2025/06/19/panin.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="panin" src="https://studiointermedia.com/images/2025/06/19/panin.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="maybank" src="https://studiointermedia.com/images/2025/06/19/maybank.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="maybank" src="https://studiointermedia.com/images/2025/06/19/maybank.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="bjb" src="https://studiointermedia.com/images/2025/06/19/bjb.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="bjb" src="https://studiointermedia.com/images/2025/06/19/bjb.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pulsa col-sm-12">
+                            <div class="col-title">Pulsa</div>
+                            <div class="col-border">
+                                <div class="row">
+                                    <div class="col-sm-2">
+                                        <amp-img alt="xl" src="https://studiointermedia.com/images/2025/06/19/xl.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="xl" src="https://studiointermedia.com/images/2025/06/19/xl.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                            
+                                    <div class="col-sm-2">
+                                        <amp-img alt="telkomsel" src="https://studiointermedia.com/images/2025/06/19/telkomsel.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="telkomsel" src="https://studiointermedia.com/images/2025/06/19/telkomsel.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="axis" src="https://studiointermedia.com/images/2025/06/19/axis.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="axis" src="https://studiointermedia.com/images/2025/06/19/axis.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ewallet col-sm-12">
+                            <div class="col-title">E-Money</div>
+                            <div class="col-border">
+                                <div class="row">
+                                    <div class="col-sm-2">
+                                        <amp-img alt="dana" src="https://studiointermedia.com/images/2025/06/19/dana.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="dana" src="https://studiointermedia.com/images/2025/06/19/dana.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="ovo" src="https://studiointermedia.com/images/2025/06/19/ovo.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="ovo" src="https://studiointermedia.com/images/2025/06/19/ovo.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="link aja" src="https://studiointermedia.com/images/2025/06/19/linkaja.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="link aja" src="https://studiointermedia.com/images/2025/06/19/linkaja.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="gopay" src="https://studiointermedia.com/images/2025/06/19/gopay.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="gopay" src="https://studiointermedia.com/images/2025/06/19/gopay.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="dana" src="https://studiointermedia.com/images/2025/06/19/shopeepay.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="dana" src="https://studiointermedia.com/images/2025/06/19/shopeepay.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <amp-img alt="jenius" src="https://studiointermedia.com/images/2025/06/19/jenius.png" width="110" height="26" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer>
+                                            <amp-img alt="" aria-hidden="true" class="amp-wp-unknown-size amp-wp-unknown-width amp-wp-unknown-height amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjEyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI2IiB3aWR0aD0iMTEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" width="1200" height="400"></noscript></amp-img><noscript><img alt="jenius" src="https://studiointermedia.com/images/2025/06/19/jenius.png" width="110" height="26"></noscript></amp-img>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <amp-img class="site-footer amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" src="https://studiointermedia.com/images/2025/02/13/toto123.png" alt="TOTO123" width="319" height="45" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ1IiB3aWR0aD0iMzE5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="></i-amphtml-sizer><noscript><img src="https://studiointermedia.com/images/2025/02/13/toto123.png" alt="TOTO123" width="319" height="45"></noscript></amp-img>
+                <div class="copyright">
+                    <div class="container">
+                        ©2025 <a href="https://gocnhacuabo.com/donate/">TOTO123</a><span>. All rights reserved | 18+</span>
+                    </div>
+                </div>
+                <div class="livechat">
+                    <div class="menu-livechat-menu-container">
+                        <ul id="menu-livechat-menu" class="quick-footer desktop">
+                            <li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a target="_blank" rel="noopener" href="https://logintoto123.store/toto123">Livechat <i class="svg-livechat-gray svg-menu"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="menu-contact-floating-container">
+                        <ul id="menu-contact-floating" class="contact-floating mobile">
+                            <li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a href="https://logintoto123.store/toto123"><i class="svg-whatsapp svg-menu"></i> Whatsapp</a></li>
+                            <li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="https://logintoto123.store/toto123"><i class="svg-gift svg-menu"></i> Promosi</a></li>
+                            <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="https://logintoto123.store/toto123"><i class="svg-livechat svg-menu"></i> Livechat</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+<amp-state id="astraAmpMenuExpanded" class="i-amphtml-layout-container" i-amphtml-layout="container"><script type="application/json">false</script></amp-state>    
+
+</body></html>
 
 
-
-
-
-							<div class="row" bis_skin_checked="1"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<input type="hidden" id="product_price" value="10000">
-			<input type="hidden" id="product_id" value="301">
-			<input type="hidden" id="product_sku" value="PM8S2IHKE-301">
-			<input type="hidden" id="product_name" value="KIDULTOTO: Jalur Akses Vip ke Game Slot dan Togel Favorit Terbaru">
-			<input type="hidden" id="product_category" value="Folding Bike">
-			<input type="hidden" id="product_use_variant" value="0"></main>
-		</div>
-		<!-- /page content -->
-		<!-- footer content -->
-		<!-- footer of the Page -->
-		<footer id="default-footer" class="style1 wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-		<!-- Footer Holder of the Page -->
-		<div class="footer-holder dark" bis_skin_checked="1">
-			<div class="row" style="padding-left:4%;padding-right:4%" bis_skin_checked="1">
-				<div class="container" style="padding:0" bis_skin_checked="1">
-					<div class="col-xs-12 col-sm-7 col-md-5 default-paddingbottomsm" bis_skin_checked="1">
-						<!-- F Widget Live Chat KIDULTOTO of the Page -->
-						<div class="f-widget-about" bis_skin_checked="1">
-							<div class="logo" bis_skin_checked="1">
-								<a href="https://gunungkidul.store/kidultoto/"><img src="https://studiointermedia.com/images/2025/06/04/favicon-kidul.png" alt="KIDULTOTO"></a>
-							</div>
-							<p>BY <b>SEO KEPET</b>
-							</p>
-							<!-- Social Network of the Page -->
-							<ul class="list-unstyled social-network">
-								<li style="">
-									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-								</li>
-								<li style="">
-									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-								</li>
-								<li style="">
-									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
-								</li>
-							</ul>
-							<!-- Social Network of the Page end --></div>
-						<!-- F Widget Live Chat KIDULTOTO of the Page end --></div>
-					<div class="col-xs-6 col-sm-6 col-md-2 default-paddingbottomsm" bis_skin_checked="1">
-						<div class="f-widget-news" bis_skin_checked="1">
-							<h3 class="f-widget-heading">Support</h3>
-							<ul class="list-unstyled f-widget-nav">
-								<li>
-									<a href="https://jaxlocksmithpro.com/">Live Chat KIDULTOTO</a>
-								</li>
-								<li>
-									<a href="https://jaxlocksmithpro.com/">Tentang KIDULTOTO</a>
-								</li>
-								<li>
-									<a href="https://jaxlocksmithpro.com/">FAQ</a>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-xs-6 col-sm-6 col-md-2 default-paddingbottomsm" bis_skin_checked="1">
-						<div class="f-widget-news" bis_skin_checked="1">
-							<h3 class="f-widget-heading">My Account</h3>
-							<ul class="list-unstyled f-widget-nav">
-								<li>
-									<a href="https://jaxlocksmithpro.com/">Profile</a>
-								</li><li>
-									<ahref="https://jaxlocksmithpro.com/">Address</a>
-								</li>
-								<li>
-									<a href="https://jaxlocksmithpro.com/">Payment Confirmation</a>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-6 col-md-3 text-left" bis_skin_checked="1">
-						<!-- F Widget Live Chat KIDULTOTO of the Page -->
-						<div class="f-widget-about" bis_skin_checked="1">
-							<h3 class="f-widget-heading">Information</h3>
-							<ul class="list-unstyled address-list align-left">
-								<li>
-									<span><i class="fal fa-map-marker"></i>Jepara Kidul Terebaru, Jl. Departemen Perjudian Rakyat - Slotgacor No.KM.08, Kec. Online, Kabupaten Gacor, Toto Macau 48752, Indonesia</span>
-								</li>
-								<li>
-									<span><i class="fal fa-phone"></i>0812345345</span>
-								</li>
-								<li>
-									<span><i class="fal fa-envelope" style="margin: 1px 9px 0 0;"></i><a href="https://jaxlocksmithpro.com/"><span class="__cf_email__" data-cfemail="1d7e686e697270786f7e7c6f785d787178707873697473797273786e747c337e7270">KIDULTOTO</span></a></span>
-								</li>
-							</ul>
-						</div>
-						<!-- F Widget Live Chat KIDULTOTO of the Page end --></div>
-				</div>
-			</div>
-		</div>
-		<!-- Footer Holder of the Page end -->
-		<!-- Footer Area of the Page -->
-		<div class="footer-area" bis_skin_checked="1">
-			<div class="container" bis_skin_checked="1">
-				<div class="row" bis_skin_checked="1">
-					<div class="col-xs-12 col-sm-6" bis_skin_checked="1">
-						<p>
-							2025 © <a href="https://jaxlocksmithpro.com/">KIDULTOTO</a> - All rights reserved<br></p>
-					</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Footer Area of the Page end --></footer>
-		<!-- footer of the Page end -->
-		<!-- /footer content -->
-		<!-- W1 end here -->
-		<span id="back-top" class="fa fa-arrow-up"></span>
-		<div id="result" bis_skin_checked="1"></div>
-	</div>
-</div>
-<div id="loading-blockout" class="loading-layout-fullblock loading-blockout hidden" bis_skin_checked="1"></div>
-<!-- Custom Theme Style -->
-<iframe allow="join-ad-interest-group" data-tagging-id="G-L5PKFZXB4Q" data-load-time="1743228204641" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-L5PKFZXB4Q&amp;gacid=1132836547.1743228205&amp;gtm=45je53q1v874682840za200zb9123181947&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=102482433~102788824~102803279~102813109~102887799~102926062&amp;z=378459554" style="display: none; visibility: hidden;" bis_size="{&quot;x&quot;:0,&quot;y&quot;:315,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:315}" bis_id="fr_iwth9r1xvxj09yqk0kqu71" bis_depth="0" bis_chainid="1">
-</iframe>
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic%7cMontserrat:400,700%7cOxygen:400,300,700" rel="stylesheet" type="text/css">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","279743732741976");fbq("set","agent","tmgoogletagmanager","279743732741976");fbq("track","PageView");</script>
-<noscript>
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=279743732741976&amp;ev=PageView&amp;noscript=1">
-</noscript>
-<link href="https://elementbike.id/frontend/css/jquery-ui.min.css" rel="stylesheet">
-<!-- <link rel="stylesheet" href="//min.gitcdn.xyz/repo/DoclerLabs/Protip/master/protip.min.css"> -->
-<link rel="stylesheet" href="https://elementbike.id/vendors/animsition/css/animsition.min.css">
-<!-- Custom Theme Style -->
-<!-- Custom Theme Scripts -->
-<script src="https://elementbike.id/frontend/js/jquery.js"></script>
-<script defer="" src="https://elementbike.id/frontend/js/jquery-ui.min.js"></script>
-<!-- include jQuery -->
-<script defer="" src="https://elementbike.id/frontend/js/plugins.min.js"></script>
-<!-- include jQuery -->
-<script defer="" src="https://elementbike.id/frontend/js/jquery.main.min.js"></script>
-<!-- <script defer src="https://elementbike.id/frontend/js/jssor.slider.min.js"></script> -->
-<script defer="" src="https://elementbike.id/frontend/js/jquery-elevatezoom.min.js"></script>
-<script defer="" src="https://elementbike.id/frontend/js/dropzone.min.js"></script>
-<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallbackRecaptcha&amp;render=explicit" async="" defer=""></script>
-<!-- <script defer src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDmK86zkGzeC9jfNWy_Cy77S2_id13OV8s"></script> -->
-<script defer="" src="https://app.midtrans.com/snap/snap.js" data-client-key="Mid-client-n-EDCTgMNxci6GdR"></script>
-<!-- <script defer src="//min.gitcdn.xyz/repo/DoclerLabs/Protip/master/protip.min.js"></script> -->
-<script src="https://elementbike.id/vendors/animsition/js/animsition.min.js"></script>
-<script defer="">try{$.protip({position:"top",});}catch(e){}</script>
-<script type="text/javascript">var onloadCallbackRecaptcha=function(){var element=document.getElementById("hidden_recaptcha");if(typeof(element)!="undefined"&&element!=null){grecaptcha.render("hidden_recaptcha",{"sitekey":"6LfauYsUAAAAAH53euEmXzw4gXRVtedwKReS1THo",});resizeReCaptcha();}};function resizeReCaptcha(){var width=$("#hidden_recaptcha").parent().width();var scale=width/302;$("#hidden_recaptcha").css("transform","scale("+scale+")");$("#hidden_recaptcha").css("-webkit-transform","scale("+scale+")");$("#hidden_recaptcha").css("transform-origin","0 0");$("#hidden_recaptcha").css("-webkit-transform-origin","0 0");};</script>
-<script>var phpJsLang={validator:{invalid:"Isian tidak valid",checked:"Harus dicentang",empty:"Kolom ini harus diisi",min:"Isian terlalu sedikit",max:"Isian terlalu panjang",number_min:"Angka yang dimasukkan terlalu kecil",number_max:"Angka yang dimasukkan terlalu besar",url:"Format URL salah",number:"Isian harus angka",email:"Format alamat email salah",email_repeat:"Alamat email tidak cocok",password_repeat:"Password tidak sama",repeat:"Tidak sama",complete:"Isian tidak lengkap",select:"Silahkan pilih dari pilihan yang tersedia",date:"Format tanggal tidak valid"},};var phpJsLangx={YouMustCheckThisCheckbox:"You must check this checkbox to continue.",NoDaftar KIDULTOTOYet:"No product yet.",ClickThisButtonToResend:"Click this button to resend your activation email",ResendEmail:"Resend email.",Available:"Available",SoldOut:"Sold out",Success:"Success",InsufficientStock:"Daftar KIDULTOTO Stock Insufficient",Daftar KIDULTOTOHasBeenAdded:"Daftar KIDULTOTO has been added.",}</script>
-
-
-</body>
-</html>
+<!-- Page cached by LiteSpeed Cache 7.2 on 2025-06-19 03:37:34 -->
