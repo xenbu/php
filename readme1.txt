@@ -1,455 +1,1152 @@
-
-
-
-
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="id" amp="" data-amp-auto-lightbox-disable="" transformed="self;v=1" i-amphtml-layout="" i-amphtml-no-boilerplate="" i-amphtml-binding="">
-
+<!doctype html>
+<html amp lang="id">
 <head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width,viewport-fit=cover">
-<link rel="preconnect" href="https://cdn.ampproject.org">
-<style amp-runtime="" i-amphtml-version="012410161801000">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>TOTO123 ⚜️ LINK SITUS GACOR SLOT SERVER THAILAND PALING GAMPANG MENANG HARI INI!</title>
+    <link itemprop="mainEntityOfPage" rel="canonical" href="https://felsokrisztina.net/FK_lap/">
+    <link href="https://studiointermedia.com/images/2025/01/27/fav.png" rel="shortcut icon" type="image/x-icon">
+    <meta content="TOTO123 Slot gacor yang saat ini kami rekomendasikan menawarkan RTP tertinggi di seluruh Indonesia, menjadikan permainan kami sangat mudah dimenangkan bahkan dengan modal kecil." name="description" />
+    <meta content="TOTO123,TOTO123 gacor,daftar TOTO123,agen TOTO123,TOTO123 online,TOTO123,situs TOTO123, TOTO123,judi TOTO123,situs TOTO123" name="keywords" />
+    <meta content="id-ID" property="og:locale" />
+    <meta content="website" property="og:type" />
+    <meta content="TOTO123 ⚜️ LINK SITUS GACOR SLOT SERVER THAILAND PALING GAMPANG MENANG HARI INI!" property="og:title" />
+    <meta content="TOTO123 Slot gacor yang saat ini kami rekomendasikan menawarkan RTP tertinggi di seluruh Indonesia, menjadikan permainan kami sangat mudah dimenangkan bahkan dengan modal kecil." property="og:description" />
+    <meta content="https://felsokrisztina.net/FK_lap/" property="og:url" />
+    <link rel="amphtml" href="https://mbrew.site/gacor/toto-gacor.html">
+    <meta content="TOTO123_official" property="og:site_name" />
+    <meta content="DarkGold" name="theme-color" />
+    <meta content="id-ID" name="language" />
+    <meta content="Indonesia" name="geo.region" />
+    <meta content="Indonesia" name="geo.placename" />
+    <meta content="website" name="categories" />
+    <link rel="icon" type="image/x-icon" href="https://studiointermedia.com/images/2025/01/27/fav.png" />
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+    <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
+    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+    <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1,end) 0s 1 normal both
+        }
+    
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+    
+            to {
+                visibility: visible
+            }
+        }
+    
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+    
+            to {
+                visibility: visible
+            }
+        }
+    
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+    
+            to {
+                visibility: visible
+            }
+        }
+    
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+    
+            to {
+                visibility: visible
+            }
+        }
+    
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+    
+            to {
+                visibility: visible
+            }
+        }
+    </style>
+    <noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+    <style amp-custom>
+        :root{--small-font:12px;--normal-font:14px;--large-font:16px;--x-large-font:18px}body{font-size:var(--small-font);display:flex;flex-direction:column;padding-top:54px;padding-bottom:52px}a{text-decoration:none}summary{outline:none;list-style-type:none}summary::-webkit-details-marker{display:none}.container{align-self:center;margin-left:auto;margin-right:auto}.logo-container{text-align:center;padding:5px;display:flex;justify-content:center;align-items:center;position:fixed;top:0;left:0;right:0;z-index:99}.logo-container .logo{display:block;position:relative;width:180px;height:45px}.logo-container .logo amp-img{flex-grow:1}.logo-container .logo amp-img img{object-fit:contain}.site-menu{width:60%;background-color:#01091a}.site-menu amp-img{margin-right:10px}.site-menu amp-img.chevron-right{position:absolute;right:0;filter:invert(1);transition:transform .3s;transform-origin:center}.site-menu details[open]>summary>section>amp-img.chevron-right{transform:rotate(90deg)}.site-menu ul{list-style-type:none;padding:0;margin:0;font-size:var(--large-font)}.site-menu li+li,.site-menu summary,.site-menu article>ul{margin-top:2px}.site-menu li>a,.site-menu summary{display:flex;align-items:center;padding:10px 15px;background-color:#0d1b39;color:#fff;text-decoration:none;cursor:pointer}.site-menu details details summary,.site-menu details li>a{padding-left:45px;background-color:#06122c;cursor:pointer}.site-menu details details li>a{padding-left:75px;background-color:#040d20;cursor:pointer}.site-menu-hamburger{height:18px;width:18px;margin:0;position:absolute;right:25px;cursor:pointer}.site-menu-trigger [data-icon=menu]{display:inline-block;position:absolute;left:50%;top:58%;bottom:auto;right:auto;transform:translateX(-50%) translateY(-50%);width:18px;height:2px;background-color:#8e8e8e;transition:.5s ease-in-out}.site-menu-trigger [data-icon=menu]:before,.site-menu-trigger [data-icon=menu]:after{content:'';width:100%;height:100%;position:absolute;background-color:inherit;left:0}.site-menu-trigger [data-icon=menu]:before{bottom:5px}.site-menu-trigger [data-icon=menu]:after{top:5px}.link-container{display:flex;justify-content:center;font-size:var(--x-large-font);padding:0;width:100%}.link-container a{width:50%;text-align:center;padding:15px 20px;text-transform:uppercase}.login-button,.register-button{color:#fff}.main-menu-container{list-style-type:none;display:flex;flex-wrap:wrap;margin:0;padding:10px 0;background-color:#02071c}.main-menu-container li{flex-basis:calc(25% - 10px);padding:5px}.main-menu-container li a{display:flex;padding:5px 0;justify-content:center;align-items:center;flex-direction:column;color:#fff;font-size:var(--normal-font);text-transform:uppercase}.main-menu-container li amp-img{margin:8px 0}.jackpot-container{display:flex;justify-content:center;position:relative}.jackpot-container .jackpot-prize{color:#fff}.jackpot-container .jackpot-currency{color:#03ffd8}.footer-container{text-align:center}.footer-container .bank-list,.footer-container .social-media-list,.footer-container .contact-list,.footer-container .footer-links{display:flex;flex-wrap:wrap;margin:0 auto;padding:10px 0;list-style-type:none}.footer-container .contact-list li{flex-basis:50%}.footer-container .contact-list li a{margin:5px 10px;display:flex;align-items:center;background-color:#040a2a;border-radius:30px;color:#fff;font-size:var(--normal-font)}.footer-container .contact-list>li a i{display:inline-flex;align-items:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;width:36px;height:36px;margin-right:10px;border-radius:50%;background:#51c332}.footer-container .contact-list>li a i amp-img{margin:5px;flex-basis:0;-ms-flex-preferred-size:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.footer-container .social-media-list{justify-content:center}.footer-container .social-media-list li{flex-basis:25%}.footer-container .bank-list{justify-content:center}.footer-container .bank-list li{flex-basis:25%;position:relative;display:flex;justify-content:center;padding-bottom:10px;height:27px}.footer-container .bank-list span[data-online='true'],.footer-container .bank-list span[data-online='false']{width:5px;margin-right:5px;border-radius:2px}.footer-container .bank-list span[data-online='true']{background-color:#0f0}.footer-container .bank-list span[data-online='false']{background-color:#e00}.footer-container .footer-links{background-color:#0a1749;flex-wrap:wrap;justify-content:center}.footer-container .footer-links li{flex-basis:calc(25% - 3px);margin-bottom:5px}.footer-container .footer-links>li:not(:nth-child(5n+5)):not(:first-child){border-left:1px solid #fff}.footer-container .footer-links li a{padding:5px;color:#fff;font-size:var(--normal-font)}.site-description{background-color:#050c29;padding:10px}.footer-container h1,.footer-container h2,.footer-container h3,.footer-container h4{display:inline}.copyright{padding:25px 0 20px;display:flex;flex-direction:column;justify-content:center}.copyright div{padding-bottom:10px}.fixed-footer{display:flex;justify-content:space-around;position:fixed;background-color:#0a1749;padding:5px 0;left:0;right:0;bottom:0;z-index:99}.fixed-footer a{flex-basis:calc((100% - 15px*6)/5);display:flex;flex-direction:column;justify-content:center;align-items:center;color:#999}.fixed-footer a.active{color:#0195ff}@media(min-width:768px){body{font-size:var(--normal-font);padding-top:80px}.container{min-width:768px;max-width:970px}.site-menu{width:20%}.logo-container .logo{width:320px;height:70px}}@media(min-width:1200px){.container{width:1170px}}@media(min-width:992px){.container{width:970px}}
+        body{font-family:'digital_sans_ef_medium';background-color:#000418}.jackpot-prize{position:absolute;font-size:20px;bottom:20%}.jackpot-container{height:175px}.modal-dialog{background:rgba(0,0,0,.5);width:100%;height:100%;position:absolute;display:flex;align-items:center;justify-content:center}.modal-content{background:#0c0c0c;border-color:#0c0c0c;color:#bbb;flex-basis:95%;pointer-events:initial;border:0;border-radius:10px;border:5px solid #000}.modal-header{background:#0c0c0c;border-bottom-color:#333;text-align:center;border-top-left-radius:inherit;border-top-right-radius:inherit;border-bottom:0;min-height:50px;text-transform:uppercase;display:contents}.modal-content h4{color:#1b4bff}.modal-header .close{opacity:1;margin:0;color:#fff;float:right;font-size:21px;font-weight:bold;line-height:1;text-shadow:0 1px 0 #fff;background-color:transparent;border:none}.modal-body{position:relative;padding:20px}.fixed-footer{background-color:#1e274b}.fixed-footer a{background-color:inherit;flex-basis:calc((100% - 15px*6)/5);max-width:75px;color:#fff;font-size:var(--small-font)}.fixed-footer a.active{color:#ff00b2}.fixed-footer .center{transform:scale(1);background:center no-repeat;background-size:contain;background-color:inherit;border-radius:50%}.fixed-footer amp-img{max-width:40%;margin-bottom:5px}.fixed-footer .live-chat-icon{animation:pulse 3s infinite}.download-apk-container{background:var(--image-src);background-size:cover;display:flex;color:#fff;align-items:center;font-family:sans-serif}.download-apk-container .modal{font-family:'digital_sans_ef_medium'}.download-apk-container .popup-modal[data-title] .modal-title:before{content:none}.download-apk-container .popup-modal .modal-header h4{font-size:24px}.download-apk-container .popup-modal .modal-body{padding-top:0}.download-apk-container .popup-modal .modal-body img{height:20px;width:20px}.download-apk-container .popup-modal .modal-body h5{font-size:18px;color:inherit;text-transform:uppercase;margin-block-start:0;margin-block-end:0}.download-apk-container .popup-modal .modal-body ol{list-style:decimal;padding-left:5px;line-height:20px}.download-apk-container h2,.download-apk-container h3{margin:0}.download-apk-container h2{font-weight:600;font-size:var(--x-large-font);text-transform:uppercase}.download-apk-container h3{font-size:var(--small-font);font-weight:100}.download-apk-container a{font-size:var(--small-font);text-transform:uppercase}.download-apk-container>div{flex-basis:50%;text-align:center}.download-apk-container>div:first-child{align-self:flex-end}.download-apk-info{display:flex;justify-content:center;padding:7px 0}.download-apk-info>div{flex-basis:45%;max-width:45%}.download-apk-section{text-align:center;margin-right:5px}.download-apk-section a{color:#fff;text-transform:uppercase;padding:2px 0;display:block;border-radius:20px;text-align:center;background:#f69c00;background:linear-gradient(to bottom,#f69c00 0%,#d17601 100%)}.download-apk-guide{text-decoration:underline;color:#fff;background-color:transparent;border:none;text-transform:uppercase;font-size:var(--small-font)}@media(max-width:575.98px){.download-apk-section amp-img{width:50px}}
+        body{background-color:#0f0f0f}.logo-container{background-color:#151515}.site-menu{background-color:#070707}.site-menu li>a,.site-menu summary{background-color:#131313;color:#fff}.site-menu details details summary,.site-menu details li>a{background-color:#0a0a0a}.site-menu details details li>a{background-color:#070707}.site-menu-trigger [data-icon=menu]{background-color:#fae58c}.login-button,.register-button{color:#fff}.register-button{background:#fae58c;background:linear-gradient(to bottom,#fae58c,#ba8a1c)}.register-button:hover{background:#ba8a1c;background:linear-gradient(to bottom,#ba8a1c,#fae58c)}.login-button{background:#696969;background:linear-gradient(to bottom,#696969,#383838)}.login-button:hover{background:#383838;background:linear-gradient(to bottom,#383838,#696969)}.main-menu-container{background-color:#0a0a0a}.main-menu-container li a{color:#efd77f}.jackpot-container .jackpot-prize{color:#baad6b}.jackpot-container .jackpot-currency{color:#baad6b}.footer-container{color:#737373}.footer-container .contact-list li a{background-color:#0a0a0a;color:#fbeb8f}.footer-container .contact-list>li a i{background:#b9a353}.footer-container .bank-list span[data-online='true']{background-color:#0f0}.footer-container .bank-list span[data-online='false']{background-color:#e00}.footer-container .footer-links{background-color:#1d1d1d}.footer-container .footer-links>li:not(:nth-child(5n+5)):not(:first-child){border-color:#ccc}.footer-container .footer-links li a{color:#b9a353}.site-description{background-color:#080808}.fixed-footer{background-color:#1d1d1d}.fixed-footer a{color:#636363}.fixed-footer a.active{color:#ba9f6e}.modal-content h4{color:#b18f35}.download-apk-section a{color:#fff;background:#f8e689;background:linear-gradient(to bottom,#f8e689 0%,#bf8e20 100%)}@media(min-width:768px){body{background-color:#000}}
+    </style>
+</head>
+<body>
+    <amp-sidebar class="site-menu" id="site-menu" layout="nodisplay" side="right">
+        <ul>
+            <li>
+                <a href="https://felsokrisztina.net/FK_lap/home">
+                    <amp-img layout="fixed" height="18" width="18" src="home.svg" alt="Beranda"></amp-img>
+                    Beranda
+                </a>
+            </li>
+            <li>
+                <details>
+                    <summary>
+                        <section>
+                            <span>
+                                <amp-img layout="fixed" height="18" width="18" src="hot-games.svg" alt="Games"></amp-img>
+                                Games
+                            </span>
+                            <amp-img layout="fixed" height="18" width="18" src="chevron-right.svg" class="chevron-right"></amp-img>
+                        </section>
+                    </summary>
+                    <article>
+                        <ul>
+                            <li>
+                                <details>
+                                    <summary>
+                                        <section>
+                                            Hot Games
+                                            <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
+                                        </section>
+                                    </summary>
+                                    <article><ul>
 
-html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
-/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
-/*# sourceURL=/css/ampshared.css*/</style>
-<!-- Start Meta -->
-<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-<meta name="description" content="TOTO123 hadir dengan slot Qris viral 2025! Gacor tiap hari, tanpa settingan, maxwin bukan mimpi. Deposit cepet, WD kilat, bonus menanti tiap login. Jangan cuma lihat orang lain menang gabung sekarang & buktiin sendiri!"><meta property="og:locale" content="id_ID">
-<meta property="og:type" content="website">
-<meta property="og:title" content="TOTO123: Slot Online Qris 2025 | Maxwin Tiap Hari, Tanpa Settingan">
-<meta property="og:description" content="TOTO123 hadir dengan slot Qris viral 2025! Gacor tiap hari, tanpa settingan, maxwin bukan mimpi. Deposit cepet, WD kilat, bonus menanti tiap login. Jangan cuma lihat orang lain menang gabung sekarang & buktiin sendiri!">
-<meta property="og:url" content="https://aulaccharnerhotel.com/site/">
-<meta property="og:site_name" content="Toto123">
-<meta property="article:modified_time" content="2023-10-21T08:41:53+00:00">
-<meta property="og:image" content="https://studiointermedia.com/images/2025/07/27/icon.png">
-<meta property="og:image:width" content="512">
-<meta property="og:image:height" content="512">
-<meta property="og:image:type" content="image/png">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="generator" content="WordPress 6.6.2">
-<meta name="generator" content="Elementor 3.25.4; features: additional_custom_breakpoints, e_optimized_control_loading; settings: css_print_method-external, google_font-enabled, font_display-swap">
-<meta name="generator" content="AMP Plugin v2.5.4; mode=standard">
-<meta name="msapplication-TileImage" content="https://studiointermedia.com/images/2025/07/27/icon.png">
-<!-- End Meta -->
-<!-- Start Preconnect -->
-<link rel="canonical" href="https://aulaccharnerhotel.com/site/">
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
-<link rel="preload" href="https://aulaccharnerhotel.com/site/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot#iefix" as="font" crossorigin="">
-<link rel="preload" href="https://aulaccharnerhotel.com/site/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.31.0#iefix" as="font" crossorigin="">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="dns-prefetch" href="https://fonts.gstatic.com">
-<script async="" src="https://cdn.ampproject.org/v0.mjs" type="module" crossorigin="anonymous"></script>
-<script async nomodule src="https://cdn.ampproject.org/v0.js" crossorigin="anonymous"></script>
-<script src="https://cdn.ampproject.org/v0/amp-anim-0.1.mjs" async="" custom-element="amp-anim" type="module" crossorigin="anonymous"></script>
-<script async nomodule src="https://cdn.ampproject.org/v0/amp-anim-0.1.js" crossorigin="anonymous" custom-element="amp-anim"></script>
-<script src="https://cdn.ampproject.org/v0/amp-bind-0.1.mjs" async="" custom-element="amp-bind" type="module" crossorigin="anonymous"></script>
-<script async nomodule src="https://cdn.ampproject.org/v0/amp-bind-0.1.js" crossorigin="anonymous" custom-element="amp-bind"></script>
-<link rel="icon" href="https://studiointermedia.com/images/2025/07/27/icon.png" sizes="32x32">
-<link rel="icon" href="https://studiointermedia.com/images/2025/07/27/icon.png" sizes="192x192">
-<link crossorigin="anonymous" rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRighteous%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAmaranth%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.6.2" media="all">
-<!-- End Preconnect -->
-<!-- Style CSS -->
-<style amp-custom="">amp-anim.amp-wp-enforced-sizes,amp-img.amp-wp-enforced-sizes{object-fit:contain}amp-anim img,amp-anim noscript,amp-img img,amp-img noscript{image-rendering:inherit;object-fit:inherit;object-position:inherit}body,html,li,p,ul{border:0;font-size:100%;font-style:inherit;font-weight:inherit;margin:0;outline:0;padding:0;vertical-align:baseline}html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{margin:0}a{background-color:transparent}a:active{outline:0}a,a:focus,a:hover,a:visited{text-decoration:none}amp-img,amp-anim{border:0}html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}body{color:#808285;background:#fff;font-style:normal}ul{margin:0 0 1.5em 3em}ul{list-style:disc}li>ul{margin-bottom:0;margin-left:1.5em}i{font-style:italic}amp-img,amp-anim{height:auto;max-width:100%}a{color:#9441e1}a:focus,a:hover{color:#4a02be}a:focus{outline:thin dotted}a:hover{outline:0}::selection{color:#fff;background:#4a02be}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body:not(.logged-in){position:relative}a,a:focus{text-decoration:none}a{transition:all .2s linear}amp-img,amp-anim{vertical-align:middle}p{margin-bottom:1.75em}body{line-height:1.8571428571429}body{background-color:#fff}body{overflow-x:hidden}:root{--ast-container-default-xlg-padding:3em;--ast-container-default-lg-padding:3em;--ast-container-default-slg-padding:2em;--ast-container-default-md-padding:3em;--ast-container-default-sm-padding:3em;--ast-container-default-xs-padding:2.4em;--ast-container-default-xxs-padding:1.8em;--ast-code-block-background:#eceff3;--ast-comment-inputs-background:#f9fafb}html{font-size:100%}a{color:var(--ast-global-color-0)}a:hover,a:focus{color:var(--ast-global-color-1)}body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:400;font-size:16px;font-size:1rem;line-height:1.6em}::selection{background-color:var(--ast-global-color-0);color:#fff}body{color:var(--ast-global-color-3)}.ast-single-post .elementor-button-wrapper .elementor-button{text-decoration:none}a:focus-visible{outline-style:dotted;outline-color:inherit;outline-width:thin;border-color:transparent}@media (max-width:921px){html{font-size:91.2%}}@media (max-width:544px){html{font-size:91.2%}}html body{--wp--custom--ast-default-block-top-padding:3em;--wp--custom--ast-default-block-right-padding:3em;--wp--custom--ast-default-block-bottom-padding:3em;--wp--custom--ast-default-block-left-padding:3em;--wp--custom--ast-container-width:1200px;--wp--custom--ast-content-width-size:1200px;--wp--custom--ast-wide-width-size:calc(1200px + var(--wp--custom--ast-default-block-left-padding) + var(--wp--custom--ast-default-block-right-padding))}@media (max-width: 921px){html body{--wp--custom--ast-default-block-top-padding:3em;--wp--custom--ast-default-block-right-padding:2em;--wp--custom--ast-default-block-bottom-padding:3em;--wp--custom--ast-default-block-left-padding:2em}}@media (max-width: 544px){html body{--wp--custom--ast-default-block-top-padding:3em;--wp--custom--ast-default-block-right-padding:1.5em;--wp--custom--ast-default-block-bottom-padding:3em;--wp--custom--ast-default-block-left-padding:1.5em}}:root{--ast-global-color-0:#09aa11;--ast-global-color-1:#04b453;--ast-global-color-2:#3b1e1e;--ast-global-color-3:#334155;--ast-global-color-4:#f9fafb;--ast-global-color-5:#fff;--ast-global-color-6:#e2e8f0;--ast-global-color-7:#cbd5e1;--ast-global-color-8:#94a3b8}:root{--ast-border-color:var(--ast-global-color-6)}.elementor-widget-heading .elementor-heading-title{margin:0}.ast-page-builder-template{background-color:var(--ast-global-color-5)}@media (max-width:921px){.ast-page-builder-template{background-color:var(--ast-global-color-5)}}@media (max-width:544px){.ast-page-builder-template{background-color:var(--ast-global-color-5)}}:root{--e-global-color-astglobalcolor0:#04d275;--e-global-color-astglobalcolor1:#04b453;--e-global-color-astglobalcolor2:#1e293b;--e-global-color-astglobalcolor3:#334155;--e-global-color-astglobalcolor4:#f9fafb;--e-global-color-astglobalcolor5:#fff;--e-global-color-astglobalcolor6:#e2e8f0;--e-global-color-astglobalcolor7:#cbd5e1;--e-global-color-astglobalcolor8:#94a3b8}:root{--wp--preset--aspect-ratio--square:1;--wp--preset--aspect-ratio--4-3:4/3;--wp--preset--aspect-ratio--3-4:3/4;--wp--preset--aspect-ratio--3-2:3/2;--wp--preset--aspect-ratio--2-3:2/3;--wp--preset--aspect-ratio--16-9:16/9;--wp--preset--aspect-ratio--9-16:9/16;--wp--preset--color--black:#000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#ffffff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#c18efc;--wp--preset--color--vivid-cyan-blue:#5306e3;--wp--preset--color--vivid-purple:#edfd06;--wp--preset--color--ast-global-color-0:var(--ast-global-color-0);--wp--preset--color--ast-global-color-1:var(--ast-global-color-1);--wp--preset--color--ast-global-color-2:var(--ast-global-color-2);--wp--preset--color--ast-global-color-3:var(--ast-global-color-3);--wp--preset--color--ast-global-color-4:var(--ast-global-color-4);--wp--preset--color--ast-global-color-5:var(--ast-global-color-5);--wp--preset--color--ast-global-color-6:var(--ast-global-color-6);--wp--preset--color--ast-global-color-7:var(--ast-global-color-7);--wp--preset--color--ast-global-color-8:var(--ast-global-color-8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgb(6, 227, 50) 0%,#edfd06 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,#7adcb4 0%,#00d082 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgb(0, 252, 239) 0%,rgba(0, 255, 191) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgb(0, 255, 191)
-    0%,#cf2e2e 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,#5afde5 0%,#a9b8c3 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,#4aeadc 0%,#6764ff 20%,#5a17d6 40%,#ee2c82 60%,#fb6962 80%,#fef84c 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,#ffceec 0%,#96def0 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,#fecda5 0%,#fe2d2d 50%,#190041 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,#ffcb70 0%,#51abc7 50%,#8b41d0 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,#fff5cb 0%,#b6e3d4 50%,#7633b5 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,#caf880 0%,#71ce7e 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,#330281 0%,#5628fc 100%);--wp--preset--font-size--small:13px;--wp--preset--font-size--medium:20px;--wp--preset--font-size--large:36px;--wp--preset--font-size--x-large:42px;--wp--preset--spacing--20:.44rem;--wp--preset--spacing--30:.67rem;--wp--preset--spacing--40:1rem;--wp--preset--spacing--50:1.5rem;--wp--preset--spacing--60:2.25rem;--wp--preset--spacing--70:3.38rem;--wp--preset--spacing--80:5.06rem;--wp--preset--shadow--natural:6px 6px 9px rgba(0,0,0,.2);--wp--preset--shadow--deep:12px 12px 50px rgba(0,0,0,.4);--wp--preset--shadow--sharp:6px 6px 0px rgba(0,0,0,.2);--wp--preset--shadow--outlined:6px 6px 0px -3px rgb(235, 248, 44),6px 6px rgba(0,0,0,1);--wp--preset--shadow--crisp:6px 6px 0px rgba(0,0,0,1)}:root{--wp--style--global--content-size:var(--wp--custom--ast-content-width-size);--wp--style--global--wide-size:var(--wp--custom--ast-wide-width-size)}:where(body){margin:0}:where(.wp-site-blocks) > *{margin-block-start:24px;margin-block-end:0}:where(.wp-site-blocks) > :first-child{margin-block-start:0}:where(.wp-site-blocks) > :last-child{margin-block-end:0}:root{--wp--style--block-gap:24px}:root :where(.is-layout-flow) > :first-child{margin-block-start:0}:root :where(.is-layout-flow) > :last-child{margin-block-end:0}:root :where(.is-layout-flow) > *{margin-block-start:24px;margin-block-end:0}:root :where(.is-layout-constrained) > :first-child{margin-block-start:0}:root :where(.is-layout-constrained) > :last-child{margin-block-end:0}:root :where(.is-layout-constrained) > *{margin-block-start:24px;margin-block-end:0}:root :where(.is-layout-flex){gap:24px}:root :where(.is-layout-grid){gap:24px}body{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}a:where(:not(.wp-element-button)){text-decoration:none}:root :where(.wp-block-pullquote){font-size:1.5em;line-height:1.6}@font-face{font-family:eicons;src:url("fonts/eicons.eot");src:url("fonts/eicons.eot#iefix") format("embedded-opentype"),url("fonts/eicons.woff2") format("woff2"),url("fonts/eicons.woff") format("woff"),url("fonts/eicons.ttf") format("truetype"),url("images/eicons.svg#eicon") format("svg");font-weight:400;font-style:normal}[class*=" eicon-"],[class^=eicon]{display:inline-block;font-family:eicons;font-size:inherit;font-weight:400;font-style:normal;font-variant:normal;line-height:1;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}@keyframes a{0%{transform:rotate(0deg)}to{transform:rotate(359deg)}}.elementor *,.elementor :after,.elementor :before{box-sizing:border-box}.elementor a{box-shadow:none;text-decoration:none}.elementor amp-img,.elementor amp-anim{height:auto;max-width:100%;border:none;border-radius:0;box-shadow:none}.elementor .elementor-background-overlay{height:100%;width:100%;top:0;left:0;position:absolute}.elementor-element{--flex-direction:initial;--flex-wrap:initial;--justify-content:initial;--align-items:initial;--align-content:initial;--gap:initial;--flex-basis:initial;--flex-grow:initial;--flex-shrink:initial;--order:initial;--align-self:initial;flex-basis:var(--flex-basis);flex-grow:var(--flex-grow);flex-shrink:var(--flex-shrink);order:var(--order);align-self:var(--align-self)}.elementor-element:where(.e-con-full,.elementor-widget){flex-direction:var(--flex-direction);flex-wrap:var(--flex-wrap);justify-content:var(--justify-content);align-items:var(--align-items);align-content:var(--align-content);gap:var(--gap)}.elementor-align-justify .elementor-button{width:100%}:root{--page-title-display:block}@keyframes eicon-spin{0%{transform:rotate(0deg)}to{transform:rotate(359deg)}}.elementor-section{position:relative}.elementor-section .elementor-container{display:flex;margin-right:auto;margin-left:auto;position:relative}@media (max-width:1024px){.elementor-section .elementor-container{flex-wrap:wrap}}.elementor-section.elementor-section-boxed>.elementor-container{max-width:1140px}.elementor-widget-wrap{position:relative;width:100%;flex-wrap:wrap;align-content:flex-start}.elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap{display:flex}.elementor-widget-wrap>.elementor-element{width:100%}.elementor-widget{position:relative}.elementor-widget:not(:last-child){margin-bottom:20px}.elementor-column{position:relative;min-height:1px;display:flex}.elementor-column-gap-default>.elementor-column>.elementor-element-populated{padding:10px}@media (min-width:768px){.elementor-column.elementor-col-16{width:16.666%}.elementor-column.elementor-col-25{width:25%}.elementor-column.elementor-col-33{width:33.333%}.elementor-column.elementor-col-50{width:50%}.elementor-column.elementor-col-100{width:100%}}@media (max-width:767px){.elementor-column{width:100%}}@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}.elementor-element .elementor-widget-container{transition:background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s)}.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-button{display:inline-block;line-height:1;background-color:#69727d;font-size:15px;padding:12px 24px;border-radius:3px;color:#fff;fill:#fff;text-align:center;transition:all .3s}.elementor-button:focus,.elementor-button:hover,.elementor-button:visited{color:#fff}.elementor-button-content-wrapper{display:flex;justify-content:center;flex-direction:row;gap:5px}.elementor-button-text{display:inline-block}.elementor-button.elementor-size-xs{font-size:13px;padding:10px 20px;border-radius:2px}.elementor-button span{text-decoration:inherit}.elementor-icon{display:inline-block;line-height:1;transition:all .3s;color:#69727d;font-size:50px;text-align:center}.elementor-icon:hover{color:#69727d}.elementor-icon i{width:1em;height:1em;position:relative;display:block}.elementor-icon i:before{position:absolute;left:50%;transform:translateX(-50%)}@media (max-width:767px){.elementor .elementor-hidden-mobile{display:none}}@media (min-width:768px) and (max-width:1024px){.elementor .elementor-hidden-tablet{display:none}}@media (min-width:1025px) and (max-width:99999px){.elementor .elementor-hidden-desktop{display:none}}@font-face{font-family:swiper-icons;src:url("data:application/font-woff;charset=utf-8;base64, d09GRgABAAAAAAZgABAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAGRAAAABoAAAAci6qHkUdERUYAAAWgAAAAIwAAACQAYABXR1BPUwAABhQAAAAuAAAANuAY7+xHU1VCAAAFxAAAAFAAAABm2fPczU9TLzIAAAHcAAAASgAAAGBP9V5RY21hcAAAAkQAAACIAAABYt6F0cBjdnQgAAACzAAAAAQAAAAEABEBRGdhc3AAAAWYAAAACAAAAAj//wADZ2x5ZgAAAywAAADMAAAD2MHtryVoZWFkAAABbAAAADAAAAA2E2+eoWhoZWEAAAGcAAAAHwAAACQC9gDzaG10eAAAAigAAAAZAAAArgJkABFsb2NhAAAC0AAAAFoAAABaFQAUGG1heHAAAAG8AAAAHwAAACAAcABAbmFtZQAAA/gAAAE5AAACXvFdBwlwb3N0AAAFNAAAAGIAAACE5s74hXjaY2BkYGAAYpf5Hu/j+W2+MnAzMYDAzaX6QjD6/4//Bxj5GA8AuRwMYGkAPywL13jaY2BkYGA88P8Agx4j+/8fQDYfA1AEBWgDAIB2BOoAeNpjYGRgYNBh4GdgYgABEMnIABJzYNADCQAACWgAsQB42mNgYfzCOIGBlYGB0YcxjYGBwR1Kf2WQZGhhYGBiYGVmgAFGBiQQkOaawtDAoMBQxXjg/wEGPcYDDA4wNUA2CCgwsAAAO4EL6gAAeNpj2M0gyAACqxgGNWBkZ2D4/wMA+xkDdgAAAHjaY2BgYGaAYBkGRgYQiAHyGMF8FgYHIM3DwMHABGQrMOgyWDLEM1T9/w8UBfEMgLzE////P/5//f/V/xv+r4eaAAeMbAxwIUYmIMHEgKYAYjUcsDAwsLKxc3BycfPw8jEQA/gZBASFhEVExcQlJKWkZWTl5BUUlZRVVNXUNTQZBgMAAMR+E+gAEQFEAAAAKgAqACoANAA+AEgAUgBcAGYAcAB6AIQAjgCYAKIArAC2AMAAygDUAN4A6ADyAPwBBgEQARoBJAEuATgBQgFMAVYBYAFqAXQBfgGIAZIBnAGmAbIBzgHsAAB42u2NMQ6CUAyGW568x9AneYYgm4MJbhKFaExIOAVX8ApewSt4Bic4AfeAid3VOBixDxfPYEza5O+Xfi04YADggiUIULCuEJK8VhO4bSvpdnktHI5QCYtdi2sl8ZnXaHlqUrNKzdKcT8cjlq+rwZSvIVczNiezsfnP/uznmfPFBNODM2K7MTQ45YEAZqGP81AmGGcF3iPqOop0r1SPTaTbVkfUe4HXj97wYE+yNwWYxwWu4v1ugWHgo3S1XdZEVqWM7ET0cfnLGxWfkgR42o2PvWrDMBSFj/IHLaF0zKjRgdiVMwScNRAoWUoH78Y2icB/yIY09An6AH2Bdu/UB+yxopYshQiEvnvu0dURgDt8QeC8PDw7Fpji3fEA4z/PEJ6YOB5hKh4dj3EvXhxPqH/SKUY3rJ7srZ4FZnh1PMAtPhwP6fl2PMJMPDgeQ4rY8YT6Gzao0eAEA409DuggmTnFnOcSCiEiLMgxCiTI6Cq5DZUd3Qmp10vO0LaLTd2cjN4fOumlc7lUYbSQcZFkutRG7g6JKZKy0RmdLY680CDnEJ+UMkpFFe1RN7nxdVpXrC4aTtnaurOnYercZg2YVmLN/d/gczfEimrE/fs/bOuq29Zmn8tloORaXgZgGa78yO9/cnXm2BpaGvq25Dv9S4E9+5SIc9PqupJKhYFSSl47+Qcr1mYNAAAAeNptw0cKwkAAAMDZJA8Q7OUJvkLsPfZ6zFVERPy8qHh2YER+3i/BP83vIBLLySsoKimrqKqpa2hp6+jq6RsYGhmbmJqZSy0sraxtbO3sHRydnEMU4uR6yx7JJXveP7WrDycAAAAAAAH//wACeNpjYGRgYOABYhkgZgJCZgZNBkYGLQZtIJsFLMYAAAw3ALgAeNolizEKgDAQBCchRbC2sFER0YD6qVQiBCv/H9ezGI6Z5XBAw8CBK/m5iQQVauVbXLnOrMZv2oLdKFa8Pjuru2hJzGabmOSLzNMzvutpB3N42mNgZGBg4GKQYzBhYMxJLMlj4GBgAYow/P/PAJJhLM6sSoWKfWCAAwDAjgbRAAB42mNgYGBkAIIbCZo5IPrmUn0hGA0AO8EFTQAA");font-weight:400;font-style:normal}:root{--swiper-theme-color:#4c00ff}:root{--swiper-navigation-size:44px}@keyframes swiper-preloader-spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}.elementor-element{--swiper-theme-color:#000;--swiper-navigation-size:44px;--swiper-pagination-bullet-size:6px;--swiper-pagination-bullet-horizontal-gap:6px}.elementor-kit-8{--e-global-color-primary:#00cc73;--e-global-color-secondary:#ebff7d;--e-global-color-text:#edfd06;--e-global-color-accent:#06fdaf;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;
-    --e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;color:var(--e-global-color-text);background-color:#000}.elementor-kit-8 a{color:var(--e-global-color-accent)}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px}.elementor-widget:not(:last-child){margin-block-end:20px}.elementor-element{--widgets-spacing:20px 20px}@media (max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px}}@media (max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px}}[data-elementor-type=popup]:not(.elementor-edit-area){display:none}.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a amp-img[src$=".svg"],.elementor-widget-image a amp-anim[src$=".svg"]{width:48px}.elementor-widget-image amp-img,.elementor-widget-image amp-anim{vertical-align:middle;display:inline-block}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-animation-float{transition-duration:.3s;transition-property:transform;transition-timing-function:ease-out}.elementor-animation-float:active,.elementor-animation-float:focus,.elementor-animation-float:hover{transform:translateY(-8px)}.elementor-animation-grow{transition-duration:.3s;transition-property:transform}.elementor-animation-grow:active,.elementor-animation-grow:focus,.elementor-animation-grow:hover{transform:scale(1.1)}.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-11 .elementor-element.elementor-element-6bd1c4e6:not(.elementor-motion-effects-element-type-background){background-color:#012322}.elementor-11 .elementor-element.elementor-element-6bd1c4e6 > .elementor-background-overlay{background-color:transparent;background-image:radial-gradient(at top center,#00ffaa 0%,rgba(41, 242, 155, 0) 33%);opacity:.5;mix-blend-mode:screen;transition:background .3s,border-radius .3s,opacity .3s}.elementor-11 .elementor-element.elementor-element-6bd1c4e6{transition:background .3s,border .3s,border-radius .3s,box-shadow .3s}.elementor-11 .elementor-element.elementor-element-403f9380.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center}.elementor-11 .elementor-element.elementor-element-403f9380 > .elementor-element-populated{padding:5px 5px 5px 5px}.elementor-11 .elementor-element.elementor-element-2a70e524:hover amp-img,.elementor-11 .elementor-element.elementor-element-2a70e524:hover amp-anim{filter:brightness(125%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-2a70e524 amp-img,.elementor-11 .elementor-element.elementor-element-2a70e524 amp-anim{transition-duration:.3s}.elementor-11 .elementor-element.elementor-element-1d220d3f.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start}.elementor-11 .elementor-element.elementor-element-687c57e4 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-4c39206f{text-align:left}.elementor-11 .elementor-element.elementor-element-6ca87319 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-3407b11b .ue_marquee{font-family:"Roboto",Sans-serif;font-weight:bold}.elementor-11 .elementor-element.elementor-element-3407b11b .ue_marquee,.elementor-11 .elementor-element.elementor-element-3407b11b .ue_marquee a{color:#fff}.elementor-11 .elementor-element.elementor-element-6fe0ea.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center}.elementor-11 .elementor-element.elementor-element-6fe0ea > .elementor-element-populated{padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-5f5b5090 .elementor-button{font-family:"Righteous",Sans-serif;font-size:20px;font-weight:500;fill:#fff;color:#fff;background-color:transparent;background-image:linear-gradient(180deg,#09eb11 0%,#07a72c 100%);border-radius:10px 10px 10px 10px;padding:5px 0px 5px 0px}.elementor-11 .elementor-element.elementor-element-5f5b5090 .elementor-button:hover,.elementor-11 .elementor-element.elementor-element-5f5b5090 .elementor-button:focus{background-color:transparent;background-image:linear-gradient(180deg,#53ff3c 0%,#07a72c 100%)}.elementor-11 .elementor-element.elementor-element-4730f366 .elementor-button{font-family:"Righteous",Sans-serif;font-size:20px;font-weight:500;fill:#000;color:#000;background-color:transparent;background-image:linear-gradient(180deg,#56face 0%,#37ffaf 100%);border-radius:10px 10px 10px 10px;padding:5px 0px 5px 0px}.elementor-11 .elementor-element.elementor-element-4730f366 .elementor-button:hover,.elementor-11 .elementor-element.elementor-element-4730f366 .elementor-button:focus{background-color:transparent;background-image:linear-gradient(180deg,#56fad4 0%,#37ffaf 100%)}.elementor-11 .elementor-element.elementor-element-fdab07d:not(.elementor-motion-effects-element-type-background){background-color:transparent;background-image:linear-gradient(90deg,#8d1010 0%,#aa0000 30%)}.elementor-11 .elementor-element.elementor-element-fdab07d > .elementor-background-overlay{background-color:transparent;background-image:linear-gradient(90deg,rgba(84,10,117,0) 70%,#edfd06 100%);opacity:1;transition:background .3s,border-radius .3s,opacity .3s}.elementor-11 .elementor-element.elementor-element-fdab07d{border-style:solid;border-width:2px 0px 2px 0px;border-color:#eceb00;box-shadow:0px 0px 5px 0px #000 inset;transition:background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top:0px;margin-bottom:0px;padding:0% 25% 0% 25%}.elementor-11 .elementor-element.elementor-element-615f1fe9 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-71cd22aa{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-3b365fa2.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center}.elementor-11 .elementor-element.elementor-element-3b365fa2:hover > .elementor-element-populated{background-color:transparent;background-image:linear-gradient(180deg,rgba(0,0,0,0) 0%,#31eb8b 100%)}.elementor-11 .elementor-element.elementor-element-3b365fa2 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-36303912 amp-img,.elementor-11 .elementor-element.elementor-element-36303912 amp-anim{max-width:40%}.elementor-11 .elementor-element.elementor-element-36303912 > .elementor-widget-container{margin:8px 0px 8px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-61dddfa9.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center}.elementor-11 .elementor-element.elementor-element-61dddfa9:hover > .elementor-element-populated{background-color:transparent;background-image:linear-gradient(180deg,rgba(0,0,0,0) 0%,#edfd06 100%)}.elementor-11 .elementor-element.elementor-element-61dddfa9 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-7c7b6145 amp-img,.elementor-11 .elementor-element.elementor-element-7c7b6145 amp-anim{max-width:40%}.elementor-11 .elementor-element.elementor-element-7c7b6145 > .elementor-widget-container{margin:8px 0px 8px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-538bbf54.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center}.elementor-11 .elementor-element.elementor-element-538bbf54:hover > .elementor-element-populated{background-color:transparent;background-image:linear-gradient(180deg,rgba(0,0,0,0) 0%,#edfd06 100%)}.elementor-11 .elementor-element.elementor-element-538bbf54 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;
-    --e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-310afe2 amp-img,.elementor-11 .elementor-element.elementor-element-310afe2 amp-anim{max-width:40%}.elementor-11 .elementor-element.elementor-element-310afe2 > .elementor-widget-container{margin:8px 0px 8px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-7e04b242.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center}.elementor-11 .elementor-element.elementor-element-7e04b242:hover > .elementor-element-populated{background-color:transparent;background-image:linear-gradient(180deg,rgba(0,0,0,0) 0%,#edfd06 100%)}.elementor-11 .elementor-element.elementor-element-7e04b242 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-2ffd1a8 amp-img,.elementor-11 .elementor-element.elementor-element-2ffd1a8 amp-anim{max-width:40%}.elementor-11 .elementor-element.elementor-element-2ffd1a8 > .elementor-widget-container{margin:8px 0px 8px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-1d6f9cd9.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center}.elementor-11 .elementor-element.elementor-element-1d6f9cd9:hover > .elementor-element-populated{background-color:transparent;background-image:linear-gradient(180deg,rgba(0,0,0,0) 0%,#edfd06 100%)}.elementor-11 .elementor-element.elementor-element-1d6f9cd9 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-19df14ce amp-img,.elementor-11 .elementor-element.elementor-element-19df14ce amp-anim{max-width:40%}.elementor-11 .elementor-element.elementor-element-19df14ce > .elementor-widget-container{margin:8px 0px 8px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-48aafcc3.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center}.elementor-11 .elementor-element.elementor-element-48aafcc3:hover > .elementor-element-populated{background-color:transparent;background-image:linear-gradient(180deg,rgba(0,0,0,0) 0%,#edfd06 100%)}.elementor-11 .elementor-element.elementor-element-48aafcc3 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-3535425b amp-img,.elementor-11 .elementor-element.elementor-element-3535425b amp-anim{max-width:40%}.elementor-11 .elementor-element.elementor-element-3535425b > .elementor-widget-container{margin:8px 0px 8px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-4a7408f:not(.elementor-motion-effects-element-type-background){background-color:#000}.elementor-11 .elementor-element.elementor-element-4a7408f{border-style:solid;border-width:0px 0px 2px 0px;border-color:#edfd06;transition:background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top:0px;margin-bottom:0px;padding:1px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-4a7408f > .elementor-background-overlay{transition:background .3s,border-radius .3s,opacity .3s}.elementor-11 .elementor-element.elementor-element-388c4de1 > .elementor-element-populated{padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-13dd51bc:not(.elementor-motion-effects-element-type-background){background-color:#000}.elementor-11 .elementor-element.elementor-element-13dd51bc{border-style:solid;border-width:0px 0px 2px 0px;border-color:#edfd06;transition:background .3s,border .3s,border-radius .3s,box-shadow .3s;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-13dd51bc > .elementor-background-overlay{transition:background .3s,border-radius .3s,opacity .3s}.elementor-11 .elementor-element.elementor-element-63613b8a > .elementor-element-populated{padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-5f8ac44c{margin-top:10px;margin-bottom:0px}.elementor-11 .elementor-element.elementor-element-7eb04440 amp-img,.elementor-11 .elementor-element.elementor-element-7eb04440 amp-anim{border-radius:10px 10px 10px 10px}.elementor-11 .elementor-element.elementor-element-3ccd43ee amp-img,.elementor-11 .elementor-element.elementor-element-3ccd43ee amp-anim{width:100%;border-radius:10px 10px 10px 10px}.elementor-11 .elementor-element.elementor-element-7c207174 amp-img,.elementor-11 .elementor-element.elementor-element-7c207174 amp-anim{border-style:solid;border-width:2px 2px 2px 2px;border-color:#edfd06;border-radius:10px 10px 10px 10px}.elementor-11 .elementor-element.elementor-element-48b394a3 amp-img,.elementor-11 .elementor-element.elementor-element-48b394a3 amp-anim{border-style:solid;border-width:2px 2px 2px 2px;border-color:#edfd06;border-radius:10px 10px 10px 10px}.elementor-11 .elementor-element.elementor-element-4fab8e70 amp-img,.elementor-11 .elementor-element.elementor-element-4fab8e70 amp-anim{border-style:solid;border-width:2px 2px 2px 2px;border-color:#edfd06;border-radius:10px 10px 10px 10px}.elementor-11 .elementor-element.elementor-element-29e866cb amp-img,.elementor-11 .elementor-element.elementor-element-29e866cb amp-anim{border-style:solid;border-width:2px 2px 2px 2px;border-color:#edfd06;border-radius:10px 10px 10px 10px}.elementor-11 .elementor-element.elementor-element-543aa9ff{margin-top:30px;margin-bottom:30px;padding:0% 15% 0% 15%}.elementor-11 .elementor-element.elementor-element-6d4bc199:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap{background-color:transparent;background-image:linear-gradient(180deg,rgba(120,0,0,0) 0%,rgba(0, 255, 162, 0.47) 100%)}.elementor-11 .elementor-element.elementor-element-6d4bc199 > .elementor-element-populated{border-style:solid;border-width:2px 2px 2px 2px;border-color:#edfd06;transition:background .3s,border .3s,border-radius .3s,box-shadow .3s}.elementor-11 .elementor-element.elementor-element-6d4bc199 > .elementor-element-populated,.elementor-11 .elementor-element.elementor-element-6d4bc199 > .elementor-element-populated > .elementor-background-overlay{border-radius:10px 10px 10px 10px}.elementor-11 .elementor-element.elementor-element-6d4bc199 > .elementor-element-populated > .elementor-background-overlay{transition:background .3s,border-radius .3s,opacity .3s}.elementor-11 .elementor-element.elementor-element-24f67669{text-align:center}.elementor-11 .elementor-element.elementor-element-24f67669 .elementor-heading-title{color:#edfd06;font-family:"Righteous",Sans-serif;font-size:25px;font-weight:400;text-shadow:0px 0px 10px #00bb48}.elementor-11 .elementor-element.elementor-element-7ef040f amp-img,.elementor-11 .elementor-element.elementor-element-7ef040f amp-anim{filter:}.elementor-11 .elementor-element.elementor-element-7ef040f:hover amp-img,.elementor-11 .elementor-element.elementor-element-7ef040f:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-2b028a37 amp-img,.elementor-11 .elementor-element.elementor-element-2b028a37 amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-2b028a37:hover amp-img,.elementor-11 .elementor-element.elementor-element-2b028a37:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-38321f2e amp-img,.elementor-11 .elementor-element.elementor-element-38321f2e amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-38321f2e:hover amp-img,.elementor-11 .elementor-element.elementor-element-38321f2e:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-6c406fc3 amp-img,.elementor-11 .elementor-element.elementor-element-6c406fc3 amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-6c406fc3:hover amp-img,.elementor-11 .elementor-element.elementor-element-6c406fc3:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-780558b9 amp-img,.elementor-11 .elementor-element.elementor-element-780558b9 amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-780558b9:hover amp-img,.elementor-11 .elementor-element.elementor-element-780558b9:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-28a20c22 amp-img,.elementor-11 .elementor-element.elementor-element-28a20c22 amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-28a20c22:hover amp-img,.elementor-11 .elementor-element.elementor-element-28a20c22:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-4cc8648f amp-img,.elementor-11 
-    .elementor-element.elementor-element-4cc8648f amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-4cc8648f:hover amp-img,.elementor-11 .elementor-element.elementor-element-4cc8648f:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-6f13a815 amp-img,.elementor-11 .elementor-element.elementor-element-6f13a815 amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-6f13a815:hover amp-img,.elementor-11 .elementor-element.elementor-element-6f13a815:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-586bc856 amp-img,.elementor-11 .elementor-element.elementor-element-586bc856 amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-586bc856:hover amp-img,.elementor-11 .elementor-element.elementor-element-586bc856:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-164266be amp-img,.elementor-11 .elementor-element.elementor-element-164266be amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-164266be:hover amp-img,.elementor-11 .elementor-element.elementor-element-164266be:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-513c680b amp-img,.elementor-11 .elementor-element.elementor-element-513c680b amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-513c680b:hover amp-img,.elementor-11 .elementor-element.elementor-element-513c680b:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-1e4842b amp-img,.elementor-11 .elementor-element.elementor-element-1e4842b amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-1e4842b:hover amp-img,.elementor-11 .elementor-element.elementor-element-1e4842b:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-2db508bf amp-img,.elementor-11 .elementor-element.elementor-element-2db508bf amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-2db508bf:hover amp-img,.elementor-11 .elementor-element.elementor-element-2db508bf:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-a6e783a amp-img,.elementor-11 .elementor-element.elementor-element-a6e783a amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-a6e783a:hover amp-img,.elementor-11 .elementor-element.elementor-element-a6e783a:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-6b43321a amp-img,.elementor-11 .elementor-element.elementor-element-6b43321a amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-6b43321a:hover amp-img,.elementor-11 .elementor-element.elementor-element-6b43321a:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-3d53ffb5 amp-img,.elementor-11 .elementor-element.elementor-element-3d53ffb5 amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-3d53ffb5:hover amp-img,.elementor-11 .elementor-element.elementor-element-3d53ffb5:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-7b65c410 amp-img,.elementor-11 .elementor-element.elementor-element-7b65c410 amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-7b65c410:hover amp-img,.elementor-11 .elementor-element.elementor-element-7b65c410:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-120ab602 amp-img,.elementor-11 .elementor-element.elementor-element-120ab602 amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-120ab602:hover amp-img,.elementor-11 .elementor-element.elementor-element-120ab602:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-38b2af2b amp-img,.elementor-11 .elementor-element.elementor-element-38b2af2b amp-anim{filter:brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);transition-duration:.2s}.elementor-11 .elementor-element.elementor-element-38b2af2b:hover amp-img,.elementor-11 .elementor-element.elementor-element-38b2af2b:hover amp-anim{filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)}.elementor-11 .elementor-element.elementor-element-97d72e8{transition:background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top:50px;margin-bottom:50px}.elementor-11 .elementor-element.elementor-element-97d72e8 > .elementor-background-overlay{transition:background .3s,border-radius .3s,opacity .3s}.elementor-11 .elementor-element.elementor-element-47c0afa4:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap{background-color:#072418}.elementor-11 .elementor-element.elementor-element-47c0afa4 > .elementor-element-populated{border-style:solid;border-color:#edfd06;transition:background .3s,border .3s,border-radius .3s,box-shadow .3s;margin:5px 5px 5px 5px;--e-column-margin-right:5px;--e-column-margin-left:5px}.elementor-11 .elementor-element.elementor-element-47c0afa4 > .elementor-element-populated,.elementor-11 .elementor-element.elementor-element-47c0afa4 > .elementor-element-populated > .elementor-background-overlay{border-radius:25px 25px 25px 25px}.elementor-11 .elementor-element.elementor-element-47c0afa4 > .elementor-element-populated > .elementor-background-overlay{transition:background .3s,border-radius .3s,opacity .3s}.elementor-11 .elementor-element.elementor-element-1da3550d{--divider-border-style:solid;--divider-color:#edfd06;--divider-border-width:4px}.elementor-11 .elementor-element.elementor-element-1da3550d .elementor-divider-separator{width:100%}.elementor-11 .elementor-element.elementor-element-1da3550d .elementor-divider{padding-block-start:2px;padding-block-end:2px}.elementor-11 .elementor-element.elementor-element-1da3550d.elementor-view-default .elementor-icon{color:#edfd06;border-color:#edfd06}.elementor-11 .elementor-element.elementor-element-1da3550d > .elementor-widget-container{margin:-20px 0px 0px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-706bf9aa:not(.elementor-motion-effects-element-type-background){background-color:#003a11}.elementor-11 .elementor-element.elementor-element-706bf9aa{transition:background .3s,border .3s,border-radius .3s,box-shadow .3s}.elementor-11 .elementor-element.elementor-element-706bf9aa > .elementor-background-overlay{transition:background .3s,border-radius .3s,opacity .3s}.elementor-11 .elementor-element.elementor-element-4c4499cf amp-img,.elementor-11 .elementor-element.elementor-element-4c4499cf amp-anim{max-width:50%}.elementor-11 .elementor-element.elementor-element-535c79b1{text-align:center}.elementor-11 .elementor-element.elementor-element-535c79b1 .elementor-heading-title{color:#edfd06;font-family:"Righteous",Sans-serif;font-size:20px;font-weight:200}.elementor-11 .elementor-element.elementor-element-867d922{text-align:center}.elementor-11 .elementor-element.elementor-element-60f53ab8 amp-img,.elementor-11 .elementor-element.elementor-element-60f53ab8 amp-anim{max-width:50%}.elementor-11 .elementor-element.elementor-element-4bdc7044{text-align:center}.elementor-11 .elementor-element.elementor-element-4bdc7044 .elementor-heading-title{color:#edfd06;font-family:"Righteous",Sans-serif;font-size:20px;font-weight:200}.elementor-11 .elementor-element.elementor-element-24c03bee{text-align:center}.elementor-11 .elementor-element.elementor-element-55065440 amp-img,.elementor-11 .elementor-element.elementor-element-55065440 amp-anim{max-width:50%}.elementor-11 .elementor-element.elementor-element-5e9adc30{text-align:center}.elementor-11 .elementor-element.elementor-element-5e9adc30 .elementor-heading-title{color:#edfd06;font-family:"Righteous",Sans-serif;font-size:20px;font-weight:200}.elementor-11 .elementor-element.elementor-element-28dd032{text-align:center}@media (max-width:1024px){.elementor-11 .elementor-element.elementor-element-fdab07d{padding:.3% 10% .3% 10%}.elementor-11 .elementor-element.elementor-element-36303912 amp-img,.elementor-11 .elementor-element.elementor-element-36303912 amp-anim{max-width:50%}.elementor-11 
-    .elementor-element.elementor-element-7c7b6145 amp-img,.elementor-11 .elementor-element.elementor-element-7c7b6145 amp-anim{max-width:50%}.elementor-11 .elementor-element.elementor-element-310afe2 amp-img,.elementor-11 .elementor-element.elementor-element-310afe2 amp-anim{max-width:50%}.elementor-11 .elementor-element.elementor-element-2ffd1a8 amp-img,.elementor-11 .elementor-element.elementor-element-2ffd1a8 amp-anim{max-width:50%}.elementor-11 .elementor-element.elementor-element-19df14ce amp-img,.elementor-11 .elementor-element.elementor-element-19df14ce amp-anim{max-width:50%}.elementor-11 .elementor-element.elementor-element-3535425b amp-img,.elementor-11 .elementor-element.elementor-element-3535425b amp-anim{max-width:50%}.elementor-11 .elementor-element.elementor-element-543aa9ff{margin-top:10px;margin-bottom:10px;padding:0px 10px 0px 10px}}@media (min-width:768px){.elementor-11 .elementor-element.elementor-element-403f9380{width:20%}.elementor-11 .elementor-element.elementor-element-1d220d3f{width:54.332%}.elementor-11 .elementor-element.elementor-element-687c57e4{width:5%}.elementor-11 .elementor-element.elementor-element-6ca87319{width:95%}.elementor-11 .elementor-element.elementor-element-6fe0ea{width:25%}}@media (max-width:1024px) and (min-width:768px){.elementor-11 .elementor-element.elementor-element-1d220d3f{width:50%}.elementor-11 .elementor-element.elementor-element-6ca87319{width:92%}.elementor-11 .elementor-element.elementor-element-6fe0ea{width:30%}}@media (max-width:767px){.elementor-11 .elementor-element.elementor-element-1d220d3f > .elementor-element-populated{padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-687c57e4{width:5%}.elementor-11 .elementor-element.elementor-element-6ca87319{width:92%}.elementor-11 .elementor-element.elementor-element-6fe0ea > .elementor-element-populated{padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-3739ea33{padding:0px 0px 5px 0px}.elementor-11 .elementor-element.elementor-element-770a2e13{width:50%}.elementor-11 .elementor-element.elementor-element-770a2e13 > .elementor-element-populated{padding:0px 2px 0px 2px}.elementor-11 .elementor-element.elementor-element-5f5b5090 > .elementor-widget-container{padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-472ca10a{width:50%}.elementor-11 .elementor-element.elementor-element-472ca10a > .elementor-element-populated{padding:0px 2px 0px 2px}.elementor-11 .elementor-element.elementor-element-4730f366 > .elementor-widget-container{padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-fdab07d{margin-top:0px;margin-bottom:0px;padding:0% 0% 0% 0%}.elementor-11 .elementor-element.elementor-element-615f1fe9 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-71cd22aa{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-3b365fa2{width:16.66%}.elementor-11 .elementor-element.elementor-element-3b365fa2 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-36303912 amp-img,.elementor-11 .elementor-element.elementor-element-36303912 amp-anim{max-width:90%}.elementor-11 .elementor-element.elementor-element-36303912 > .elementor-widget-container{margin:10px 0px 10px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-61dddfa9{width:16.66%}.elementor-11 .elementor-element.elementor-element-61dddfa9 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-7c7b6145 amp-img,.elementor-11 .elementor-element.elementor-element-7c7b6145 amp-anim{max-width:90%}.elementor-11 .elementor-element.elementor-element-7c7b6145 > .elementor-widget-container{margin:10px 0px 10px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-538bbf54{width:16.66%}.elementor-11 .elementor-element.elementor-element-538bbf54 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-310afe2 amp-img,.elementor-11 .elementor-element.elementor-element-310afe2 amp-anim{max-width:90%}.elementor-11 .elementor-element.elementor-element-310afe2 > .elementor-widget-container{margin:10px 0px 10px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-7e04b242{width:16.66%}.elementor-11 .elementor-element.elementor-element-7e04b242 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-2ffd1a8 amp-img,.elementor-11 .elementor-element.elementor-element-2ffd1a8 amp-anim{max-width:90%}.elementor-11 .elementor-element.elementor-element-2ffd1a8 > .elementor-widget-container{margin:10px 0px 10px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-1d6f9cd9{width:16.66%}.elementor-11 .elementor-element.elementor-element-1d6f9cd9 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-19df14ce amp-img,.elementor-11 .elementor-element.elementor-element-19df14ce amp-anim{max-width:90%}.elementor-11 .elementor-element.elementor-element-19df14ce > .elementor-widget-container{margin:10px 0px 10px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-48aafcc3{width:16.66%}.elementor-11 .elementor-element.elementor-element-48aafcc3 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-3535425b amp-img,.elementor-11 .elementor-element.elementor-element-3535425b amp-anim{max-width:90%}.elementor-11 .elementor-element.elementor-element-3535425b > .elementor-widget-container{margin:10px 0px 10px 0px;padding:0px 0px 0px 0px}.elementor-11 .elementor-element.elementor-element-7eb04440 amp-img,.elementor-11 .elementor-element.elementor-element-7eb04440 amp-anim{width:100%}.elementor-11 .elementor-element.elementor-element-5c1bc5ad{width:50%}.elementor-11 .elementor-element.elementor-element-ccc5be3{width:50%}.elementor-11 .elementor-element.elementor-element-103d53a9{width:50%}.elementor-11 .elementor-element.elementor-element-5a4b39c{width:50%}.elementor-11 .elementor-element.elementor-element-543aa9ff{margin-top:10px;margin-bottom:10px}.elementor-11 .elementor-element.elementor-element-24f67669 .elementor-heading-title{font-size:18px}.elementor-11 .elementor-element.elementor-element-3f1adf6c{width:33.3%}.elementor-11 .elementor-element.elementor-element-741ded06{width:33.3%}.elementor-11 .elementor-element.elementor-element-10c181b3{width:33.3%}.elementor-11 .elementor-element.elementor-element-636a7611{width:33.3%}.elementor-11 .elementor-element.elementor-element-34ab8bf8{width:33.3%}.elementor-11 .elementor-element.elementor-element-495ae47a{width:33.3%}.elementor-11 .elementor-element.elementor-element-4d188aa5{width:33.33%}.elementor-11 .elementor-element.elementor-element-4c4499cf amp-img,.elementor-11 .elementor-element.elementor-element-4c4499cf amp-anim{max-width:100%}.elementor-11 .elementor-element.elementor-element-535c79b1 .elementor-heading-title{font-size:18px}.elementor-11 .elementor-element.elementor-element-1ebad653{width:33.33%}.elementor-11 .elementor-element.elementor-element-60f53ab8 amp-img,.elementor-11 .elementor-element.elementor-element-60f53ab8 amp-anim{max-width:100%}.elementor-11 .elementor-element.elementor-element-4bdc7044 .elementor-heading-title{font-size:18px}.elementor-11 .elementor-element.elementor-element-5587a0cd{width:33.33%}.elementor-11 .elementor-element.elementor-element-55065440 amp-img,.elementor-11 .elementor-element.elementor-element-55065440 amp-anim{max-width:100%}.elementor-11 .elementor-element.elementor-element-5e9adc30 .elementor-heading-title{font-size:18px}}.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.fa-star:before{content:""}@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;font-display:block;src:url("fonts/fa-solid-900.eot");src:url("fonts/fa-solid-900.eot#iefix") format("embedded-opentype"),url("fonts/fa-solid-900.woff2") format("woff2"),url("fonts/fa-solid-900.woff") format("woff"),url("fonts/fa-solid-900.ttf") format("truetype"),url("images/fa-solid-900.svg#fontawesome") format("svg")}.fas{font-family:"Font Awesome 5 Free";font-weight:900}.contact-floating{position:fixed;bottom:0;background:#012322;width:96%;margin-bottom:4px;padding:0px;z-index:99;margin-left:2%;margin-right:2%;display:flex;border-radius:20px;justify-content:center}.contact-floating amp-img,.contact-floating amp-anim{width:20px;height:30px}.contact-floating li{display:inline-block;width:31.8%;text-align:center;padding:7px 0px}.contact-floating li a{font-size:15px;color:#eafa0c}.contact-floating li i{display:block;margin:auto;background-size:22px;width:22px;height:22px}.svg-whatsapp{background-image:url("https://studiointermedia.com/images/2025/07/27/icon-whatsapp.png")}.svg-telegram{background-image:url("https://studiointermedia.com/images/2025/07/27/icon-telegram.png")}.svg-livechat{background-image:url("https://studiointermedia.com/images/2025/07/27/icon-livechat.png")}
-    ul{margin:0 0 0 0}#uc_marquee_elementor_3407b11b{white-space:nowrap;overflow:hidden;box-sizing:border-box;margin:0 auto}#uc_marquee_elementor_3407b11b div.marquee_text{display:inline-block;padding-left:100%;animation:marquee 20s linear infinite}@keyframes marquee{0%{transform:translate(0,0)}100%{transform:translate(-100%,0)}}@keyframes marquee_flip{0%{transform:translate(-100%,0)}100%{transform:translate(0,0)}}#uc_marquee_elementor_3407b11b a{text-decoration:none}
 
-/*# sourceURL=amp-custom.css */</style>
-<!-- Start Scheme -->
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://aulaccharnerhotel.com/site/","url":"https://aulaccharnerhotel.com/site/","name":"TOTO123: Slot Online Qris 2025 | Maxwin Tiap Hari, Tanpa Settingan","isPartOf":{"@id":"https://aulaccharnerhotel.com/site/#website"},"about":{"@id":"https://aulaccharnerhotel.com/site/#organization"},"primaryImageOfPage":{"@id":"https://aulaccharnerhotel.com/site/#primaryimage"},"image":{"@id":"https://aulaccharnerhotel.com/site/#primaryimage"},"thumbnailUrl":"https://studiointermedia.com/images/2025/07/27/icon.png","datePublished":"2023-03-11T10:49:02+00:00","dateModified":"2023-10-21T08:41:53+00:00","description":"TOTO123 hadir dengan slot Qris viral 2025! Gacor tiap hari, tanpa settingan, maxwin bukan mimpi. Deposit cepet, WD kilat, bonus menanti tiap login. Jangan cuma lihat orang lain menang gabung sekarang & buktiin sendiri!","breadcrumb":{"@id":"https://aulaccharnerhotel.com/site/#breadcrumb"},"inLanguage":"id","potentialAction":[{"@type":"ReadAction","target":["https://aulaccharnerhotel.com/site/"]}]},{"@type":"ImageObject","inLanguage":"id","@id":"https://aulaccharnerhotel.com/site/#primaryimage","url":"https://studiointermedia.com/images/2025/07/27/icon.png","contentUrl":"https://studiointermedia.com/images/2025/07/27/icon.png","width":512,"height":512,"caption":"Favicon Toto123"},{"@type":"BreadcrumbList","@id":"https://aulaccharnerhotel.com/site/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Beranda"}]},{"@type":"WebSite","@id":"https://aulaccharnerhotel.com/site/#website","url":"https://aulaccharnerhotel.com/site/","name":"Toto123","description":"","publisher":{"@id":"https://aulaccharnerhotel.com/site/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://aulaccharnerhotel.com/site/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"id"},{"@type":"Organization","@id":"https://aulaccharnerhotel.com/site/#organization","name":"Toto123","url":"https://aulaccharnerhotel.com/site/","logo":{"@type":"ImageObject","inLanguage":"id","@id":"https://aulaccharnerhotel.com/site/#/schema/logo/image/","url":"https://studiointermedia.com/images/2025/07/27/toto123.png","contentUrl":"https://studiointermedia.com/images/2025/07/27/toto123.png","width":350,"height":100,"caption":"Toto123"},"image":{"@id":"https://aulaccharnerhotel.com/site/#/schema/logo/image/"}}]}</script><link rel="alternate" type="application/rss+xml" title="Toto123 » Feed" href="https://aulaccharnerhotel.com/site/feed/"><link rel="alternate" type="application/rss+xml" title="Toto123 » Umpan Komentar" href="https://aulaccharnerhotel.com/site/comments/feed/"><link rel="https://api.w.org/" href="https://aulaccharnerhotel.com/site/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://aulaccharnerhotel.com/site/wp-json/wp/v2/pages/11"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aulaccharnerhotel.com/site/xmlrpc.php?rsd"><link rel="shortlink" href="https://aulaccharnerhotel.com/site/"><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://aulaccharnerhotel.com/site/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fm%2F"><link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://aulaccharnerhotel.com/site/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F&amp;format=xml"><link rel="apple-touch-icon" href="https://studiointermedia.com/images/2025/07/27/icon.png"><title>TOTO123: Slot Online Qris 2025 | Maxwin Tiap Hari, Tanpa Settingan</title></head>
-<body class="home page-template page-template-elementor_canvas page page-id-11 wp-custom-logo ast-header-break-point ast-amp ast-page-builder-template ast-no-sidebar astra-4.1.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-page-153 ast-normal-title-enabled elementor-default elementor-template-canvas elementor-kit-8 elementor-page elementor-page-11">
-            <div data-elementor-type="wp-page" data-elementor-id="11" class="elementor elementor-11" data-elementor-post-type="page">
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-6bd1c4e6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6bd1c4e6" data-element_type="section" data-settings='{"background_background":"classic"}'>
-                            <div class="elementor-background-overlay"></div>
-                            <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-403f9380" data-id="403f9380" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-2a70e524 elementor-widget elementor-widget-image" data-id="2a70e524" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                        <a href="/">
-                            <amp-img width="350" height="100" src="https://studiointermedia.com/images/2025/07/27/toto123.png" class="attachment-full size-full wp-image-133 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="Logo Toto123" srcset="https://studiointermedia.com/images/2025/07/27/toto123.png 350w, https://studiointermedia.com/images/2025/07/27/toto123.png 300w" sizes="(max-width: 350px) 100vw, 350px" layout="intrinsic" disable-inline-width="" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEwMCIgd2lkdGg9IjM1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img decoding="async" width="350" height="100" src="https://studiointermedia.com/images/2025/07/27/toto123.png" alt="Logo Toto123" srcset="https://studiointermedia.com/images/2025/07/27/toto123.png 350w, https://studiointermedia.com/images/2025/07/27/toto123.png 300w" sizes="(max-width: 350px) 100vw, 350px"></noscript></amp-img>								</a>
-                                                    </div>
-                </div>
-                    </div>
-        </div>
-        <!-- End Scheme -->
-                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1d220d3f" data-id="1d220d3f" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-2254211d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2254211d" data-element_type="section">
-                        <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-687c57e4" data-id="687c57e4" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-4c39206f elementor-widget elementor-widget-image" data-id="4c39206f" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                
-        </div>
-                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6ca87319" data-id="6ca87319" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-3407b11b elementor-widget elementor-widget-ucaddon_marquee" data-id="3407b11b" data-element_type="widget" data-widget_type="ucaddon_marquee.default">
-                <div class="elementor-widget-container">
-            
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/">
+                Pragmatic Play
+            </a>
+        </li>
+
+        <li><a href="https://felsokrisztina.net/FK_lap/">
+                Nex4D
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/">
+                MicroGaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/">
+                Habanero
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/">
+                PG Slots
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/">
+                Jili
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/">
+                Reel Kingdom by Pragmatic
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/">
+                ION Casino
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/">
+                Playstar
+            </a>
+        </li>                                </ul>
+                                    </article>
+                                </details>
+                            </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>
+                                                Slots
+                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
+                                            </section>
+                                        </summary>
+                                        <article>
+                                                <ul>
 
 
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/pragmatic">
+                Pragmatic Play
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/microgaming">
+                MicroGaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/pgsoft">
+                PG Slots
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/reel-kingdom">
+                Reel Kingdom by Pragmatic
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/advantplay">
+                AdvantPlay
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/no-limit-city">
+                No Limit City
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/habanero">
+                Habanero
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/joker">
+                Joker
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/jili">
+                Jili
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/spinix">
+                Spinix
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/crowd-play">
+                Crowd Play
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/live22">
+                Live22
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/playstar">
+                Playstar
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/bigpot">
+                Bigpot
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/vpower">
+                VPower
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/worldmatch">
+                Worldmatch
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/fachai">
+                Fachai
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/slot88">
+                Slot88
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/ion-slot">
+                ION Slot
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/amb-slot">
+                AMB Slot
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/mario-club">
+                Mario Club
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/dragoonsoft">
+                Dragoonsoft
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/spade-gaming">
+                Spade Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/fun-gaming">
+                Fun Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/naga-games">
+                Naga Games
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/jdb">
+                JDB
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/cq9">
+                CQ9
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/ttg">
+                Top Trend Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/skywind">
+                Skywind
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/playtech">
+                Playtech
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/yggdrasil">
+                Yggdrasil
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/playngo">
+                Play&#39;n Go
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/real-time-gaming">
+                Real Time Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Flow Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/funky-games">
+                Funky Games
+            </a>
+        </li>                                        </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>
+                                                Live Casino
+                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img></section>
+                                        </summary>
+                                        <article>
+                                                <ul>
 
 
-        </div>
-                </div>
-                    </div>
-        </div>
-                    </div>
-        </section>
-                    </div>
-        </div>
-                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6fe0ea" data-id="6fe0ea" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-3739ea33 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3739ea33" data-element_type="section">
-                        <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-770a2e13" data-id="770a2e13" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-5f5b5090 elementor-align-justify elementor-widget elementor-widget-button" data-id="5f5b5090" data-element_type="widget" data-widget_type="button.default">
-                <div class="elementor-widget-container">
-                            <div class="elementor-button-wrapper">
-                    <a class="elementor-button elementor-button-link elementor-size-xs" href="https://logintoto123.store/toto123" rel="nofollow">
-                        <span class="elementor-button-content-wrapper">
-                                    <span class="elementor-button-text">MASUK</span>
-                    </span>
-                    </a>
-                </div>
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                ION Casino
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/casino/pragmatic">
+                PP Casino
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                MG Live
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/casino/evo-gaming">
+                Evo Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Sexy Baccarat
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Pretty Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Asia Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                AllBet
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                PGS Live
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                SA Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Ebet
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Dream Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                568Win Casino
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                HKB
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                SV388
+            </a>
+        </li>                                        </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>
+                                                Olahraga
+                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
+                                            </section>
+                                        </summary>
+                                        <article>
+                                                <ul>
+
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                SBO Sportsbook
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Saba Sportsbook
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Opus
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                WBet
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                IM Sportsbook
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Pinnacle
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                CMD
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                SBO Virtual Sports
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                PP Virtual Sports
+            </a>
+        </li>                                        </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>
+                                                Crash Game
+                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
+                                            </section>
+                                        </summary>
+                                        <article>
+                                                <ul>
+
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/pragmatic">
+                PP Casino
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/spribe">
+                Spribe
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/microgaming">
+                MicroGaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/spinix">
+                Spinix
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/advantplay-mini-game">
+                AdvantPlay Mini Game
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/joker">
+                Joker
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/dragoonsoft">
+                Dragoonsoft
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/funky-games">
+                Funky Games
+            </a>
+        </li>                                        </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>
+                                                Arcade
+                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
+                                            </section>
+                                        </summary>
+                                        <article>
+                                                <ul>
+
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/microgaming">
+                MicroGaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/spinix">
+                Spinix
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/spribe">
+                Spribe
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/joker">Joker
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/fachai">
+                Fachai
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/jili">
+                Jili
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/amb-slot">
+                AMB Slot
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/crowd-play">
+                Crowd Play
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/vpower">
+                VPower
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/worldmatch">
+                Worldmatch
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/mario-club">
+                Mario Club
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/dragoonsoft">
+                Dragoonsoft
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/live22">
+                Live22
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/cq9">
+                CQ9
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/spade-gaming">
+                Spade Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/fun-gaming">
+                Fun Gaming
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/arcadia">
+                Arcadia
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                MM Tangkas
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/skywind">
+                Skywind
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/playstar">
+                Playstar
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/advantplay-mini-game">
+                AdvantPlay Mini Game
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/jdb">
+                JDB
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/funky-games">
+                Funky Games
+            </a>
+        </li>                                        </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>
+                                                Poker
+                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
+                                            </section>
+                                        </summary>
+                                        <article>
+                                                <ul>
+
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Balak Play
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                9Gaming
+            </a>
+        </li>                                        </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>
+                                                E-Sports
+                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
+                                            </section>
+                                        </summary>
+                                        <article>
+                                                <ul>
+
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                IM Esports
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Pinnacle E-Sports
+            </a>
+        </li>
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                TF Gaming
+            </a>
+        </li>                                        </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>
+                                                Togel
+                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
+                                            </section>
+                                        </summary>
+                                        <article>
+                                                <ul>
+
+
+        <li>
+            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
+                Nex4D
+            </a>
+        </li>                                        </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                        </ul>
+                    </article>
+                </details>
+            </li>
+            <li>
+                <a href="https://felsokrisztina.net/FK_lap/desktop/home">
+                    <amp-img layout="fixed" height="18" width="18" src="login.svg" alt="Masuk"></amp-img>
+                    Masuk
+                </a>
+            </li>
+            <li>
+                <a href="https://felsokrisztina.net/FK_lap/desktop/home" rel="nofollow">
+                    <amp-img layout="fixed" height="18" width="18" src="desktop.svg" alt="Versi Desktop"></amp-img>
+                    Versi Desktop
+                </a>
+            </li>
+        </ul>
+    </amp-sidebar>
+    <div class="logo-container">
+            <a href="https://felsokrisztina.net/FK_lap/" class="logo">
+                <amp-img layout="fill" src="https://studiointermedia.com/images/2025/01/08/toto123.png" alt="" noloading></amp-img>
+            </a>
+        <a class="site-menu-hamburger" on="tap:site-menu">
+            <label class="site-menu-trigger">
+                <i data-icon="menu"></i>
+            </label>
+        </a>
+    </div>
+
+    <amp-carousel class="carousel-container" layout="responsive" width="1920" height="613" type="slides" autoplay delay="5000" loop>
+            <a href="https://logintoto123.store/toto123" target="_self">
+                <amp-img title="DANA BANTUAN SLOT" src="https://studiointermedia.com/images/2025/07/26/toto123terbaik.jpeg" alt="DANA BANTUAN SLOT" width="1920" height="613" layout="responsive"></amp-img>
+            </a>
+    </amp-carousel>
+    <div class="link-container container">
+        <a href="https://logintoto123.store/toto123" class="register-button">Daftar</a>
+        <a href="https://logintoto123.store/toto123" class="login-button">Masuk</a>
+    </div>
+    <ul class="main-menu-container container">
+    <li>
+        <a href="https://felsokrisztina.net/FK_lap/">
+            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/hot-games.png" alt="Hot Games"></amp-img>
+            Hot Games
+        </a>
+    </li>
+    <li>
+        <a href="https://felsokrisztina.net/FK_lap/">
+            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/slots.png" alt="Slots"></amp-img>
+            Slots
+        </a>
+    </li>
+    <li>
+        <a href="https://felsokrisztina.net/FK_lap/">
+            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/casino.png" alt="Live Casino"></amp-img>
+            Live Casino
+        </a>
+    </li>
+    <li>
+        <a href="https://felsokrisztina.net/FK_lap/">
+            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/sports.png" alt="Olahraga"></amp-img>
+            Olahraga
+        </a>
+    </li>
+    <li>
+        <a href="https://felsokrisztina.net/FK_lap/">
+            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/crash-game.png" alt="Crash Game"></amp-img>
+            Crash Game
+        </a>
+    </li>
+    <li>
+        <a href="https://felsokrisztina.net/FK_lap/">
+            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/arcade.png" alt="Arcade"></amp-img>
+            Arcade
+        </a>
+    </li>
+    <li>
+        <a href="https://felsokrisztina.net/FK_lap/">
+            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/poker.png" alt="Poker"></amp-img>
+            Poker
+        </a>
+    </li>
+    <li>
+        <a href="https://felsokrisztina.net/FK_lap/">
+            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/e-sports.png" alt="E-Sports"></amp-img>
+            E-Sports
+        </a>
+    </li>
+    <li>
+        <a href="https://felsokrisztina.net/FK_lap/">
+            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/others.png" alt="Togel"></amp-img>
+            Togel
+        </a>
+    </li>
+
+    </ul>
+        <div class="download-apk-container" style="--image-src: url(download-apk-background.png);">
+            <div>
+                <amp-img layout="responsive" width="857" height="651" src="https://studiointermedia.com/images/2025/07/26/download-apk-phone.png" alt="Unduh APK"></amp-img>
+            </div>
+            <div>
+                <h2>
+                    Unduh APK
+                </h2>
+                <h3>
+                    Nikmati berbagai permainan dalam satu genggaman
+                </h3>
+                <div class="download-apk-info">
+                    <div class="download-apk-section">
+                        <div>
+                            <amp-img layout="intrinsic" width="100" height="100" src="https://studiointermedia.com/images/2025/07/26/android-logo.png" alt="Unduh Android APK"></amp-img>
                         </div>
-                </div>
+                        <a href="https://logintoto123.store/toto123">Unduh</a>
                     </div>
+                </div>
+                <div>
+                    <button on="tap:lightbox-popup" class="download-apk-guide">Panduan instalasi</button>
+                </div>
+            </div>
+            <amp-lightbox id="lightbox-popup" layout="nodisplay">
+                <div class="modal popup-modal" on="tap:lightbox-popup.close" role="button" tabindex="0">
+                    <div id="apk_install_guide_modal" class="modal popup-modal" role="dialog" data-title="Panduan Instalasi" aria-hidden="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+                <h4 class="modal-title" id="apk_install_guide_modal_title">
+                    Panduan Instalasi
+                </h4>
+            </div>
+            <div class="modal-body" id="apk_install_guide_modal_body">
+                <h5><amp-img layout="intrinsic" width="20" height="20" src="android-logo.svg" alt="Android"></amp-img> Instalasi Android</h5>
+                <ol>
+                    <li>
+                        Pindai kode QR untuk Android
+                    </li>
+                    <li>
+                        Pilih buka situs web
+                    </li>
+                    <li>
+                        Pilih "UNDUH" untuk mengunduh APK Kami
+                    </li>
+                    <li>
+                        Pilih "PENGATURAN"
+                    </li>
+                    <li>
+                        Pilih "Mengizinkan" dari sumber kami
+                    </li>
+                    <li>
+                        Pilih "Terima"
+                    </li>
+                    <li>
+                        Pilih "INSTAL"
+                    </li>
+                </ol>
+            </div>
         </div>
-                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-472ca10a" data-id="472ca10a" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-4730f366 elementor-align-justify elementor-widget elementor-widget-button" data-id="4730f366" data-element_type="widget" data-widget_type="button.default">
-                <div class="elementor-widget-container">
-                            <div class="elementor-button-wrapper">
-                    <a class="elementor-button elementor-button-link elementor-size-xs" href="https://logintoto123.store/toto123" rel="nofollow">
-                        <span class="elementor-button-content-wrapper">
-                                    <span class="elementor-button-text">DAFTAR</span>
-                    </span>
+    </div>
+</div>
+                </div>
+            </amp-lightbox>
+        </div>
+    <footer class="footer-container container">
+        <ul class="social-media-list">
+                <li>
+                    <a href="https://logintoto123.store/toto123" target="_blank" rel="nofollow">
+                        <amp-img layout="intrinsic" height="32" width="32" src="https://studiointermedia.com/images/2025/07/26/Facebook.png"></amp-img>
                     </a>
-                </div>
-                        </div>
-                </div>
-                    </div>
+                </li>
+                <li>
+                    <a href="https://logintoto123.store/toto123" target="_blank" rel="nofollow">
+                        <amp-img layout="intrinsic" height="32" width="32" src="https://studiointermedia.com/images/2025/07/26/Instagram.png"></amp-img>
+                    </a>
+                </li>
+        </ul>
+        <ul class="bank-list">
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/bca.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/bni.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/bri.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/danamon.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/permata.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/btpn.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="false"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/panin.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/maybank.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/bjb.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/07/26/shopeepay.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="false"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/07/26/telkomsel.png"></amp-img>
+                </li>
+                <li>
+                    <span data-online="true"></span>
+                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/07/26/xl.png"></amp-img>
+                </li>
+        </ul>
+        <ul class="footer-links">
+                <li>
+                    <a href="https://felsokrisztina.net/FK_lap/about-us" rel="nofollow" target="_blank">Tentang TOTO123</a>
+                </li>
+                <li>
+                    <a href="https://felsokrisztina.net/FK_lap/responsible-gaming" rel="nofollow" target="_blank">Responsible Gambling</a>
+                </li>
+                <li>
+                    <a href="https://felsokrisztina.net/FK_lap/faq" rel="nofollow" target="_blank">Pusat Bantuan</a>
+                </li>
+                <li>
+                    <a href="https://felsokrisztina.net/FK_lap/terms-of-use" rel="nofollow" target="_blank">Syarat dan Ketentuan umum</a>
+                </li>
+        </ul>
+        <div class="site-description">
+            <h1 style="text-align:center">TOTO123 ⚜️ LINK SITUS GACOR SLOT SERVER THAILAND PALING GAMPANG MENANG HARI INI!</h1>
+			<p style="text-align:justify">
+                <a style="color: #ffff00;" href="https://felsokrisztina.net/FK_lap/">Situs slot gacor</a> yang saat ini kami rekomendasikan mengandung RTP tertinggi di seluruh Indonesia, sehingga permainan kami pastikan mudah menang dengan modal kecil. Situs gacor server Thailand merupakan salah satu akses login situs slot gacor server Thailand yang memiliki permainan populer dengan RTP tertinggi untuk meningkatkan pengalaman bermain Anda. Sebagai situs resmi yang beredar di wilayah Indonesia, tentu saja <a href="https://felsokrisztina.net/FK_lap/">TOTO123</a> sudah memiliki izin dan diawasi langsung oleh OJK. Tunggu apalagi? Buruan login dan rasakan sensasi bermain judi slot online mudah menang malam ini.
+    
+    </p>
+        <div class="copyright">
+            <div>
+            </div>
         </div>
-                    </div>
-        </section>
-                    </div>
-        </div>
-                    </div>
-        </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-4a7408f elementor-section-full_width elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="4a7408f" data-element_type="section" data-settings='{"background_background":"classic"}'>
-                        <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-388c4de1" data-id="388c4de1" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-59e1dbee elementor-widget elementor-widget-image" data-id="59e1dbee" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="1920" height="613" src="https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg" class="attachment-full size-full wp-image-99 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="Toto123 Desktop" srcset="https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1920w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 300w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1024w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 768w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" layout="intrinsic" disable-inline-width="" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjU4MiIgd2lkdGg9IjIwMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="1920" height="613" src="https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg" alt="Toto123 Desktop" srcset="https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1920w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 300w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1024w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 768w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1536w" sizes="(max-width: 1920px) 100vw, 1920px"></noscript></amp-img>													</div>
-                </div>
-                    </div>
-        </div>
-                    </div>
-        </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-13dd51bc elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default" data-id="13dd51bc" data-element_type="section" data-settings='{"background_background":"classic"}'>
-                        <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-63613b8a" data-id="63613b8a" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-88d2e74 elementor-widget elementor-widget-image" data-id="88d2e74" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="1080" height="613" src="https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg" class="attachment-full size-full wp-image-100 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="Toto123 Mobile" srcset="https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1080w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 300w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1024w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 768w" sizes="(max-width: 1080px) 100vw, 1080px" layout="intrinsic" disable-inline-width="" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjU4MiIgd2lkdGg9IjEwODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="1080" height="613" src="https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg" alt="Toto123 Mobile" srcset="https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1080w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 300w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 1024w, https://studiointermedia.com/images/2025/07/27/toto123slotonline.jpeg 768w" sizes="(max-width: 1080px) 100vw, 1080px"></noscript></amp-img>													</div>
-                </div>
-                    </div>
-        </div>
-                    </div>
-        </section> <!-- GIF JP-->
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-5f8ac44c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f8ac44c" data-element_type="section">
-                        <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1cb24ece" data-id="1cb24ece" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-7eb04440 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image" data-id="7eb04440" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-anim width="640" height="183" src="https://studiointermedia.com/images/2025/07/27/tips-menang.gif" class="attachment-full size-full wp-image-101 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="Toto123 Jackpot" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE4MyIgd2lkdGg9IjY0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="640" height="183" src="https://studiointermedia.com/images/2025/07/27/tips-menang.gif" alt="Toto123 Jackpot"></noscript></amp-anim>													</div>
-                </div>
-                <div class="elementor-element elementor-element-3ccd43ee elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="3ccd43ee" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-anim width="910" height="110" src="https://studiointermedia.com/images/2025/07/27/jackpot-2.gif" class="attachment-full size-full wp-image-102 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="Toto123 Jackpot" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjExMCIgd2lkdGg9IjkxMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="910" height="110" src="https://studiointermedia.com/images/2025/07/27/jackpot-2.gif" alt="Toto123 Jackpot"></noscript></amp-anim>													</div>
-                </div>
-                    </div>
-        </div>
-                    </div>
-        </section>
-                
-        </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-543aa9ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="543aa9ff" data-element_type="section">
-                        <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6d4bc199" data-id="6d4bc199" data-element_type="column" data-settings='{"background_background":"gradient"}'>
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-24f67669 elementor-widget elementor-widget-heading" data-id="24f67669" data-element_type="widget" data-widget_type="heading.default">
-                <div class="elementor-widget-container">
-            <p class="elementor-heading-title elementor-size-default">Tersedia Semua Koleksi Games Online Terpanas</p>		</div>
-                </div>
-                <div class="elementor-element elementor-element-7ef040f elementor-widget elementor-widget-image" data-id="7ef040f" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="1024" height="233" src="https://studiointermedia.com/images/2025/07/27/top-video-games.webp" class="elementor-animation-float attachment-large size-large wp-image-107 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" srcset="https://studiointermedia.com/images/2025/07/27/top-video-games.webp 1024w, https://studiointermedia.com/images/2025/07/27/top-video-games.webp 300w, https://studiointermedia.com/images/2025/07/27/top-video-games.webp 768w, https://studiointermedia.com/images/2025/07/27/top-video-games.webp 1029w" sizes="(max-width: 1024px) 100vw, 1024px" layout="intrinsic" disable-inline-width="" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzMyIgd2lkdGg9IjEwMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="1024" height="233" src="https://studiointermedia.com/images/2025/07/27/top-video-games.webp" alt="" srcset="https://studiointermedia.com/images/2025/07/27/top-video-games.webp 1024w, https://studiointermedia.com/images/2025/07/27/top-video-games.webp 300w, https://studiointermedia.com/images/2025/07/27/top-video-games.webp 768w, https://studiointermedia.com/images/2025/07/27/top-video-games.webp 1029w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></amp-img>													</div>
-                </div>
-                    </div>
-        </div>
-                    </div>
-        </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-5b373649 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5b373649" data-element_type="section">
-                        <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-3f1adf6c" data-id="3f1adf6c" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-2b028a37 elementor-widget elementor-widget-image" data-id="2b028a37" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Vivo-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-108 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Vivo-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-38321f2e elementor-widget elementor-widget-image" data-id="38321f2e" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/S128-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-109 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/S128-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-6c406fc3 elementor-widget elementor-widget-image" data-id="6c406fc3" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Joker-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-110 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Joker-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                    </div>
-        </div>
-                <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-741ded06" data-id="741ded06" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-780558b9 elementor-widget elementor-widget-image" data-id="780558b9" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Tangkasnet-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-111 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Tangkasnet-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-28a20c22 elementor-widget elementor-widget-image" data-id="28a20c22" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Playson-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-112 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Playson-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-4cc8648f elementor-widget elementor-widget-image" data-id="4cc8648f" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Habanero-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-113 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Habanero-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                    </div>
-        </div>
-                <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-10c181b3" data-id="10c181b3" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-6f13a815 elementor-widget elementor-widget-image" data-id="6f13a815" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Sv388-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-114 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Sv388-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-586bc856 elementor-widget elementor-widget-image" data-id="586bc856" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Play1628-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-115 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Play1628-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-164266be elementor-widget elementor-widget-image" data-id="164266be" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Fafa-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-116 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Fafa-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                    </div>
-        </div>
-                <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-636a7611" data-id="636a7611" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-513c680b elementor-widget elementor-widget-image" data-id="513c680b" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Spade-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-117 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Spade-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-1e4842b elementor-widget elementor-widget-image" data-id="1e4842b" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/PGsoft-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-118 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/PGsoft-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-2db508bf elementor-widget elementor-widget-image" data-id="2db508bf" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Ion-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-119 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Ion-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                    </div>
-        </div>
-                <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-34ab8bf8" data-id="34ab8bf8" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-a6e783a elementor-widget elementor-widget-image" data-id="a6e783a" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/SexyGaming-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-120 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/SexyGaming-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-6b43321a elementor-widget elementor-widget-image" data-id="6b43321a" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Pragmatic-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-121 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Pragmatic-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-3d53ffb5 elementor-widget elementor-widget-image" data-id="3d53ffb5" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/BigGaming-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-122 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/BigGaming-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                    </div>
-        </div>
-                <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-495ae47a" data-id="495ae47a" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-7b65c410 elementor-widget elementor-widget-image" data-id="7b65c410" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Sbobet-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-123 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Sbobet-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-120ab602 elementor-widget elementor-widget-image" data-id="120ab602" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Naga77-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-124 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/Naga77-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                <div class="elementor-element elementor-element-38b2af2b elementor-widget elementor-widget-image" data-id="38b2af2b" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                                                    <amp-img width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/AsiaGaming-mini.webp" class="elementor-animation-grow attachment-medium size-medium wp-image-125 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" alt="" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="></i-amphtml-sizer><noscript><img loading="lazy" decoding="async" width="300" height="150" src="https://studiointermedia.com/images/2025/07/27/AsiaGaming-mini.webp" alt=""></noscript></amp-img>													</div>
-                </div>
-                    </div>
-        </div>
-                    </div>
-        </section>
-        
-<article style="max-width: 800px; margin: 50px auto; text-align: center; color: #fff; font-family: Arial, sans-serif; line-height: 1.8;">
-  <h1 style="color: #f2f531; margin-bottom: 20px; font-size: 24px;">
-    TOTO123: Slot Online Qris 2025 | Maxwin Tiap Hari, Tanpa Settingan
-  </h1>
-  <p style="font-size: 14px; padding: 0 20px;">
-    Cari slot gacor 2025 yang bisa maxwin tiap hari tanpa settingan? <strong>TOTO123</strong> tempatnya! 
-    Main slot online sekarang makin praktis pakai Qris, cukup scan langsung gas. Gak perlu ribet transfer manual 
-    atau nunggu-nunggu konfirmasi.
-  </p>
-  <p style="font-size: 14px; padding: 0 20px;">
-    Di TOTO123, semua serba instan dan aman. Provider lengkap dari Pragmatic, Habanero, PG Soft, sampai Joker123 
-    tersedia 24 jam nonstop. RTP tinggi, fitur buy spin aktif, dan jackpot siap meledak kapan aja!
-  </p>
-  <p style="font-size: 14px; padding: 0 20px;">
-    Cocok buat pemula sampai player pro yang cari cuan real. Bonus harian, cashback, dan event spesial juga 
-    nambah peluang kamu jadi sultan slot. Yuk, buktikan sendiri sensasi maxwin tanpa settingan di TOTO123 sekarang juga!
-  </p>
-</article>
-
-
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-97d72e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="97d72e8" data-element_type="section" data-settings='{"background_background":"classic"}'>
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-47c0afa4" data-id="47c0afa4" data-element_type="column" data-settings='{"background_background":"classic"}'>
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-1da3550d elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="1da3550d" data-element_type="widget" data-widget_type="divider.default">
-                <div class="elementor-widget-container">
-                    <div class="elementor-divider">
-            <span class="elementor-divider-separator">
-                            <div class="elementor-icon elementor-divider__element">
-                    <i aria-hidden="true" class="fas fa-star"></i></div>
-                        </span>
-        </div>
-                </div>
-                </div>
-                    </div>
-        </div>
-                    </div>
-        </section>
-                </div>
-        <ul id="menu-contact-floating" class="contact-floating mobile">
-<li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73">
-<a href="https://logintoto123.store/toto123" rel="nofollow">
-<i class="svg-whatsapp svg-menu"></i> Whatsapp</a>
-</li>
-
-<li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74">
-<a href="https://logintoto123.store/toto123" rel="nofollow">
-<i class="svg-telegram svg-menu"></i> Telegram</a>
-</li>
-
-<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49">
-<a href="https://logintoto123.store/toto123" rel="nofollow">
-<i class="svg-livechat svg-menu"></i> Livechat</a>
-
-</li>
-</ul>			
-            <amp-state id="astraAmpMenuExpanded" class="i-amphtml-layout-container" i-amphtml-layout="container"><script type="application/json">false</script></amp-state>
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Bosan kalah terus? Ganti strategi kamu di <a href="https://petrikorlifebali.com/konaklama/">Toto123</a> dan rasakan bedanya!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Teman saya menang 7 juta dari shio kemarin. Katanya main di <a href="https://howzu.appkodes.in/web/">Toto123</a>. Mau coba juga?
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Katanya hoki itu dicari, bukan ditunggu. Buka <a href="https://www.horsethievestavern.com/menus/">Toto123</a> dan mulai dulu!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Banyak yang awalnya coba-coba di <a href="https://gocnhacuabo.com/donate/">Toto123</a>, eh malah jadi langganan menang!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Penasaran kenapa <a href="https://felsokrisztina.net/FK_lap/">Toto123</a> makin rame? Soalnya menangnya bukan mitos!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Togel sekarang bukan cuma soal nebak, tapi juga soal tempat. Coba di <a href="https://toto123baru.shop/">Toto123</a>!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Dulu saya skeptis. Tapi sejak kenal <a href="https://lucianaramos.com.ar/">Toto123</a>, saldo saya malah naik terus.
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Slot itu soal feeling. Kalau udah klik, hasilnya gacor! Coba aja di <a href="https://xuonggoanlac.com/">Toto123</a>.
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Main shio bukan sekadar hoki, tapi juga soal pasarnya. <a href="https://kadioglumetal.com.tr/">Toto123</a> punya semua!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Mau slot dengan sistem adil dan RTP nyata? <a href="https://www.cozummetal.com/">Toto123</a> pilihan terbaik!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Katanya hari baik buat pasang togel tuh Senin. Tapi kalo main di <a href="https://kadioglupaslanmaz.com/">Toto123</a>, tiap hari juga bisa hoki!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Cari yang aman, cepat, dan banyak pilihan? Udah pasti <a href="https://thebodyclinique.hr/">Toto123</a> jawabannya!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Gak semua situs kasih payout bener. Tapi <a href="https://mkojunkhauling.com/">Toto123</a> terbukti cair terus!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Buktikan sendiri gimana gampangnya menang di <a href="https://lasmemelasdelarana.mx/">Toto123</a> — klik dan main!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Banyak yang bilang hoki itu tempatnya. Dan mereka pilih <a href="https://londonmskcentre.co.uk/">Toto123</a>.
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Gaji bulanan numpang lewat? Coba cari penghasilan tambahan di <a href="https://lahorikababrestaurant.com/site/">Toto123</a>.
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Togel zaman sekarang beda. Langsung main dan pantau keluaran real-time di <a href="https://www.laesterillayoga.com/">Toto123</a>!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Slot bonus harian paling besar? Cek langsung di <a href="https://britearchdentistry.com/">Toto123</a> dan buktikan.
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Togel lengkap, winrate tinggi, withdraw cepat? Semua ada di <a href="https://www.usdotmedicalexaminer.com/">Toto123</a>!
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Gak cuma menang, tapi juga puas mainnya. Itulah <a href="https://samsystem.app.br/">Toto123</a>.
-</div>
-
-<div style="border-width:8px; top:-251024px; position:fixed; border-color:#57788; border-style:solid;">
-    Hari ini giliran kamu yang cuan di <a href="https://phillyphillysteaks.com/">Toto123</a> — yuk mulai!
-</div>
-
-
-</body></html>
-
-<!-- This page was created By nahkan -->
-<!-- ╭∩╮( •̀_•́ )╭∩╮ -->
+    </footer>
+    <div class="fixed-footer">
+        <a class="active" href="https://logintoto123.store/toto123">
+            <amp-img layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/home.png" alt="Beranda"></amp-img>
+            Beranda
+        </a>
+            <a href="https://logintoto123.store/toto123">
+                <amp-img layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/mobile-app.png" alt="Unduh"></amp-img>
+                Unduh
+            </a>
+        <a href="https://logintoto123.store/toto123">
+            <amp-img class="center" layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/login.png" alt="Masuk"></amp-img>
+            Masuk
+        </a>
+        <a href="https://logintoto123.store/toto123">
+            <amp-img layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/promotion.png" alt="Promosi"></amp-img>
+            Promosi
+        </a>
+        <a href="https://logintoto123.store/toto123" target="_blank" class="js_live_chat_link live-chat-link">
+            <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/live-chat.png" alt="Live Chat"></amp-img>
+            Live Chat
+        </a>
+    </div>
+</body>
+</html>
