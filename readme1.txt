@@ -1,1152 +1,636 @@
-<!doctype html>
-<html amp lang="id">
+<!DOCTYPE html>
+<html lang="id" class="">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>TOTO123 ⚜️ LINK SITUS GACOR SLOT SERVER THAILAND PALING GAMPANG MENANG HARI INI!</title>
-    <link itemprop="mainEntityOfPage" rel="canonical" href="https://felsokrisztina.net/FK_lap/">
-    <link href="https://studiointermedia.com/images/2025/01/27/fav.png" rel="shortcut icon" type="image/x-icon">
-    <meta content="TOTO123 Slot gacor yang saat ini kami rekomendasikan menawarkan RTP tertinggi di seluruh Indonesia, menjadikan permainan kami sangat mudah dimenangkan bahkan dengan modal kecil." name="description" />
-    <meta content="TOTO123,TOTO123 gacor,daftar TOTO123,agen TOTO123,TOTO123 online,TOTO123,situs TOTO123, TOTO123,judi TOTO123,situs TOTO123" name="keywords" />
-    <meta content="id-ID" property="og:locale" />
-    <meta content="website" property="og:type" />
-    <meta content="TOTO123 ⚜️ LINK SITUS GACOR SLOT SERVER THAILAND PALING GAMPANG MENANG HARI INI!" property="og:title" />
-    <meta content="TOTO123 Slot gacor yang saat ini kami rekomendasikan menawarkan RTP tertinggi di seluruh Indonesia, menjadikan permainan kami sangat mudah dimenangkan bahkan dengan modal kecil." property="og:description" />
-    <meta content="https://felsokrisztina.net/FK_lap/" property="og:url" />
-    <link rel="amphtml" href="https://mbrew.site/gacor/toto-gacor.html">
-    <meta content="TOTO123_official" property="og:site_name" />
-    <meta content="DarkGold" name="theme-color" />
-    <meta content="id-ID" name="language" />
-    <meta content="Indonesia" name="geo.region" />
-    <meta content="Indonesia" name="geo.placename" />
-    <meta content="website" name="categories" />
-    <link rel="icon" type="image/x-icon" href="https://studiointermedia.com/images/2025/01/27/fav.png" />
-    <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
-    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
-    <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
-    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
-    <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
-    <style amp-boilerplate>
-        body {
-            -webkit-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-            -moz-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-            -ms-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-            animation: -amp-start 8s steps(1,end) 0s 1 normal both
-        }
-    
-        @-webkit-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-    
-            to {
-                visibility: visible
-            }
-        }
-    
-        @-moz-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-    
-            to {
-                visibility: visible
-            }
-        }
-    
-        @-ms-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-    
-            to {
-                visibility: visible
-            }
-        }
-    
-        @-o-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-    
-            to {
-                visibility: visible
-            }
-        }
-    
-        @keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-    
-            to {
-                visibility: visible
-            }
-        }
-    </style>
-    <noscript>
-        <style amp-boilerplate>
-            body {
-                -webkit-animation: none;
-                -moz-animation: none;
-                -ms-animation: none;
-                animation: none
-            }
-        </style>
-    </noscript>
-    <style amp-custom>
-        :root{--small-font:12px;--normal-font:14px;--large-font:16px;--x-large-font:18px}body{font-size:var(--small-font);display:flex;flex-direction:column;padding-top:54px;padding-bottom:52px}a{text-decoration:none}summary{outline:none;list-style-type:none}summary::-webkit-details-marker{display:none}.container{align-self:center;margin-left:auto;margin-right:auto}.logo-container{text-align:center;padding:5px;display:flex;justify-content:center;align-items:center;position:fixed;top:0;left:0;right:0;z-index:99}.logo-container .logo{display:block;position:relative;width:180px;height:45px}.logo-container .logo amp-img{flex-grow:1}.logo-container .logo amp-img img{object-fit:contain}.site-menu{width:60%;background-color:#01091a}.site-menu amp-img{margin-right:10px}.site-menu amp-img.chevron-right{position:absolute;right:0;filter:invert(1);transition:transform .3s;transform-origin:center}.site-menu details[open]>summary>section>amp-img.chevron-right{transform:rotate(90deg)}.site-menu ul{list-style-type:none;padding:0;margin:0;font-size:var(--large-font)}.site-menu li+li,.site-menu summary,.site-menu article>ul{margin-top:2px}.site-menu li>a,.site-menu summary{display:flex;align-items:center;padding:10px 15px;background-color:#0d1b39;color:#fff;text-decoration:none;cursor:pointer}.site-menu details details summary,.site-menu details li>a{padding-left:45px;background-color:#06122c;cursor:pointer}.site-menu details details li>a{padding-left:75px;background-color:#040d20;cursor:pointer}.site-menu-hamburger{height:18px;width:18px;margin:0;position:absolute;right:25px;cursor:pointer}.site-menu-trigger [data-icon=menu]{display:inline-block;position:absolute;left:50%;top:58%;bottom:auto;right:auto;transform:translateX(-50%) translateY(-50%);width:18px;height:2px;background-color:#8e8e8e;transition:.5s ease-in-out}.site-menu-trigger [data-icon=menu]:before,.site-menu-trigger [data-icon=menu]:after{content:'';width:100%;height:100%;position:absolute;background-color:inherit;left:0}.site-menu-trigger [data-icon=menu]:before{bottom:5px}.site-menu-trigger [data-icon=menu]:after{top:5px}.link-container{display:flex;justify-content:center;font-size:var(--x-large-font);padding:0;width:100%}.link-container a{width:50%;text-align:center;padding:15px 20px;text-transform:uppercase}.login-button,.register-button{color:#fff}.main-menu-container{list-style-type:none;display:flex;flex-wrap:wrap;margin:0;padding:10px 0;background-color:#02071c}.main-menu-container li{flex-basis:calc(25% - 10px);padding:5px}.main-menu-container li a{display:flex;padding:5px 0;justify-content:center;align-items:center;flex-direction:column;color:#fff;font-size:var(--normal-font);text-transform:uppercase}.main-menu-container li amp-img{margin:8px 0}.jackpot-container{display:flex;justify-content:center;position:relative}.jackpot-container .jackpot-prize{color:#fff}.jackpot-container .jackpot-currency{color:#03ffd8}.footer-container{text-align:center}.footer-container .bank-list,.footer-container .social-media-list,.footer-container .contact-list,.footer-container .footer-links{display:flex;flex-wrap:wrap;margin:0 auto;padding:10px 0;list-style-type:none}.footer-container .contact-list li{flex-basis:50%}.footer-container .contact-list li a{margin:5px 10px;display:flex;align-items:center;background-color:#040a2a;border-radius:30px;color:#fff;font-size:var(--normal-font)}.footer-container .contact-list>li a i{display:inline-flex;align-items:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;width:36px;height:36px;margin-right:10px;border-radius:50%;background:#51c332}.footer-container .contact-list>li a i amp-img{margin:5px;flex-basis:0;-ms-flex-preferred-size:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.footer-container .social-media-list{justify-content:center}.footer-container .social-media-list li{flex-basis:25%}.footer-container .bank-list{justify-content:center}.footer-container .bank-list li{flex-basis:25%;position:relative;display:flex;justify-content:center;padding-bottom:10px;height:27px}.footer-container .bank-list span[data-online='true'],.footer-container .bank-list span[data-online='false']{width:5px;margin-right:5px;border-radius:2px}.footer-container .bank-list span[data-online='true']{background-color:#0f0}.footer-container .bank-list span[data-online='false']{background-color:#e00}.footer-container .footer-links{background-color:#0a1749;flex-wrap:wrap;justify-content:center}.footer-container .footer-links li{flex-basis:calc(25% - 3px);margin-bottom:5px}.footer-container .footer-links>li:not(:nth-child(5n+5)):not(:first-child){border-left:1px solid #fff}.footer-container .footer-links li a{padding:5px;color:#fff;font-size:var(--normal-font)}.site-description{background-color:#050c29;padding:10px}.footer-container h1,.footer-container h2,.footer-container h3,.footer-container h4{display:inline}.copyright{padding:25px 0 20px;display:flex;flex-direction:column;justify-content:center}.copyright div{padding-bottom:10px}.fixed-footer{display:flex;justify-content:space-around;position:fixed;background-color:#0a1749;padding:5px 0;left:0;right:0;bottom:0;z-index:99}.fixed-footer a{flex-basis:calc((100% - 15px*6)/5);display:flex;flex-direction:column;justify-content:center;align-items:center;color:#999}.fixed-footer a.active{color:#0195ff}@media(min-width:768px){body{font-size:var(--normal-font);padding-top:80px}.container{min-width:768px;max-width:970px}.site-menu{width:20%}.logo-container .logo{width:320px;height:70px}}@media(min-width:1200px){.container{width:1170px}}@media(min-width:992px){.container{width:970px}}
-        body{font-family:'digital_sans_ef_medium';background-color:#000418}.jackpot-prize{position:absolute;font-size:20px;bottom:20%}.jackpot-container{height:175px}.modal-dialog{background:rgba(0,0,0,.5);width:100%;height:100%;position:absolute;display:flex;align-items:center;justify-content:center}.modal-content{background:#0c0c0c;border-color:#0c0c0c;color:#bbb;flex-basis:95%;pointer-events:initial;border:0;border-radius:10px;border:5px solid #000}.modal-header{background:#0c0c0c;border-bottom-color:#333;text-align:center;border-top-left-radius:inherit;border-top-right-radius:inherit;border-bottom:0;min-height:50px;text-transform:uppercase;display:contents}.modal-content h4{color:#1b4bff}.modal-header .close{opacity:1;margin:0;color:#fff;float:right;font-size:21px;font-weight:bold;line-height:1;text-shadow:0 1px 0 #fff;background-color:transparent;border:none}.modal-body{position:relative;padding:20px}.fixed-footer{background-color:#1e274b}.fixed-footer a{background-color:inherit;flex-basis:calc((100% - 15px*6)/5);max-width:75px;color:#fff;font-size:var(--small-font)}.fixed-footer a.active{color:#ff00b2}.fixed-footer .center{transform:scale(1);background:center no-repeat;background-size:contain;background-color:inherit;border-radius:50%}.fixed-footer amp-img{max-width:40%;margin-bottom:5px}.fixed-footer .live-chat-icon{animation:pulse 3s infinite}.download-apk-container{background:var(--image-src);background-size:cover;display:flex;color:#fff;align-items:center;font-family:sans-serif}.download-apk-container .modal{font-family:'digital_sans_ef_medium'}.download-apk-container .popup-modal[data-title] .modal-title:before{content:none}.download-apk-container .popup-modal .modal-header h4{font-size:24px}.download-apk-container .popup-modal .modal-body{padding-top:0}.download-apk-container .popup-modal .modal-body img{height:20px;width:20px}.download-apk-container .popup-modal .modal-body h5{font-size:18px;color:inherit;text-transform:uppercase;margin-block-start:0;margin-block-end:0}.download-apk-container .popup-modal .modal-body ol{list-style:decimal;padding-left:5px;line-height:20px}.download-apk-container h2,.download-apk-container h3{margin:0}.download-apk-container h2{font-weight:600;font-size:var(--x-large-font);text-transform:uppercase}.download-apk-container h3{font-size:var(--small-font);font-weight:100}.download-apk-container a{font-size:var(--small-font);text-transform:uppercase}.download-apk-container>div{flex-basis:50%;text-align:center}.download-apk-container>div:first-child{align-self:flex-end}.download-apk-info{display:flex;justify-content:center;padding:7px 0}.download-apk-info>div{flex-basis:45%;max-width:45%}.download-apk-section{text-align:center;margin-right:5px}.download-apk-section a{color:#fff;text-transform:uppercase;padding:2px 0;display:block;border-radius:20px;text-align:center;background:#f69c00;background:linear-gradient(to bottom,#f69c00 0%,#d17601 100%)}.download-apk-guide{text-decoration:underline;color:#fff;background-color:transparent;border:none;text-transform:uppercase;font-size:var(--small-font)}@media(max-width:575.98px){.download-apk-section amp-img{width:50px}}
-        body{background-color:#0f0f0f}.logo-container{background-color:#151515}.site-menu{background-color:#070707}.site-menu li>a,.site-menu summary{background-color:#131313;color:#fff}.site-menu details details summary,.site-menu details li>a{background-color:#0a0a0a}.site-menu details details li>a{background-color:#070707}.site-menu-trigger [data-icon=menu]{background-color:#fae58c}.login-button,.register-button{color:#fff}.register-button{background:#fae58c;background:linear-gradient(to bottom,#fae58c,#ba8a1c)}.register-button:hover{background:#ba8a1c;background:linear-gradient(to bottom,#ba8a1c,#fae58c)}.login-button{background:#696969;background:linear-gradient(to bottom,#696969,#383838)}.login-button:hover{background:#383838;background:linear-gradient(to bottom,#383838,#696969)}.main-menu-container{background-color:#0a0a0a}.main-menu-container li a{color:#efd77f}.jackpot-container .jackpot-prize{color:#baad6b}.jackpot-container .jackpot-currency{color:#baad6b}.footer-container{color:#737373}.footer-container .contact-list li a{background-color:#0a0a0a;color:#fbeb8f}.footer-container .contact-list>li a i{background:#b9a353}.footer-container .bank-list span[data-online='true']{background-color:#0f0}.footer-container .bank-list span[data-online='false']{background-color:#e00}.footer-container .footer-links{background-color:#1d1d1d}.footer-container .footer-links>li:not(:nth-child(5n+5)):not(:first-child){border-color:#ccc}.footer-container .footer-links li a{color:#b9a353}.site-description{background-color:#080808}.fixed-footer{background-color:#1d1d1d}.fixed-footer a{color:#636363}.fixed-footer a.active{color:#ba9f6e}.modal-content h4{color:#b18f35}.download-apk-section a{color:#fff;background:#f8e689;background:linear-gradient(to bottom,#f8e689 0%,#bf8e20 100%)}@media(min-width:768px){body{background-color:#000}}
-    </style>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="_token" content="fEtWgyqBrtOno1vXIO8GbmDO15temoWuYFhHm4mf">
+<meta name="csrf-token" content="fEtWgyqBrtOno1vXIO8GbmDO15temoWuYFhHm4mf">
+<meta name="host" content="elementbike-1.mystorelogy.com/api/v1/">
+    <meta name="google" content="notranslate">
+    <meta name="robots" content="index, follow"/>
+    <meta name="rating" content="general"/>
+    <meta name="geo.region" content="id_ID"/>
+    <meta name="googlebot" content="index,follow">
+    <meta name="geo.country" content="id"/>
+    <meta name="language" content="Id-ID"/>
+    <meta name="distribution" content="global"/>
+    <meta name="geo.placename" content="Indonesia"/>
+    <meta name="author" content="KIDULTOTO"/>
+    <meta name="publisher" content="KIDULTOTO"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:locale" content="id_ID"/>
+    <meta property="og:locale:alternate" content="en_ID"/>
+<meta name="app_url" content="elementbike-1.mystorelogy.com">
+<meta name="keywords" content="KIDULTOTO, login KIDULTOTO, daftar KIDULTOTO, link KIDULTOTO, situs toto resmi, slot premium, togel online terpercaya, link login KIDULTOTO, permainan kelas atas, arena slot togel"/>
+<meta property="og:url" content="https://jaxlocksmithpro.com/">
+<link rel="amphtml" href="https://damaikidul.site/amp/kidul.html">
+<link rel="canonical" href="https://jaxlocksmithpro.com/">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://jaxlocksmithpro.com/rssfeed.xml">
+<meta property="og:site_name" content="KIDULTOTO">
+<meta property="og:type" content="product">
+<meta property="og:title" content="KIDULTOTO: Jalur Akses Vip ke Game Online dan Toto Favorit Terbaru Tahun ini">
+<meta property="og:description" content="KIDULTOTO kasih kamu akses VIP ke game online dan toto terbaru, peluang menang lebih gede! Nikmatin pengalaman main eksklusif yang aman dan seru. Gabung sekarang, menangkan hadiah besar dengan cara yang gampang dan cepat!">
+<meta property="og:image" content="https://damaikidul.site/img/kidultogel.jpeg">
+<link rel="stylesheet" href="https://elementbike.id/themes/default/assets/dist/css/styles.css">
+<meta name="description" content="KIDULTOTO kasih kamu akses VIP ke game online dan toto terbaru, peluang menang lebih gede! Nikmatin pengalaman main eksklusif yang aman dan seru. Gabung sekarang, menangkan hadiah besar dengan cara yang gampang dan cepat!">
+<link rel="shortcut icon" type="image/png" href="https://damaikidul.site/img/favicon-kidul.png">
+<title>KIDULTOTO: Jalur Akses Vip ke Game Online dan Toto Favorit Terbaru Tahun ini</title>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-L5PKFZXB4Q"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-L5PKFZXB4Q');</script>
+<style>.n-columns-2{display:grid;grid-template-columns:repeat(2,1fr);font-weight:1000}.n-columns-2 a{text-align:center;font-weight:1000px}@keyframes blink {
+  0% { box-shadow: 0px 0px 10px #11bbff; }
+  50% { box-shadow: 0px 0px 18px #1495ff; }
+  100% { box-shadow: 0px 0px 10px #11bbff; }
+}@keyframes blinking-text {
+    0% { color: #f8f8f8; }
+    50% { color: transparent; }
+    100% { color: #f8f8f8; }
+}@keyframes blinking-text1 {
+    0% { color: #FFFFFF; }
+    50% { color: transparent; }
+    100% { color: #FFFFFF; }
+}@keyframes blinking-text2 {
+    0% { color: #fafafa; }
+    25% { color: #fafafa; }
+    50% { color: transparent; }
+    75% { color: #fafafa; }
+    100% { color: #fafafa; }
+}.login,.register{color:#fff;padding:13px 10px;animation:blinking-text 1s infinite}.login,.login-button{border:1px solid #fff;background:linear-gradient(to right,#1fb8ff 0,#36bfff 100%)}.login:hover,.login-button:hover{background:linear-gradient(to right,#c9c9c9 0%,#c9c9c9 100%);border-color:#fff;animation:blink .5s infinite alternate;transition:all .3s ease-in-out;animation:blinking-text1 1s infinite}.register,.register-button{background:linear-gradient(to left,#1fb8ff 0,#36bfff 100%);border:1px solid #fff}.register:hover,.register-button:hover{background:linear-gradient(to left,#c9c9c9 0%,#c9c9c9 100%);border-color:#fff;animation:blink .5s infinite alternate;transition:all .3s ease-in-out;animation:blinking-text1 1s infinite}.col-md-6{width:1300px}}
+      .loader-container {background:#fff;bottom:0;left:0;position:fixed;right:0;top:0;z-index:9999}.loader-container .loader{display:block;position:absolute;font-size:0;color:#3af2ff;left:50%;top:50%;width:100px;height:100px;-webkit-transform:translateY(-50%) translateX(-50%);-ms-transform:translateY(-50%) translateX(-50%);transform:translateY(-50%) translateX(-50%)}.loader-container .loader img{display:block;width:100%}</style>
+<!-- End Facebook Pixel Code -->
+<style type="text/css">.product_description_content{overflow:scroll}</style>
+<script bis_use="true" type="text/javascript" charset="utf-8" data-bis-config="[&quot;facebook.com/&quot;,&quot;twitter.com/&quot;,&quot;youtube-nocookie.com/embed/&quot;,&quot;//vk.com/&quot;,&quot;//www.vk.com/&quot;,&quot;linkedin.com/&quot;,&quot;//www.linkedin.com/&quot;,&quot;//instagram.com/&quot;,&quot;//www.instagram.com/&quot;,&quot;//www.google.com/recaptcha/api2/&quot;,&quot;//hangouts.google.com/webchat/&quot;,&quot;//www.google.com/calendar/&quot;,&quot;//www.google.com/maps/embed&quot;,&quot;spotify.com/&quot;,&quot;soundcloud.com/&quot;,&quot;//player.vimeo.com/&quot;,&quot;//disqus.com/&quot;,&quot;//tgwidget.com/&quot;,&quot;//js.driftt.com/&quot;,&quot;friends2follow.com&quot;,&quot;/widget&quot;,&quot;login&quot;,&quot;//video.bigmir.net/&quot;,&quot;blogger.com&quot;,&quot;//smartlock.google.com/&quot;,&quot;//keep.google.com/&quot;,&quot;/web.tolstoycomments.com/&quot;,&quot;moz-extension://&quot;,&quot;chrome-extension://&quot;,&quot;/auth/&quot;,&quot;//analytics.google.com/&quot;,&quot;adclarity.com&quot;,&quot;paddle.com/checkout&quot;,&quot;hcaptcha.com&quot;,&quot;recaptcha.net&quot;,&quot;2captcha.com&quot;,&quot;accounts.google.com&quot;,&quot;www.google.com/shopping/customerreviews&quot;,&quot;buy.tinypass.com&quot;,&quot;gstatic.com&quot;,&quot;secureir.ebaystatic.com&quot;,&quot;docs.google.com&quot;,&quot;contacts.google.com&quot;,&quot;github.com&quot;,&quot;mail.google.com&quot;,&quot;chat.google.com&quot;,&quot;audio.xpleer.com&quot;,&quot;keepa.com&quot;,&quot;static.xx.fbcdn.net&quot;,&quot;sas.selleramp.com&quot;,&quot;1plus1.video&quot;,&quot;console.googletagservices.com&quot;,&quot;//lnkd.demdex.net/&quot;,&quot;//radar.cedexis.com/&quot;,&quot;//li.protechts.net/&quot;,&quot;challenges.cloudflare.com/&quot;,&quot;ogs.google.com&quot;]" src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executers/vi-tr.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+<style type="text/css">.fancybox-margin{margin-right:12px}</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+<style type="text/css">.fancybox-margin{margin-right:12px}</style>
 </head>
-<body>
-    <amp-sidebar class="site-menu" id="site-menu" layout="nodisplay" side="right">
-        <ul>
-            <li>
-                <a href="https://felsokrisztina.net/FK_lap/home">
-                    <amp-img layout="fixed" height="18" width="18" src="home.svg" alt="Beranda"></amp-img>
-                    Beranda
-                </a>
-            </li>
-            <li>
-                <details>
-                    <summary>
-                        <section>
-                            <span>
-                                <amp-img layout="fixed" height="18" width="18" src="hot-games.svg" alt="Games"></amp-img>
-                                Games
-                            </span>
-                            <amp-img layout="fixed" height="18" width="18" src="chevron-right.svg" class="chevron-right"></amp-img>
-                        </section>
-                    </summary>
-                    <article>
-                        <ul>
-                            <li>
-                                <details>
-                                    <summary>
-                                        <section>
-                                            Hot Games
-                                            <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
-                                        </section>
-                                    </summary>
-                                    <article><ul>
-
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/">
-                Pragmatic Play
-            </a>
-        </li>
-
-        <li><a href="https://felsokrisztina.net/FK_lap/">
-                Nex4D
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/">
-                MicroGaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/">
-                Habanero
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/">
-                PG Slots
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/">
-                Jili
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/">
-                Reel Kingdom by Pragmatic
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/">
-                ION Casino
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/">
-                Playstar
-            </a>
-        </li>                                </ul>
-                                    </article>
-                                </details>
-                            </li>
-                                <li>
-                                    <details>
-                                        <summary>
-                                            <section>
-                                                Slots
-                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
-                                            </section>
-                                        </summary>
-                                        <article>
-                                                <ul>
-
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/pragmatic">
-                Pragmatic Play
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/microgaming">
-                MicroGaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/pgsoft">
-                PG Slots
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/reel-kingdom">
-                Reel Kingdom by Pragmatic
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/advantplay">
-                AdvantPlay
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/no-limit-city">
-                No Limit City
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/habanero">
-                Habanero
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/joker">
-                Joker
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/jili">
-                Jili
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/spinix">
-                Spinix
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/crowd-play">
-                Crowd Play
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/live22">
-                Live22
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/playstar">
-                Playstar
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/bigpot">
-                Bigpot
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/vpower">
-                VPower
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/worldmatch">
-                Worldmatch
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/fachai">
-                Fachai
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/slot88">
-                Slot88
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/ion-slot">
-                ION Slot
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/amb-slot">
-                AMB Slot
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/mario-club">
-                Mario Club
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/dragoonsoft">
-                Dragoonsoft
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/spade-gaming">
-                Spade Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/fun-gaming">
-                Fun Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/naga-games">
-                Naga Games
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/jdb">
-                JDB
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/cq9">
-                CQ9
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/ttg">
-                Top Trend Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/skywind">
-                Skywind
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/playtech">
-                Playtech
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/yggdrasil">
-                Yggdrasil
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/playngo">
-                Play&#39;n Go
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/real-time-gaming">
-                Real Time Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Flow Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/slots/funky-games">
-                Funky Games
-            </a>
-        </li>                                        </ul>
-                                        </article>
-                                    </details>
-                                </li>
-                                <li>
-                                    <details>
-                                        <summary>
-                                            <section>
-                                                Live Casino
-                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img></section>
-                                        </summary>
-                                        <article>
-                                                <ul>
-
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                ION Casino
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/casino/pragmatic">
-                PP Casino
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                MG Live
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/casino/evo-gaming">
-                Evo Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Sexy Baccarat
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Pretty Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Asia Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                AllBet
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                PGS Live
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                SA Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Ebet
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Dream Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                568Win Casino
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                HKB
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                SV388
-            </a>
-        </li>                                        </ul>
-                                        </article>
-                                    </details>
-                                </li>
-                                <li>
-                                    <details>
-                                        <summary>
-                                            <section>
-                                                Olahraga
-                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
-                                            </section>
-                                        </summary>
-                                        <article>
-                                                <ul>
-
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                SBO Sportsbook
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Saba Sportsbook
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Opus
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                WBet
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                IM Sportsbook
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Pinnacle
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                CMD
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                SBO Virtual Sports
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                PP Virtual Sports
-            </a>
-        </li>                                        </ul>
-                                        </article>
-                                    </details>
-                                </li>
-                                <li>
-                                    <details>
-                                        <summary>
-                                            <section>
-                                                Crash Game
-                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
-                                            </section>
-                                        </summary>
-                                        <article>
-                                                <ul>
-
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/pragmatic">
-                PP Casino
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/spribe">
-                Spribe
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/microgaming">
-                MicroGaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/spinix">
-                Spinix
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/advantplay-mini-game">
-                AdvantPlay Mini Game
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/joker">
-                Joker
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/dragoonsoft">
-                Dragoonsoft
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/crash-game/funky-games">
-                Funky Games
-            </a>
-        </li>                                        </ul>
-                                        </article>
-                                    </details>
-                                </li>
-                                <li>
-                                    <details>
-                                        <summary>
-                                            <section>
-                                                Arcade
-                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
-                                            </section>
-                                        </summary>
-                                        <article>
-                                                <ul>
-
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/microgaming">
-                MicroGaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/spinix">
-                Spinix
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/spribe">
-                Spribe
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/joker">Joker
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/fachai">
-                Fachai
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/jili">
-                Jili
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/amb-slot">
-                AMB Slot
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/crowd-play">
-                Crowd Play
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/vpower">
-                VPower
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/worldmatch">
-                Worldmatch
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/mario-club">
-                Mario Club
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/dragoonsoft">
-                Dragoonsoft
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/live22">
-                Live22
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/cq9">
-                CQ9
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/spade-gaming">
-                Spade Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/fun-gaming">
-                Fun Gaming
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/arcadia">
-                Arcadia
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                MM Tangkas
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/skywind">
-                Skywind
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/playstar">
-                Playstar
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/advantplay-mini-game">
-                AdvantPlay Mini Game
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/jdb">
-                JDB
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/arcade/funky-games">
-                Funky Games
-            </a>
-        </li>                                        </ul>
-                                        </article>
-                                    </details>
-                                </li>
-                                <li>
-                                    <details>
-                                        <summary>
-                                            <section>
-                                                Poker
-                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
-                                            </section>
-                                        </summary>
-                                        <article>
-                                                <ul>
-
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Balak Play
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                9Gaming
-            </a>
-        </li>                                        </ul>
-                                        </article>
-                                    </details>
-                                </li>
-                                <li>
-                                    <details>
-                                        <summary>
-                                            <section>
-                                                E-Sports
-                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
-                                            </section>
-                                        </summary>
-                                        <article>
-                                                <ul>
-
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                IM Esports
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Pinnacle E-Sports
-            </a>
-        </li>
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                TF Gaming
-            </a>
-        </li>                                        </ul>
-                                        </article>
-                                    </details>
-                                </li>
-                                <li>
-                                    <details>
-                                        <summary>
-                                            <section>
-                                                Togel
-                                                <amp-img layout="fixed" height="18" width="18" src="//nx-cdn.nexus2wl.com/Images/icons/chevron-right.svg?v=20231019-3" class="chevron-right"></amp-img>
-                                            </section>
-                                        </summary>
-                                        <article>
-                                                <ul>
-
-
-        <li>
-            <a href="https://felsokrisztina.net/FK_lap/mobile/login">
-                Nex4D
-            </a>
-        </li>                                        </ul>
-                                        </article>
-                                    </details>
-                                </li>
-                        </ul>
-                    </article>
-                </details>
-            </li>
-            <li>
-                <a href="https://felsokrisztina.net/FK_lap/desktop/home">
-                    <amp-img layout="fixed" height="18" width="18" src="login.svg" alt="Masuk"></amp-img>
-                    Masuk
-                </a>
-            </li>
-            <li>
-                <a href="https://felsokrisztina.net/FK_lap/desktop/home" rel="nofollow">
-                    <amp-img layout="fixed" height="18" width="18" src="desktop.svg" alt="Versi Desktop"></amp-img>
-                    Versi Desktop
-                </a>
-            </li>
-        </ul>
-    </amp-sidebar>
-    <div class="logo-container">
-            <a href="https://felsokrisztina.net/FK_lap/" class="logo">
-                <amp-img layout="fill" src="https://studiointermedia.com/images/2025/01/08/toto123.png" alt="" noloading></amp-img>
-            </a>
-        <a class="site-menu-hamburger" on="tap:site-menu">
-            <label class="site-menu-trigger">
-                <i data-icon="menu"></i>
-            </label>
+<body class="nav-md" __processed_bb46034e-36f9-44f7-84d6-9bd4f23d9d13__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJkaXNhYmxlZCIsIkZBQ0VCT09LIjoiZGlzYWJsZWQiLCJUV0lUVEVSIjoiZGlzYWJsZWQiLCJSRURESVQiOiJkaXNhYmxlZCIsIlBJTlRFUkVTVCI6ImRpc2FibGVkIiwiSU5TVEFHUkFNIjoiZGlzYWJsZWQiLCJMSU5LRURJTiI6ImRpc2FibGVkIiwiQ09ORklHIjoiZGlzYWJsZWQifSwidmVyc2lvbiI6IjIuMC4yMCIsInNjb3JlIjoyMDAyMH1d" __processed_d6001436-4cf0-4d69-b15f-0b5515600b4a__="true">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THSMWWP" height="0" width="0" style="display:none;visibility:hidden">
+</iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="storelogy-blockout" bis_skin_checked="1">
+	<div class="loading-layout-fullblock" bis_skin_checked="1">
+		<div class="loading" style="background-image:url(https://aduh.id/frontend/images/ajax-loader.gif)" data-content="MEMUAT" bis_skin_checked="1">
+		</div>
+	</div>
+	<!-- main container of all the page elements -->
+	<div id="wrapper" bis_skin_checked="1">
+		<!-- top navigation -->
+		<header id="default-header" class="style19">
+		<!-- mt top bar start here -->
+		<!-- mt top bar end here -->
+		<div class="container" bis_skin_checked="1">
+			<!-- mt bottom bar start here -->
+			<div class="default-bottom-bar" bis_skin_checked="1">
+				<div class="row" bis_skin_checked="1">
+					<div class="col-xs-12" bis_skin_checked="1">
+						<!-- mt top social start here -->
+						<div class="col-xs-2" bis_skin_checked="1">
+							<ul class="default-top-social social-network">
+								<li>
+									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+								</li>
+								<li>
+									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+								</li>
+								<li>
+									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+								</li>
+							</ul>
+							<!-- mt top social end here --></div>
+              <div class="col-xs-8" bis_skin_checked="1">
+    <div style="width: 270px; height: 70px; display: flex; justify-content: center; align-items: center; position: relative; margin: auto;">
+        <ahref="https://jaxlocksmithpro.com/">
+            <img src="https://damaikidul.site/img/logokidultoto.png" style="width: 270px; height: 70px; object-fit: contain;">
         </a>
-    </div>
-
-    <amp-carousel class="carousel-container" layout="responsive" width="1920" height="613" type="slides" autoplay delay="5000" loop>
-            <a href="https://logintoto123.store/toto123" target="_self">
-                <amp-img title="DANA BANTUAN SLOT" src="https://studiointermedia.com/images/2025/07/26/toto123terbaik.jpeg" alt="DANA BANTUAN SLOT" width="1920" height="613" layout="responsive"></amp-img>
-            </a>
-    </amp-carousel>
-    <div class="link-container container">
-        <a href="https://logintoto123.store/toto123" class="register-button">Daftar</a>
-        <a href="https://logintoto123.store/toto123" class="login-button">Masuk</a>
-    </div>
-    <ul class="main-menu-container container">
-    <li>
-        <a href="https://felsokrisztina.net/FK_lap/">
-            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/hot-games.png" alt="Hot Games"></amp-img>
-            Hot Games
-        </a>
-    </li>
-    <li>
-        <a href="https://felsokrisztina.net/FK_lap/">
-            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/slots.png" alt="Slots"></amp-img>
-            Slots
-        </a>
-    </li>
-    <li>
-        <a href="https://felsokrisztina.net/FK_lap/">
-            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/casino.png" alt="Live Casino"></amp-img>
-            Live Casino
-        </a>
-    </li>
-    <li>
-        <a href="https://felsokrisztina.net/FK_lap/">
-            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/sports.png" alt="Olahraga"></amp-img>
-            Olahraga
-        </a>
-    </li>
-    <li>
-        <a href="https://felsokrisztina.net/FK_lap/">
-            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/crash-game.png" alt="Crash Game"></amp-img>
-            Crash Game
-        </a>
-    </li>
-    <li>
-        <a href="https://felsokrisztina.net/FK_lap/">
-            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/arcade.png" alt="Arcade"></amp-img>
-            Arcade
-        </a>
-    </li>
-    <li>
-        <a href="https://felsokrisztina.net/FK_lap/">
-            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/poker.png" alt="Poker"></amp-img>
-            Poker
-        </a>
-    </li>
-    <li>
-        <a href="https://felsokrisztina.net/FK_lap/">
-            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/e-sports.png" alt="E-Sports"></amp-img>
-            E-Sports
-        </a>
-    </li>
-    <li>
-        <a href="https://felsokrisztina.net/FK_lap/">
-            <amp-img layout="fixed" height="30" width="30" src="https://studiointermedia.com/images/2025/07/26/others.png" alt="Togel"></amp-img>
-            Togel
-        </a>
-    </li>
-
-    </ul>
-        <div class="download-apk-container" style="--image-src: url(download-apk-background.png);">
-            <div>
-                <amp-img layout="responsive" width="857" height="651" src="https://studiointermedia.com/images/2025/07/26/download-apk-phone.png" alt="Unduh APK"></amp-img>
-            </div>
-            <div>
-                <h2>
-                    Unduh APK
-                </h2>
-                <h3>
-                    Nikmati berbagai permainan dalam satu genggaman
-                </h3>
-                <div class="download-apk-info">
-                    <div class="download-apk-section">
-                        <div>
-                            <amp-img layout="intrinsic" width="100" height="100" src="https://studiointermedia.com/images/2025/07/26/android-logo.png" alt="Unduh Android APK"></amp-img>
-                        </div>
-                        <a href="https://logintoto123.store/toto123">Unduh</a>
-                    </div>
-                </div>
-                <div>
-                    <button on="tap:lightbox-popup" class="download-apk-guide">Panduan instalasi</button>
-                </div>
-            </div>
-            <amp-lightbox id="lightbox-popup" layout="nodisplay">
-                <div class="modal popup-modal" on="tap:lightbox-popup.close" role="button" tabindex="0">
-                    <div id="apk_install_guide_modal" class="modal popup-modal" role="dialog" data-title="Panduan Instalasi" aria-hidden="false">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">×</span>
-                </button>
-                <h4 class="modal-title" id="apk_install_guide_modal_title">
-                    Panduan Instalasi
-                </h4>
-            </div>
-            <div class="modal-body" id="apk_install_guide_modal_body">
-                <h5><amp-img layout="intrinsic" width="20" height="20" src="android-logo.svg" alt="Android"></amp-img> Instalasi Android</h5>
-                <ol>
-                    <li>
-                        Pindai kode QR untuk Android
-                    </li>
-                    <li>
-                        Pilih buka situs web
-                    </li>
-                    <li>
-                        Pilih "UNDUH" untuk mengunduh APK Kami
-                    </li>
-                    <li>
-                        Pilih "PENGATURAN"
-                    </li>
-                    <li>
-                        Pilih "Mengizinkan" dari sumber kami
-                    </li>
-                    <li>
-                        Pilih "Terima"
-                    </li>
-                    <li>
-                        Pilih "INSTAL"
-                    </li>
-                </ol>
-            </div>
-        </div>
     </div>
 </div>
-                </div>
-            </amp-lightbox>
-        </div>
-    <footer class="footer-container container">
-        <ul class="social-media-list">
-                <li>
-                    <a href="https://logintoto123.store/toto123" target="_blank" rel="nofollow">
-                        <amp-img layout="intrinsic" height="32" width="32" src="https://studiointermedia.com/images/2025/07/26/Facebook.png"></amp-img>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://logintoto123.store/toto123" target="_blank" rel="nofollow">
-                        <amp-img layout="intrinsic" height="32" width="32" src="https://studiointermedia.com/images/2025/07/26/Instagram.png"></amp-img>
-                    </a>
-                </li>
-        </ul>
-        <ul class="bank-list">
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/bca.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/bni.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/bri.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/danamon.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/permata.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/btpn.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="false"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/panin.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/maybank.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/06/19/bjb.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/07/26/shopeepay.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="false"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/07/26/telkomsel.png"></amp-img>
-                </li>
-                <li>
-                    <span data-online="true"></span>
-                        <amp-img layout="intrinsic" height="30" width="60" src="https://studiointermedia.com/images/2025/07/26/xl.png"></amp-img>
-                </li>
-        </ul>
-        <ul class="footer-links">
-                <li>
-                    <a href="https://felsokrisztina.net/FK_lap/about-us" rel="nofollow" target="_blank">Tentang TOTO123</a>
-                </li>
-                <li>
-                    <a href="https://felsokrisztina.net/FK_lap/responsible-gaming" rel="nofollow" target="_blank">Responsible Gambling</a>
-                </li>
-                <li>
-                    <a href="https://felsokrisztina.net/FK_lap/faq" rel="nofollow" target="_blank">Pusat Bantuan</a>
-                </li>
-                <li>
-                    <a href="https://felsokrisztina.net/FK_lap/terms-of-use" rel="nofollow" target="_blank">Syarat dan Ketentuan umum</a>
-                </li>
-        </ul>
-        <div class="site-description">
-            <h1 style="text-align:center">TOTO123 ⚜️ LINK SITUS GACOR SLOT SERVER THAILAND PALING GAMPANG MENANG HARI INI!</h1>
-			<p style="text-align:justify">
-                <a style="color: #ffff00;" href="https://felsokrisztina.net/FK_lap/">Situs slot gacor</a> yang saat ini kami rekomendasikan mengandung RTP tertinggi di seluruh Indonesia, sehingga permainan kami pastikan mudah menang dengan modal kecil. Situs gacor server Thailand merupakan salah satu akses login situs slot gacor server Thailand yang memiliki permainan populer dengan RTP tertinggi untuk meningkatkan pengalaman bermain Anda. Sebagai situs resmi yang beredar di wilayah Indonesia, tentu saja <a href="https://felsokrisztina.net/FK_lap/">TOTO123</a> sudah memiliki izin dan diawasi langsung oleh OJK. Tunggu apalagi? Buruan login dan rasakan sensasi bermain judi slot online mudah menang malam ini.
-    
-    </p>
-        <div class="copyright">
-            <div>
-            </div>
-        </div>
-    </footer>
-    <div class="fixed-footer">
-        <a class="active" href="https://logintoto123.store/toto123">
-            <amp-img layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/home.png" alt="Beranda"></amp-img>
-            Beranda
-        </a>
-            <a href="https://logintoto123.store/toto123">
-                <amp-img layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/mobile-app.png" alt="Unduh"></amp-img>
-                Unduh
-            </a>
-        <a href="https://logintoto123.store/toto123">
-            <amp-img class="center" layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/login.png" alt="Masuk"></amp-img>
-            Masuk
-        </a>
-        <a href="https://logintoto123.store/toto123">
-            <amp-img layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/promotion.png" alt="Promosi"></amp-img>
-            Promosi
-        </a>
-        <a href="https://logintoto123.store/toto123" target="_blank" class="js_live_chat_link live-chat-link">
-            <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://studiointermedia.com/images/2025/07/26/live-chat.png" alt="Live Chat"></amp-img>
-            Live Chat
-        </a>
+						<!-- mt icon list start here -->
+						<div class="col-xs-2" bis_skin_checked="1">
+							<ul class="default-icon-list">
+								<li class="hidden-lg hidden-md">
+									<a href="javascript:void(0)" class="bar-opener mobile-toggle">
+									<span class="bar"></span>
+									<span class="bar small"></span>
+									<span class="bar"></span>
+									</a>
+								</li>
+								<!-- <li id="iconSearch"><a href="javascript:void(0)" class="icon-magnifier"></a></li> -->
+								<li>
+									<a href="javascript:void(0)" id="search-button" class="icon-magnifier"></a>
+									<form action="https://jaxlocksmithpro.com/product" method="GET" id="form-search" class="navbar-form navbar-right navbar-form-search">
+										<div class="search-form-container hdn" id="search-input-container" bis_skin_checked="1">
+											<div class="search-input-group" bis_skin_checked="1">
+												<div class="form-group" bis_skin_checked="1">
+													<input type="text" id="input-product-search" name="product" placeholder="Search product." class="form-control"></div>
+											</div>
+										</div>
+									</form>
+								</li>
+								<li class="drop"><a href="javascript:void(0)" class="icon-heart cart-opener custom" id="btn-notif-wishlist"><span style="margin-bottom: -3px; display:none;" class="num" id="wishlist-count">0</span></a>
+									<!-- mt drop start here -->
+									<div class="default-drop" bis_skin_checked="1">
+										<!-- mt drop sub start here -->
+										<div class="default-drop-sub" bis_skin_checked="1">
+											<!-- mt side widget start here -->
+											<div class="default-side-widget" id="notif-wishlist-area" bis_skin_checked="1"></div>
+											<!-- mt side widget end here --></div>
+										<!-- mt drop sub end here --></div>
+									<!-- mt drop end here -->
+									<span class="default-mdropover"></span>
+								</li>
+								<li class="drop">
+									<a class="cart-opener custom" id="btn-notif-cart">
+									<span class="icon-handbag"></span>
+									<span class="num" id="cart-count" style="display: none;">0</span>
+									</a>
+									<!-- mt drop start here -->
+									<div class="default-drop" bis_skin_checked="1">
+										<!-- mt drop sub start here -->
+										<div class="default-drop-sub" bis_skin_checked="1">
+											<!-- mt side widget start here -->
+											<div class="default-side-widget" id="notif-cart-area" bis_skin_checked="1"></div>
+											<!-- mt side widget end here --></div>
+										<!-- mt drop sub end here --></div>
+									<!-- mt drop end here -->
+									<span class="default-mdropover"></span>
+								</li>
+							</ul>
+							<!-- mt icon list end here --></div>
+					</div>
+				</div>
+				<!-- mt bottom bar start here --></div>
+			<!-- mt nav holder start here -->
+			<div class="default-nav-holder text-center" bis_skin_checked="1">
+				<div class="container" bis_skin_checked="1">
+					<div class="row" bis_skin_checked="1">
+						<div class="col-xs-12" bis_skin_checked="1">
+							<!-- navigation start here -->
+							<nav id="nav">
+							<ul>
+								<li>
+									<a class="drop-linkz " href="https://jaxlocksmithpro.com/">Link KIDULTOTO</a>
+								</li>
+								<li>
+									<a href="https://jaxlocksmithpro.com/" class="active">Daftar KIDULTOTO</a>
+								</li>
+								<li>
+									<a class="drop-linkz " href="https://jaxlocksmithpro.com/">Login KIDULTOTO</a>
+								</li>
+								<li>
+									<a href="https://jaxlocksmithpro.com/" class="">Live Chat KIDULTOTO</a>
+								</li>
+								<li>
+									<a class="drop-linkz " href="https://jaxlocksmithpro.com/">Situs KIDULTOTO</a>
+								</li>
+							</ul>
+							</nav>
+							<!-- mt icon list end here --></div>
+					</div>
+				</div>
+			</div>
+			<!-- mt nav holder end here -->
+			<!-- mt side menu start here -->
+			<!-- <div class="default-side-menu">
+		<div class="default-holder">
+			<a href="javascript:void(0)" class="side-close"><span></span><span></span></a>
+			<strong class="default-side-title">MY ACCOUNT</strong>
+			<div class="default-side-widget">
+				<header>
+					<span class="default-side-subtitle">SIGN IN</span>
+					<p>Welcome back! Sign in to Your Account</p>
+				</header>
+				<form action="#">
+					<fieldset>
+						<input type="text" placeholder="Username or email address" class="input">
+						<input type="password" placeholder="Password" class="input">
+						<div class="box">
+							<span class="left"><input class="checkbox" type="checkbox" id="check1"><label for="check1">Remember Me</label></span>
+							<a href="javascript:void(0)" class="help">Help?</a>
+						</div>
+						<button type="submit" class="btn-type1">Login</button>
+					</fieldset>
+				</form>
+			</div>
+			<div class="or-divider"><span class="txt">or</span></div>
+			<div class="default-side-widget">
+				<header>
+					<span class="default-side-subtitle">CREATE NEW ACCOUNT</span>
+					<p>Create your very own account</p>
+				</header>
+				<form action="#">
+					<fieldset>
+						<input type="text" placeholder="Username or email address" class="input">
+						<button type="submit" class="btn-type1">Register</button>
+					</fieldset>
+				</form>
+			</div>
+		</div>
+	</div> -->
+			<span class="default-side-over"></span>
+		</div>
+		</header>
+		<!-- mt search popup start here -->
+		<!--<div class="default-search-popup">
+	<div class="default-holder">
+		<a href="javascript:void(0)" class="search-close"><font style="position: absolute;top: 15px;left: -7px;">Cancel</font><span></span><span></span></a>
+		<div class="default-frame">
+			<form action="https://elementbike.id/product" method="GET" id="form-search">
+        <fieldset>
+          <input type="text" id="input-product-search" name="product" placeholder="Cari nama produk.." />
+          <span hidden class="icon-microphone"></span>
+          <button class="icon-magnifier" type="submit"></button>
+        </fieldset>
+       </form>
     </div>
+  </div>
+</div> -->
+		<!-- mt search popup end here -->
+		<!-- /top navigation -->
+		<!-- page content -->
+		<div role="main" bis_skin_checked="1">
+    <div class="n-columns-2">
+                <a href="https://gunungkidul.store/kidultoto/" rel="nofollow noreferrer" class="login">LOGIN KIDULTOTO ↩</a>
+                <a href="https://gunungkidul.store/kidultoto/" rel="nofollow noreferrer" class="register">DAFTAR KIDULTOTO ↩</a>
+                </div>
+			<main id="default-main" data-group="product" data-title="product-detail-page" data-detail-id="301" data-use-variant="0" data-use-inventory="1" data-keep-buying="0"data-stock="10" data-use-wholesale="0"><section class="default-product-detail">
+			<div class="container" bis_skin_checked="1">
+				<div class="row" bis_skin_checked="1">
+					<div class="col-xs-12" bis_skin_checked="1">
+						<div class="slider slider-hidden" bis_skin_checked="1">
+							<ul class="list-unstyled comment-list">
+								<!-- <li><a href="#"><i class="fa fa-heart"></i>27</a></li>
+                    <li><a href="#"><i class="fa fa-comments"></i>12</a></li>
+                    <li><a hidden href="#"><i class="fa fa-share-alt"></i>14</a></li> -->
+							</ul>
+							<div class="product-slider slick-initialized slick-slider" bis_skin_checked="1">
+								<div aria-live="polite" class="slick-list draggable" bis_skin_checked="1">
+									<div class="slick-track" style="opacity: 1; width: 10370px;" role="listbox" bis_skin_checked="1">
+										<div class="slide slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00" bis_skin_checked="1" style="width: 590px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1; display: block;">
+											<img class="big-img" src="https://damaikidul.site/img/kidultogel.jpeg" data-zoom-image="https://damaikidul.site/img/kidultogel.jpeg" alt="KIDULTOTO: Jalur Akses Vip ke Game Online dan Toto Favorit Terbaru Tahun ini">
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							<ul class="list-unstyledpagg-slider slick-initialized slick-slider" style="opacity: 1; display: block;">
+								<div aria-live="polite" class="slick-list draggable" bis_skin_checked="1"></div>
+							</ul>
+						</div>
+            
+						<div class="detail-holder" bis_skin_checked="1">
+							<!-- <ul class="list-unstyled breadcrumbs">
+                    <li><a href="#">Chairs <i class="fa fa-angle-right"></i></a></li>
+                    <li>Daftar KIDULTOTOs</li>
+                  </ul> -->
+							<h2 id="name-product">KIDULTOTO: Jalur Akses Vip ke Game Online dan Toto Favorit Terbaru Tahun ini</h2>
+							<!-- <div class="rank-rating">
+                    <ul class="list-unstyled rating-list">
+                      <li><a href="#"><i class="fa fa-star"></i></a></li>
+                      <li><a href="#"><i class="fa fa-star"></i></a></li>
+                      <li><a href="#"><i class="fa fa-star"></i></a></li>
+                      <li><a href="#"><i class="fa fa-star-o"></i></a></li>
+                    </ul>
+                    <span class="total-price">lang("main.Reviews") (12)</span>
+                  </div> -->
+							<div class="text-holder hidden-while-not-active" bis_skin_checked="1" style="opacity: 1;">
+								<span class="price before-price" style="padding-right: 5px; display: inline-block;"><del>Rp 50.000,00</del></span>
+								<span class="price after-price" style="display: inline-block;" data-price="10000" data-wholesale-id="">Rp 10.000,00</span>
+								<div id="wholesale-list-hidden" class="hidden" bis_skin_checked="1"></div>
+							</div>
+							<div style="display:table" bis_skin_checked="1">
+								<div class="social-button line-share-button" bis_skin_checked="1">
+									<i class="fab fa-line"></i>
+								</div>
+								<div class="social-button facebook-share-button" bis_skin_checked="1">
+									<i class="fab fa-facebook-f"></i>
+								</div>
+								<div class="social-button twitter-tweet-button" bis_skin_checked="1">
+									<i class="fab fa-twitter"></i>
+								</div>
+								<div class="social-button regular-share-button" bis_skin_checked="1">
+									<i class="fa fa-share-alt"></i>
+								</div>
+							</div>
+							<form action="javascript:void(0)" class="product-form">
+								<div class="row" bis_skin_checked="1">
+									<div class="col-md-3 col-sm-4 col-xs-4" bis_skin_checked="1">
+										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
+											<label>Weight</label>
+										</div>
+									</div>
+									<div class="col-md-9 col-sm-8 col-xs-8" bis_skin_checked="1">
+										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
+											<label style="font-weight:normal"><span id="weight">888</span> gram</label>
+										</div>
+									</div><div class="col-md-3 col-sm-4 col-xs-4" bis_skin_checked="1">
+										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
+											<label>Stock</label>
+										</div>
+									</div>
+									<div class="col-md-9 col-sm-8 col-xs-8" bis_skin_checked="1">
+										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
+											<label style="font-weight:normal">
+											<span id="stock">888.888</span>
+											</label>
+										</div>
+									</div>
+								</div>
+								<div class="row" style="margin-top:20px" bis_skin_checked="1">
+									<div class="col-md-3 col-sm-4 col-xs-4 hidden-while-not-active" bis_skin_checked="1" style="opacity: 1;">
+										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
+											<label for="quantity">Total</label>
+										</div>
+									</div>
+									<div class="col-md-9 col-sm-8 col-xs-8 hidden-while-not-active" bis_skin_checked="1" style="opacity: 1;">
+										<div class="col-md-12" style="padding-left:0" bis_skin_checked="1">
+											<input type="hidden" id="id_product" value="301">
+											<input type="number" class="storelogy_numberformat input-qty" style="text-align:center" oninput="this.value=this.value.replace(/[^0-9]/g,'');" min="1" inputmode="numeric" pattern="[0-9]*" id="quantity" placeholder="1" value="1">
+										</div></div>
+								</div>
+								<br>
+								<fieldset class="add-to-cart-container">
+									<div class="p-0 col-sm-12 col-md-12" bis_skin_checked="1">
+										<div class="col-xs-12 col-sm-7 col-md-7 pt-10" style="padding-left:0" bis_skin_checked="1">
+                                            <a href="https://gunungkidul.store/kidultoto/">
+											<button type="button" id="post-varian" class="btn-type-cart" style="width:100%">Add to Cart</button></a>
+											<small id="disabled-product-notice" style="display: none;"><i class="fa fa-exclamation-triangle"></i> Produk ini tidak dapat dibeli karena bermasalah. Silahkan hubungi kami.</small>
+										</div>
+										<div class="col-xs-12 col-sm-5 col-md-5 pt-10 pr-0" bis_skin_checked="1">
+											<a class="btn-add-wishlist" data-value="301" data-id-combination="0">
+											<div id="wishlist-false-area" class=" pointer-cursor" bis_skin_checked="1">
+												<i class="fal fa-heart"></i> Add to Wishlist
+											</div>
+											<div id="wishlist-true-area" class=" hidden pointer-cursor" bis_skin_checked="1">
+												<i class="fa fa-heart"></i> Remove from WishList
+											</div>
+											</a>
+										</div>
+									</div>
+								</fieldset>
+								
+								<fieldset style="display: none;" id="not-enough-stock">
+									<div class="p-0 col-sm-12 col-md-12" bis_skin_checked="1">
+										<div class="col-xs-12 col-sm-12 col-md-12 pt-10" bis_skin_checked="1">
+											<label style="color: rgb(0, 238, 255)">Daftar KIDULTOTO in stock <span id="not-enough-stock-value">0</span></label>
+										</div>
+									</div>
+								</fieldset>
+							</form>
+							<div class="txt-wrap product_description" bis_skin_checked="1"></div>
+						</div>
+						<div id="list-price" bis_skin_checked="1">
+							<span data-var="" data-before="2724000" data-after="10000" data-weight="19500" data-use-wholesale="0" data-use-inventory="1" data-qty-stock="10" data-keep-buying="0"></span>
+						</div>
+					</div>
+				</div>
+			</div>
+			</section>
+			<!-- <div class="product-detail-tab wow fadeInUp" data-wow-delay="0.4s">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12">
+                <ul class="default-tabs text-center text-uppercase">
+                  <li><a href="#tab1" class="active">DESKRIPSI</a></li>
+                  <li><a href="#tab2">INFORMASI</a></li>
+                  <li><a href="#tab3">ULASAN (12)</a></li>
+                </ul>
+                <div class="tab-content"><div id="tab1"><p>Lorem ipsum</p></div>
+                  <div id="tab2">
+                    <p>Dolor sit amet</p>
+                  </div>
+                  <div id="tab3">
+                    <div class="product-comment">
+                      <div class="default-box">
+                        <div class="default-hold">
+                          <ul class="default-star">
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star-o"></i></li>
+                          </ul>
+                          <span class="name">John Wick</span>
+                          <time datetime="2016-01-01">09:10 Nov, 19 2016</time>
+                        </div>
+                        <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit sse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non</p>
+                      </div>
+                      <div class="default-box">
+                        <div class="default-hold">
+                          <ul class="default-star">
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star-o"></i></li><li><i class="fa fa-star-o"></i></li>
+                          </ul>
+                          <span class="name">John Wick</span>
+                          <time datetime="2016-01-01">09:10 Nov, 19 2016</time>
+                        </div>
+                        <p>Usmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit sse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non</p>
+                      </div>
+                      <form action="#" class="p-commentform">
+                        <fieldset class="hidden">
+                          <h2>Tambah Komentar</h2>
+                          <div class="default-row">
+                            <label>Rating</label>
+                            <ul class="default-star">
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star-o"></i></li>
+                              <li><i class="fa fa-star-o"></i></li>
+                            </ul>
+                          </div>
+                          <div class="default-row">
+                            <label>Nama</label>
+                            <input type="text" class="form-control"></div>
+                          <div class="default-row">
+                            <label>E-Mail</label>
+                            <input type="text" class="form-control"></div>
+                          <div class="default-row">
+                            <label>Ulasan</label>
+                            <textarea class="form-control"></textarea>
+                          </div>
+                          <button type="submit" class="btn-type4">TAMBAH ULASAN</button>
+                        </fieldset>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> -->
+			<div class="related-products wow fadeInUp mt-40" data-wow-delay="0.4s" bis_skin_checked="1" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+				<div class="container" bis_skin_checked="1">
+					<div class="row" bis_skin_checked="1">
+						<div class="col-xs-12 mt-40" bis_skin_checked="1">
+							<div class="col-md-6" bis_skin_checked="1">
+              <div style="text-align: center;">
+
+<div style="text-align: justify;">
+
+<h1 style="text-align: center;">KIDULTOTO: Jalur Akses Vip ke Game Online dan Toto Favorit Terbaru Tahun ini</h1>
+
+<p>Mau main game online dan toto dengan peluangmenang gede? <a href="https://jaxlocksmithpro.com/" style="color: #0077b6;">KIDULTOTO</a> b jawabannya! Dapatkan akses VIP eksklusif ke berbagai game online terbaru dan toto favorit, yang pastinya bikin seru dan penuh tantangan. Dengan peluang menang yang lebih besar, kamu bisa meraih keuntungan lebih cepat! Kami memberikan pengalaman bermain yang aman dan nyaman, dengan sistem yang dilengkapi teknologi enkripsi canggih untuk menjaga privasi kamu. Ga hanya itu, KIDULTOTO juga selalu memberikan update game terbaru dan menarik setiap saat.</p>
+
+<p><strong>Jadi, tunggu apa lagi? Gabung sekarang di <a href="https://jaxlocksmithpro.com/" style="color: #0077b6;">KIDULTOTO</a> dan nikmati pengalaman bermain yang lebih mudah, seru, dan pastinya lebih menguntungkan. Raih kemenangan besarmu sekarang juga!!</strong></p>
+
+</div>
+
+
+
+
+
+							<div class="row" bis_skin_checked="1"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<input type="hidden" id="product_price" value="10000">
+			<input type="hidden" id="product_id" value="301">
+			<input type="hidden" id="product_sku" value="PM8S2IHKE-301">
+			<input type="hidden" id="product_name" value="KIDULTOTO: Jalur Akses Vip ke Game Online dan Toto Favorit Terbaru Tahun ini">
+			<input type="hidden" id="product_category" value="Folding Bike">
+			<input type="hidden" id="product_use_variant" value="0"></main>
+		</div>
+		<!-- /page content -->
+		<!-- footer content -->
+		<!-- footer of the Page -->
+		<footer id="default-footer" class="style1 wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+		<!-- Footer Holder of the Page -->
+		<div class="footer-holder dark" bis_skin_checked="1">
+			<div class="row" style="padding-left:4%;padding-right:4%" bis_skin_checked="1">
+				<div class="container" style="padding:0" bis_skin_checked="1">
+					<div class="col-xs-12 col-sm-7 col-md-5 default-paddingbottomsm" bis_skin_checked="1">
+						<!-- F Widget Live Chat KIDULTOTO of the Page -->
+						<div class="f-widget-about" bis_skin_checked="1">
+							<div class="logo" bis_skin_checked="1">
+								<a href="https://gunungkidul.store/kidultoto/"><img src="https://damaikidul.site/img/favicon-kidul.png" alt="KIDULTOTO"></a>
+							</div>
+							<p>BY <b>SEO KEPET</b>
+							</p>
+							<!-- Social Network of the Page -->
+							<ul class="list-unstyled social-network">
+								<li style="">
+									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+								</li>
+								<li style="">
+									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+								</li>
+								<li style="">
+									<a href="https://jaxlocksmithpro.com/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+								</li>
+							</ul>
+							<!-- Social Network of the Page end --></div>
+						<!-- F Widget Live Chat KIDULTOTO of the Page end --></div>
+					<div class="col-xs-6 col-sm-6 col-md-2 default-paddingbottomsm" bis_skin_checked="1">
+						<div class="f-widget-news" bis_skin_checked="1">
+							<h3 class="f-widget-heading">Support</h3>
+							<ul class="list-unstyled f-widget-nav">
+								<li>
+									<a href="https://jaxlocksmithpro.com/">Live Chat KIDULTOTO</a>
+								</li>
+								<li>
+									<a href="https://jaxlocksmithpro.com/">Tentang KIDULTOTO</a>
+								</li>
+								<li>
+									<a href="https://jaxlocksmithpro.com/">FAQ</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-2 default-paddingbottomsm" bis_skin_checked="1">
+						<div class="f-widget-news" bis_skin_checked="1">
+							<h3 class="f-widget-heading">My Account</h3>
+							<ul class="list-unstyled f-widget-nav">
+								<li>
+									<a href="https://jaxlocksmithpro.com/">Profile</a>
+								</li><li>
+									<ahref="https://jaxlocksmithpro.com/">Address</a>
+								</li>
+								<li>
+									<a href="https://jaxlocksmithpro.com/">Payment Confirmation</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-6 col-md-3 text-left" bis_skin_checked="1"><!-- F Widget Live Chat KIDULTOTO of the Page -->
+						<div class="f-widget-about" bis_skin_checked="1">
+							<h3 class="f-widget-heading">Information</h3>
+							<ul class="list-unstyled address-list align-left">
+								<li>
+									<span><i class="fal fa-map-marker"></i>Jepara Kidul Terebaru, Jl. Departemen Perjudian Rakyat - Slotgacor No.KM.08, Kec. Online, Kabupaten Gacor, Toto Macau 48752, Indonesia</span>
+								</li>
+								<li>
+									<span><i class="fal fa-phone"></i>0812345345</span>
+								</li>
+								<li>
+									<span><i class="fal fa-envelope" style="margin: 1px 9px 0 0;"></i><a href="https://jaxlocksmithpro.com/"><span class="__cf_email__" data-cfemail="1d7e686e697270786f7e7c6f785d787178707873697473797273786e747c337e7270">KIDULTOTO</span></a></span>
+								</li>
+							</ul>
+						</div>
+						<!-- F Widget Live Chat KIDULTOTO of the Page end --></div>
+				</div>
+			</div>
+		</div>
+		<!-- Footer Holder of the Page end -->
+		<!-- Footer Area of the Page -->
+		<div class="footer-area" bis_skin_checked="1">
+			<div class="container" bis_skin_checked="1">
+				<div class="row" bis_skin_checked="1">
+					<div class="col-xs-12 col-sm-6" bis_skin_checked="1">
+						<p>
+							2025 © <a href="https://jaxlocksmithpro.com/">KIDULTOTO</a> - All rights reserved<br></p>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Footer Area of the Page end --></footer>
+		<!-- footer of the Page end -->
+		<!-- /footer content -->
+		<!-- W1 end here -->
+		<span id="back-top" class="fa fa-arrow-up"></span>
+		<div id="result" bis_skin_checked="1"></div>
+	</div>
+</div>
+<div id="loading-blockout" class="loading-layout-fullblock loading-blockout hidden" bis_skin_checked="1"></div>
+<!-- Custom Theme Style -->
+<iframe allow="join-ad-interest-group" data-tagging-id="G-L5PKFZXB4Q" data-load-time="1743228204641" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-L5PKFZXB4Q&amp;gacid=1132836547.1743228205&amp;gtm=45je53q1v874682840za200zb9123181947&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=102482433~102788824~102803279~102813109~102887799~102926062&amp;z=378459554" style="display: none; visibility: hidden;" bis_size="{&quot;x&quot;:0,&quot;y&quot;:315,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:315}" bis_id="fr_iwth9r1xvxj09yqk0kqu71" bis_depth="0" bis_chainid="1">
+</iframe>
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic%7cMontserrat:400,700%7cOxygen:400,300,700" rel="stylesheet" type="text/css">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","279743732741976");fbq("set","agent","tmgoogletagmanager","279743732741976");fbq("track","PageView");</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=279743732741976&amp;ev=PageView&amp;noscript=1">
+</noscript>
+<link href="https://elementbike.id/frontend/css/jquery-ui.min.css" rel="stylesheet">
+<!-- <link rel="stylesheet" href="//min.gitcdn.xyz/repo/DoclerLabs/Protip/master/protip.min.css"> -->
+<link rel="stylesheet" href="https://elementbike.id/vendors/animsition/css/animsition.min.css">
+<!-- Custom Theme Style -->
+<!-- Custom Theme Scripts -->
+<script src="https://elementbike.id/frontend/js/jquery.js"></script>
+<script defer="" src="https://elementbike.id/frontend/js/jquery-ui.min.js"></script>
+<!-- include jQuery -->
+<script defer="" src="https://elementbike.id/frontend/js/plugins.min.js"></script>
+<!-- include jQuery -->
+<script defer="" src="https://elementbike.id/frontend/js/jquery.main.min.js"></script>
+<!-- <script defer src="https://elementbike.id/frontend/js/jssor.slider.min.js"></script> -->
+<script defer="" src="https://elementbike.id/frontend/js/jquery-elevatezoom.min.js"></script>
+<script defer="" src="https://elementbike.id/frontend/js/dropzone.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallbackRecaptcha&amp;render=explicit" async="" defer=""></script>
+<!-- <script defer src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDmK86zkGzeC9jfNWy_Cy77S2_id13OV8s"></script> -->
+<script defer="" src="https://app.midtrans.com/snap/snap.js" data-client-key="Mid-client-n-EDCTgMNxci6GdR"></script>
+<!-- <script defer src="//min.gitcdn.xyz/repo/DoclerLabs/Protip/master/protip.min.js"></script> -->
+<script src="https://elementbike.id/vendors/animsition/js/animsition.min.js"></script>
+<script defer="">try{$.protip({position:"top",});}catch(e){}</script>
+<script type="text/javascript">var onloadCallbackRecaptcha=function(){var element=document.getElementById("hidden_recaptcha");if(typeof(element)!="undefined"&&element!=null){grecaptcha.render("hidden_recaptcha",{"sitekey":"6LfauYsUAAAAAH53euEmXzw4gXRVtedwKReS1THo",});resizeReCaptcha();}};function resizeReCaptcha(){var width=$("#hidden_recaptcha").parent().width();var scale=width/302;$("#hidden_recaptcha").css("transform","scale("+scale+")");$("#hidden_recaptcha").css("-webkit-transform","scale("+scale+")");$("#hidden_recaptcha").css("transform-origin","0 0");$("#hidden_recaptcha").css("-webkit-transform-origin","0 0");};</script>
+<script>var phpJsLang={validator:{invalid:"Isian tidak valid",checked:"Harus dicentang",empty:"Kolom ini harus diisi",min:"Isian terlalu sedikit",max:"Isian terlalu panjang",number_min:"Angka yang dimasukkan terlalu kecil",number_max:"Angka yang dimasukkan terlalu besar",url:"Format URL salah",number:"Isian harus angka",email:"Format alamat email salah",email_repeat:"Alamat email tidak cocok",password_repeat:"Password tidak sama",repeat:"Tidak sama",complete:"Isian tidak lengkap",select:"Silahkan pilih dari pilihan yang tersedia",date:"Format tanggal tidak valid"},};var phpJsLangx={YouMustCheckThisCheckbox:"You must check this checkbox to continue.",NoDaftar KIDULTOTOYet:"No product yet.",ClickThisButtonToResend:"Click this button to resend your activation email",ResendEmail:"Resend email.",Available:"Available",SoldOut:"Sold out",Success:"Success",InsufficientStock:"Daftar KIDULTOTO Stock Insufficient",Daftar KIDULTOTOHasBeenAdded:"Daftar KIDULTOTO has been added.",}</script>
+
+
 </body>
 </html>
