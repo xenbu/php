@@ -20,7 +20,7 @@
 <link rel="preload" as="style" href="https://cdn.jsdelivr.net/gh/xenbu/css@main/kiw.css">
 <link href="https://cdn.jsdelivr.net/gh/xenbu/css@main/kiw.css" rel="stylesheet">
 <link rel="amphtml" href="https://kudakidul.store/loncat/">
-<link rel="shortcut icon" href="https://kudakidul.store/loncat/favicon-kidul.pngg" type="image/png">
+<link rel="shortcut icon" href="https://kudakidul.store/loncat/favicon-kidul.png" type="image/png">
 <title>KIDULTOTO : LINK LOGIN RESMI UNTUK BERMAIN BERSAMA KIDULTOTO 2025 </title>
 <meta name="title" content="KIDULTOTO : LINK LOGIN RESMI UNTUK BERMAIN BERSAMA KIDULTOTO 2025">
 <link rel="canonical" href="https://www.e-antique.eu/book_books/index.php">
@@ -51,3 +51,4 @@ html{max-width:500px;margin:0 auto;background:#202124}body{color:#bdc1c6;font-fa
 </main>
 </body>
 </html>
+
